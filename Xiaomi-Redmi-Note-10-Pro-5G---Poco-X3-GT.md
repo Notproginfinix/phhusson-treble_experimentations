@@ -24,6 +24,7 @@ What's not fully functional(manual fixes attached below):
 - Bluetooth headphones
 - Backlight (screen brightness)
 - Volume scale during phone calls
+- VoLTE
 
 # Bug fixes
 - Backlight sometimes glitches: Turn on all four options under `Phh Treble Settings - Misc - Backlight`
@@ -31,4 +32,4 @@ What's not fully functional(manual fixes attached below):
 - VoLTE: Turn on all two options under `IMS features` and install IMS APK
 - Handset speaker volume not adjustable: Refer to #1908 https://github.com/phhusson/treble_experimentations/issues/1908
 
-If you found any other bugs, feel free to open an issue and @me there.
+If you found any other bugs, feel free to open an issue and @me(lyc8503) there.
