@@ -22,7 +22,6 @@
 |17 May|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/ArrowOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|May 2023|
 |16 Mar|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|May 2023|
 |13 May|LMODroid|Lynix|[Download](https://github.com/ItsLynix/pineapple1/releases/tag/LMOdroid) / [Telegram](https://t.me/lynixsuddenlypineapples/)|[GitHub](https://github.com/ItsLynix/pineapple1/releases/tag/LMOdroid)|ARM64|May 2023|
-|12 May|RisingOS|Ahnet|[Download](https://github.com/ahnet-69/treble_rising/releases)|[GitHub](https://github.com/ahnet-69/treble_rising)|ARM64|May 2023
 |07 May|LineageOS TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|May 2023|	
 |06 May|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_superior_patches)|ARM64|May 2023|
 |06 May|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|May 2023|
@@ -64,6 +63,7 @@
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|	
+|12 May|RisingOS|Ahnet|[Download](https://github.com/ahnet-69/treble_rising/releases)|[GitHub](https://github.com/ahnet-69/treble_rising)|ARM64|May 2023
 |24 Dec|Bliss OS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/BlissOS/v16.2/24122022/)| [GitHub](https://github.com/naz664/)|ARM64|Dec 2022|		
 |03 Nov|YAAP|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/YAAP/29102022)|[GitHub](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|	
 
