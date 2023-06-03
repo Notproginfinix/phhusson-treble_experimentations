@@ -26,7 +26,7 @@
 |[[Nokia 8]]|NB1||A/B|arm64|
 |[[Nokia 8 Sirocco]]|A1N|✓|A/B|arm64|
 |[[Nokia 8.1 (X7)]]|PNX|✓|A/B|arm64|
-|[Nokia 8.3 5G and Nokia 8V 5G UW](https://github.com/phhusson/treble_experimentations/wiki/Nokia-8-3-5G)|BabyGroot / BGT and RiseAgainst / RAV|✓|A/B|arm64|
+|[Nokia 8.3 5G and Nokia 8V 5G UW](https://github.com/phhusson/treble_experimentations/wiki/Nokia-8.3-5G)|BabyGroot / BGT and RiseAgainst / RAV|✓|A/B|arm64|
 |[[Nokia 9 PureView]]|AOP|✓|A/B|arm64|
 |[[Nokia C2 Tava / Tennen and 2V Tella]]|armstrong|✓|A/B|arm64|
 |[[Nokia C5 Endi]]|paramore / PMC|✓|A/B|arm64|
