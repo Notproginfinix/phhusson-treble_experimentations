@@ -89,3 +89,4 @@
 |[[Samsung Galaxy Tab S7 Plus]]|gts7xl and gts7xlwifi|✓|A/B|arm64|
 |[[Samsung Galaxy Z Flip]]|bloom|✓|A/B|arm64|
 |[[Samsung Galaxy Z Fold 2]]|f2|✓|A/B|arm64|
+|[[Samsung Galaxy S23]]|dm1q|✓|A/B|arm64|
