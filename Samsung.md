@@ -15,6 +15,7 @@
 |[[Samsung Galaxy A21s]]|a21s|✓|A/B|arm64|
 |[[Samsung Galaxy A30]]|a30|✓|A/B|arm64|
 |[[Samsung Galaxy A30s]]|a30s|✓|A/B|arm64|
+|[[Samsung Galaxy A33 5G]]|a33x|✓|A/B|arm64|
 |[[Samsung Galaxy A40]]|a40|✓|A/B|arm64|
 |[[Samsung Galaxy A50]]|a50|✓|A/B|arm64|
 |[[Samsung Galaxy A51]]|a51|✓|A/B|arm64|
@@ -79,6 +80,7 @@
 |[[Samsung Galaxy S22 (Exynos)]]|r0s|✓|A/B|arm64|
 |[[Samsung Galaxy S22 (Snapdragon)]]|r0q|✓|A/B|arm64|
 |[[Samsung Galaxy S22 Ultra (Snapdragon)]]|b0q|✓|A/B|arm64|
+|[[Samsung Galaxy S23]]|dm1q|✓|A/B|arm64|
 |[[Samsung Galaxy Tab A 8.0 (2019)]]|gtowifi and gto|✓|A (A/B after updated to One UI 2.1)|arm64|
 |[[Samsung Galaxy Tab A 10.1 (2019)]]|gta3xlwifi and gta3xl|✓|A/B|arm_binder64|
 |[[Samsung Galaxy Tab S4 10.5]]|gts4lwifi and gts4llte|✓|A|arm64|
@@ -89,4 +91,3 @@
 |[[Samsung Galaxy Tab S7 Plus]]|gts7xl and gts7xlwifi|✓|A/B|arm64|
 |[[Samsung Galaxy Z Flip]]|bloom|✓|A/B|arm64|
 |[[Samsung Galaxy Z Fold 2]]|f2|✓|A/B|arm64|
-|[[Samsung Galaxy S23]]|dm1q|✓|A/B|arm64|
