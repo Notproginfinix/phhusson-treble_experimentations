@@ -17,7 +17,7 @@
 | VoLTE                            | Not Working                                                                                                  |
 | Fingerprint                      | Not Working                                                                                                      |
 | NFC                              | Working                                                                                                      |
-| Offline Charging                 | ???????????                                                                                                   |
+| Offline Charging                 | Not tested                                                                                                 |
 | 5G                               | Not Working                                                                                                  |
 | 120Hz Refresh Rate               | Working                                                                                                      |
 | USB-C headphones and sound cards | Working with mitigations (Settings -> Phh Treble Settings -> Samsung features -> Use alternate audio policy) |
