@@ -37,6 +37,7 @@
 |[[Nokia T20]]|riddler / RDD|✓|A/B|arm64|
 |[[Nokia X10]]|scarletwitch / SCW|✓|A/B|arm64|
 |[[Nokia X20]]|quicksilver / QKS|✓|A/B|arm64|
+|[[Nokia X30]]|falcon / FCN|✓|A/B|arm64|
 |[[Nokia X100]]|deadmau5 / DM5|✓|A/B|arm64|
 |[[Nokia XR20]]|thething / TTG|✓|A/B|arm64|
 |[[Nokia XR21]]|sentry / SNT|✓|A/B|arm64|
