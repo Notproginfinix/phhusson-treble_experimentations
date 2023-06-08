@@ -38,4 +38,5 @@
 |[[Nokia X10]]|scarletwitch / SCW|✓|A/B|arm64|
 |[[Nokia X20]]|quicksilver / QKS|✓|A/B|arm64|
 |[[Nokia XR20]]|thething / TTG|✓|A/B|arm64|
+|[[Nokia XR21]]|sentry / SNT|✓|A/B|arm64|
 |[[Nokia X71]]|TAS|✓|A/B|arm64|
