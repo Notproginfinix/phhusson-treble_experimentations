@@ -13,7 +13,7 @@
 |18 May|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|May 2023|
 |25 Mar|AncientOS|Nazim|[Download](https://ancientrom.xyz/download) / [Pling](https://www.pling.com/p/1766574/) / [Telegram](https://t.me/naz_dev)|-|ARM64|Feb 2023|
 |17 Jan|LeOS 20 & T|Harvey186|[DL1](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-A13) / [DL2](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Jan 2023|
-|10 May|LefOS 2.0 BETA|Linux4|[DL](https://dl.leafos.org/beta/leaf_gsi_arm64/) / [Telegram](https://t.me/leafos)|[GitHub](https://github.com/LeafOS-Project/)|ARM64|May 2023|
+|10 May|LeafOS 2.0 BETA|Linux4|[DL](https://dl.leafos.org/beta/leaf_gsi_arm64/) / [Telegram](https://t.me/leafos)|[GitHub](https://github.com/LeafOS-Project/)|ARM64|May 2023|
 
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
