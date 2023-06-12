@@ -1,100 +1,113 @@
 # Samsung A02s (SM-A025F, SM-A025G, SM-A025M)
 
-## Custom Recoveries/Kernels/Vendors :
+## Custom Recoveries/Kernels/Vendors:
 
-TWRP (Unofficial) : [Click here](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a02s-snapdragon.4294377/)
+TWRP (Unofficial): [Click here](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a02s-snapdragon.4294377/)
 
 OrangeFox (Unofficial)**(Discontinued)***: [Click here](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a02s-snapdragon.4294377/)
 
-arm32(binder)/arm64 Custom Vendors: [Telegram](https://t.me/samsung_galaxy_m01_a01_m11_a11)
+ARM32(Binder)/ARM64 Custom vendor: [Telegram](https://t.me/samsung_galaxy_m01_a01_m11_a11)
+
+Stock recovery Patcher (Adds Fastbootd to stock recovery) : [Click here](https://github.com/tangymc/Patch-Recovery)
 
 ***VERY UNSTABLE AND DOESN'T WORK! USE TWRP!**
 
 ## NOTES (VERY IMPORTANT!) :
 
-##### About the custom vendor :
+### About the custom vendor :
 
-The custom vendor mentioned above has been created for users to run secure GSIs on this device as phh thinks that maybe the script (found in TD) that disables secondary watchdog (which blocks secure GSIs) is non-functional or doesn't work on the following device.
+As the device has a binder arch, an arm64 custom vendor was created to add arm64 support on the device. But do note that the custom vendor is very unstable and some things such as fast charging do not work on it. Has **watchdog disabled** which allows the usage of old or outdated GSIs without modifying anything.
 
-The custom vendor has secondary watchdog disabled so that users can run secure GSIs. But if phh fixes it, the arm32 vendor won't be required anymore to run secure gsis.
+Binder vendor has **watchdog disabled** which allows the usage of old or outdated GSIs without modifying anything. 
+Both custom vendors have **SELinux set to permissive**.
 
-arm32(binder) vendor functions properly as expected without any issue as it's the stock vendor with watchdog disabled.
+### About choosing the right GSI image :
 
-arm64 vendor doesn't function properly and has some issues such as fast-charging not working. Also has watchdog disabled.
+Use binder GSI images for **stock vendor and ARM32(binder) custom vendor**! Binder GSI images will either be marked as **a64** or **arm32_binder64**.
 
-##### About choosing the right GSI image :
-
-Use binder GSI images for **stock or arm32(binder) custom vendor**! Binder GSI images will either be marked as **a64** or **arm32_binder64**. 
-
-If you're using **arm64 custom vendor**, use arm64 GSIs only. arm64 GSIs will be marked as **arm64**.
+If you're using **ARM64 custom vendor**, use arm64 GSIs only. arm64 GSIs will be marked as **arm64**.
 
 Some images might have **A/B(ab)** or **A-only** variants. Use **A/B(ab)** ones.
 
-Only **non-secure and secure-on-demand** GSI images works on the stock vendor of the device.
+### Flashing a GSI image (**Custom or patched** recovery is required) :
 
-##### Flashing a GSI image :
-Either flash it as system image on TWRP (make sure it's a .img file).
+Either flash it as system image on your custom recovery (make sure it's a .img file).
 
 or
 
-Use fastboot to flash the image by using the following command (Must have TWRP) :
+Use fastboot to flash the image by using the following command(recommended)
 
 `fastboot flash system <your gsi img>`
 
-Note that you shouldn't erase data using fastboot as this will **brick the partition**. Use the **Format Data** option in TWRP to do it.
+Note that you shouldn't erase data using fastboot as this will **brick the partition**. Use the **Format Data** option in your custom recovery or **Wipe Data** on the patched recovery to do it.
 
-##### Erasing the product partition
+### Erasing the product partition (**Custom or patched** recovery is required) :
 
-First, do `fastboot erase product` and then, flash the [product_gsi.img](https://forum.xda-developers.com/attachments/product_gsi-img.5371179/) by doing `fastboot flash product product_gsi.img`.
+First, do `fastboot erase product` and then, flash the [product_gsi.img](https://forum.xda-developers.com/attachments/product_gsi-img.5371179/) by doing `fastboot flash product product_gsi.img`. 
 
-##### Other important things :
-
-In some GSI images, there will be an option to enable **Device Spoof Properties** in the **phh Treble Options** in **Settings**. **DO NOT TURN THAT ON!** Even if you did and you restarted your device, you'll have aproximately 30 secs to **turn it back off and restart to apply the changes** before the system crashes! (On Stock Vendor & Secure-on-demand GSIs only)
-
-**Do not use Universal SafetyNet Fix or any other module or hack that does the same thing as above! This will also cause the same issue.** (On Stock Vendor & Secure-on-demand GSIs only)
-
-Do not enable **Use alternate audio policy** in the **phh Treble Options**. This will result in the volume buttons not working! Disable it and restart for it to work again.
-
-If you want to be able to edit system files/make system files R/W, use **VNDKLITE** GSI images.
-
-If you're using the arm64 version of the custom vendor above, make sure to flash the Bootloop Fix.zip file on TWRP after flashing your GSI to be able to boot arm64 GSIs properly!
-
-## Installing Magisk on GSI images.
+### Installing Magisk on GSI images.
 
 - Download the Magisk APK from the following [repo](https://github.com/topjohnwu/Magisk) in releases.
   
 - In TWRP, Go to Install and select the APK and flash it.
   
 
-Note that this method only works with non-superuser GSIs. See [this](https://github.com/phhusson/treble_experimentations/wiki/Frequently-Asked-Questions-%28FAQ%29#naming-conventions-that-some-gsi-buildermaintainer-uses) to be able to identify which image is non-superuser.
+OR
 
+- De-lz4 your boot.img.lz4 found in your firmware's AP using appropriate tools and you should obtain a boot.img file.
+  
+- Install the magisk app on a phone regardless if it's rooted or not.
+  
+- Click on install and select Patch a file and select the boot.img file.
+  
+- After it's done, transfer the patched boot.img (might be found in Downloads) to your PC
+  
+- Flash the boot image by doing `fastboot erase boot` and then `fastboot flash boot <your patched boot image>`
+  
 
-***
+If you want to make system files R/W on root, use **VNDKLITE** GSIs or [this magisk module](https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs).
 
+Note that magisk should only be installed on non-superuser GSIs. See [this](https://github.com/phhusson/treble_experimentations/wiki/Frequently-Asked-Questions-%28FAQ%29#naming-conventions-that-some-gsi-buildermaintainer-uses) to be able to identify which image is non-superuser.
 
-## List of known-working GSIs (On Stock Vendor) :
+### Important things if you're going to use any old release of/outdated GSI (applies only to stock vendor) :
 
-### [LeOS](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list#:~:text=17%20Jan-,LeOS%2020%20%26%20T,-Harvey186)
-Variants : VNDK-a64-bvN/bvS , VNDKLITE-a64-bvN/bvS
+#### About old/outdated GSIs :
 
-### [Lineage OS 20 TD-Based](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list#:~:text=18%20Feb-,LineageOS%0ATD%2Dbased,-AndyYan)
+Old/Outdated GSIs means that it hasn't been updated at **June 2023 or later**.
 
-Variants : a64_bvN/bvS , a64_bvN/bvS-vndklite, a64_bgN , a64_bgN-vndklite
+#### What won't function properly and why :
 
-### [Lineage 19.1](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list#:~:text=12%20Jan-,LineageOS%2019.1,-AndyYan)
+- Secure GSIs will crash after some mins due to watchdog issues.
+  
+- Secure-on-demand GSIs will crash after some mins if you enable **Spoof Device Properties** due to watchdog issues. But you'll have aproximately 20-30 secs to turn it off before it crashes.
+  
+- Using any magisk module such as Universal SafetyNet Fix to pass SafetyNet on a magisk-rooted device will make the GSI crash due to watchdog issues.
+  
+- Alternate Audio Policy cause issues such as not being able to change volume and volume stays always on 100%.
+  
+- Call audio doesn't work
+  
 
-Variants : a64_bvN/bvS , a64_bvN/bvS-vndklite , a64_bgN , a64_bgN-vndklite
+#### Fixes that phh has implemented for that (which has been added in new and new releases of GSIs) (according to [this commit]()) :
 
-### [AOSP 13](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list#:~:text=31%20Jan-,AOSP,-TrebleDroid%20Builders)
+- Removed the script that disables watchdog from rw-system.sh.
+  
+- Added a script that pings watchdogd in vndk.rc.
+  
+- Partially fixed call audio in another commit
+  
+  - Note that this fix only works on SIM 1 and not the SIM 2. However, this won't be an issue if you have a single-sim device.
+    
 
-Variants : arm32_binder64-ab-vanilla , arm32_binder64-ab-vndklite-vanilla
+#### Implementing that fix if you're going to use an old GSI :
 
-### [AOSP 12.1](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list#:~:text=09%20Nov-,AOSP%2012.1,-Phhusson)
+Replace **rw-system.sh** (found in /system/bin) and **vndk.rc** (found in /system/etc/init) in your GSI by either :
 
-Variants : arm32_binder64-ab-vanilla/gogapps , arm32_binder64-ab-vndklite-vanilla/gogapps
+- Unpacking, replacing the files and repacking the GSI Image using appropriate tools.
+  
+- Replacing the files on a phone that has magisk installed(rooted with magisk). This requires a R/W system. See notes above on how to make your system R/W.
+  
 
-**More GSI ROMs are being tested to see if they work! So use these ones for the time being!**
+Make sure to set the appropriate permissions after replacing the files.
 
-## List of known-working GSIs (On Custom Vendor) :
-
-Almost any GSI can run on it. But some report shows that some Semi-GSIs (made by nippon) do not work!
+**For the call audio fix, use the fix made by smiley on the Telegram channel of the custom vendor found above.**
