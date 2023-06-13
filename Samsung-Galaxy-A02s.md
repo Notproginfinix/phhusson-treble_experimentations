@@ -77,9 +77,9 @@ Old/Outdated GSIs means that it hasn't been updated at **June 2023 or later**.
 
 #### What won't function properly and why :
 
-- Secure GSIs will crash after some mins due to watchdog issues.
+- Secure GSIs will crash after some secs due to watchdog issues.
   
-- Secure-on-demand GSIs will crash after some mins if you enable **Spoof Device Properties** due to watchdog issues. But you'll have aproximately 20-30 secs to turn it off before it crashes.
+- Secure-on-demand GSIs will crash after some secs if you enable **Spoof Device Properties** due to watchdog issues. But you'll have aproximately 20-30 secs to turn it off before it crashes.
   
 - Using any magisk module such as Universal SafetyNet Fix to pass SafetyNet on a magisk-rooted device will make the GSI crash due to watchdog issues.
   
