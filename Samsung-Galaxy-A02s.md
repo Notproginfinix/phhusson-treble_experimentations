@@ -96,7 +96,7 @@ Old/Outdated GSIs means that it hasn't been updated at **June 2023 or later**.
   
 - Partially fixed call audio in another commit
   
-  - Note that this fix only works on SIM 1 and not the SIM 2. However, this won't be an issue if you have a single-sim device.
+  - Note that call audio only works on SIM 1 and doesn't work on SIM 2. However, this won't be an issue if you have a single-sim device.
     
 
 #### Implementing that fix if you're going to use an old GSI :
