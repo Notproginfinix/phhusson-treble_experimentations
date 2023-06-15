@@ -58,7 +58,7 @@
 | 120Hz                     | Enable in Settings > Phh Treble Settings > Misc features > Force FPS               |
 | Auto-brightness            | Works (It can be a bit wonky so do personalize the brightness levels to your needs once and you should be good)               |
 | Proximity sensor            | Kinda works              |
-|
+
 ---
 
 **In the stock camera, everything should work (except the nightmare fuel audio from video recordings) but the quality is ass. With GCam, however, you get better quality at the cost of instability that you yourself have to tinker with to reach some stability: https://www.ytechb.com/google-camera-for-samsung-galaxy-s22-plus-and-s22-ultra/
