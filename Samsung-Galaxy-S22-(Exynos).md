@@ -38,21 +38,6 @@
 * It will bootloop so make the phone go into recovery once more, where it'll offer you to Factory Reset since the phone is having a seizure
 * Perform that factory reset and reboot
 
-## Steps to fix video recording audio 
-***You need to be rooted for this (you can hide Magisk from banking apps via Zygisk and pass CTS with the Kdragon's fix: [Kdragon's SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix/releases))***
-* Download and install the following Magisk module within the Magisk app: [Samsung Galaxy S22 Audio Policy Fix](https://www.mediafire.com/file/0iin55q7av3kl30/galaxy-s22-audio-policy-fix.zip/file)
-* Reboot
-* Go to Settings-> Phh Treble Settings -> Samsung features and enable **Use alternate audio policy**
-
-
-## How to have working video recording audio without root
-Long story short, this would encompass building a customized GSI.
-I have made a modified device tree and a build script for building a Pixel Experience GSI, so feel free to clone this if you're feeling frisky:
-https://github.com/jgudec/treble_build_pe
-
-If you're too lazy, I've made rootless Pixel Experience Plus builds with Google Apps (and other fixes) that I upload in the Telegram group mentioned below.
-
-
 ## Telegram Group
 
 [Telegram Group](https://t.me/+Ehf3IgzJw0k0NmE8)
@@ -69,11 +54,11 @@ If you're too lazy, I've made rootless Pixel Experience Plus builds with Google 
 | VoLTE                     | Unknown                                                           |
 | Fingerprint               | Works                                                             |
 | NFC                       | Works (Used 2FA key)                                              |
-| Offline Charging          | Broken                                                           |
+| Offline Charging          | Works                                                           |
 | 120Hz                     | Enable in Settings > Phh Treble Settings > Misc features > Force FPS               |
 | Auto-brightness            | Works (It can be a bit wonky so do personalize the brightness levels to your needs once and you should be good)               |
-| Proximity sensor            | Broken              |
-| Audio in video recording playback           | Fixed (see instructions above)            |
+| Proximity sensor            | Kinda works              |
+|
 ---
 
 **In the stock camera, everything should work (except the nightmare fuel audio from video recordings) but the quality is ass. With GCam, however, you get better quality at the cost of instability that you yourself have to tinker with to reach some stability: https://www.ytechb.com/google-camera-for-samsung-galaxy-s22-plus-and-s22-ultra/
