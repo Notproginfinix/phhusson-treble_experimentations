@@ -55,7 +55,7 @@
 | Fingerprint               | Works                                                             |
 | NFC                       | Works (Used 2FA key)                                              |
 | Offline Charging          | Works                                                           |
-| 120Hz                     | Enable in Settings > Phh Treble Settings > Misc features > Force FPS (Works from the get go along with Adaptive Refresh Rate in personalized PE builds)          |
+| 120Hz                     | Enable in Settings > Phh Treble Settings > Misc features > Force FPS (Works from the get go along with Adaptive Refresh Rate in personalized PE builds from the Telegram group)          |
 | Auto-brightness            | Works (It can be a bit wonky so do personalize the brightness levels to your needs once and you should be good)               |
 | Proximity sensor            | Kinda works              |
 
