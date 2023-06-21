@@ -32,9 +32,7 @@
 |03 May|Pixel Experience (Plus)|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases/) / [Telegram](https://t.me/pixelexperiencegsi)|[GitHub](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|May 2023|
 |20 Mar|SparkOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/SparkOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Feb 2023|
 |18 Mar|VoltageOS|Soli|[Download](https://github.com/Soli666/VoltageOS-GSI/releases) |[GitHub](https://github.com/Soli666)|ARM64 - Binder|Feb 2023|
-|02 Mar|OctaviOS|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://yukiprjkt.itzkaguya.workers.dev/0:/OctaviOS/)| [GitHub](https://github.com/Hirozuto/)|ARM64|Feb 2023|
 |24 Feb|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/)|[GitHub](https://github.com/j7b3y/treble_pb)|ARM64|Feb 2023|
-|11 Feb|Nusantara Project|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://yukiprjkt.itzkaguya.workers.dev/0:/NusantaraProject/)| [GitHub](https://github.com/Hirozuto/)|ARM64|Dec 2022|
 |10 Feb|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Nov 2022|
 |20 Jan|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/)|[GitHub](https://github.com/universalx-devs/rice_treble)|ARM64|Jan 2023|
 
@@ -82,7 +80,6 @@
 ## Unofficial Android 12/12L	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|17 Dec|xdroidOSS|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://yukiprjkt.itzkaguya.workers.dev/0:/xdroidOSS/)|[GitHub](https://github.com/Hirozuto)|SAR|Binder|Dec 2022|
 |18 Nov|Pixel Experience 12|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Base](https://github.com/ponces/treble_build_pe/releases/tag/v416) / [Plus](https://github.com/ponces/treble_build_pe/releases/tag/v416-plus) /[Telegram](https://t.me/pixelexperiencegsi)|[GitHub](https://github.com/ponces/treble_build_pe)|SAR|ARM64|Nov 2022|
 |23 Oct|Stag OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/StagOS/)|-|ARM64|Jul 2022|
 |20 Oct|Evolution X|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Evolution-X/)|-|ARM64|Aug 2022|
