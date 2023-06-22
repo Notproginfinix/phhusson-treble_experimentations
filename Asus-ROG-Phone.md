@@ -1,14 +1,14 @@
 ## Steps to install
 
-To have a noob-friendly guide, [check here.](https://forum.xda-developers.com/t/guide-gsi-12-gsi-install-guide-for-rog-phone-zs600kl.4463125/)
+To have a noob-friendly guide and some other useful informations, [check here](https://forum.xda-developers.com/t/4463125/).
 
 ## Hardware support
 
 | Component                 |      Comment                                                   |
 |---------------------------|----------------------------------------------------------------|
-| Camera                    | Works** (Front and Back) **(Second back Camera is not working) |
+| Camera                    | Works                                                          |
 | Speaker / Mic / Calls     | Works                                                          |
-| Bluetooth                 | Works** (Bluetooth in call, all Bluetooth codecs) **(No A2DP)  |
+| Bluetooth                 | Works                                                          |
 | WiFi                      | Works                                                          |
 | SIM / Mobile Data / Voice | Works                                                          |
 | VoLTE                     | Unknown                                                        |
@@ -24,7 +24,7 @@ To have a noob-friendly guide, [check here.](https://forum.xda-developers.com/t/
 ---
 
 ## Tested by
-* [Rocky7842](https://github.com/Rocky7842) - Z01QD, WW-16.0420.2009.39, crDroid GSI 8.6 by Nazim (Phh Treble v414), 2022/07/17
+* [Rocky7842](https://github.com/Rocky7842) - Z01QD, WW-16.0420.2009.39, crDroid GSI 9.4 by Nazim, 2023/06/22
 * [xspx](https://forum.xda-developers.com/m/xspx.9622697/) - Z01QD, WW-16.0420.2009.39, Pixel Experience, 2022/06/20
 
 Template created by [Rocky7842](https://github.com/Rocky7842)
