@@ -31,6 +31,7 @@ Since the original device list is pretty long, all supported devices are now cat
 * [[Samsung]]
 * [[Sony]]
 * [[vivo]]
+* [[Voaq]]
 * [[Xiaomi]]
 * [[ZTE and Nubia]]
 * [[Miscellaneous]]
