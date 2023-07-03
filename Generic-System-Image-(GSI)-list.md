@@ -41,7 +41,7 @@
 ## Latest Android 10, 11, 12 GSIs	
 |Updated|Image|Maintainer|Links|Sources|Partition Style|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|11 June|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|June 2023|
+|20 June|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|June 2023|
 |09 Jun|LineageOS 18.1|MeowIce| [Download](https://sourceforge.net/projects/meowice-gsi/files/LineageOS/) / [Telegram](https://t.me/meowicegsi)|-|SaR|ARM64|Jun 2023|
 |09 Jun|Pixel Experience 12 |MeowIce| [Download](https://sourceforge.net/projects/meowice-gsi/files/Pixel%20Experience%2012/) / [Telegram](https://t.me/meowicegsi)|-|SaR|ARM64|Jun 2023|
 |05 June|AOSP 12|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SAR|ARM64 - X86|June 2023|
