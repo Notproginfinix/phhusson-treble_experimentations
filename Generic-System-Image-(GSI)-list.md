@@ -49,9 +49,6 @@
 |07 Feb|/e/ OS q|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|[GitLab](https://gitlab.e.foundation/e)|non-SaR - SaR|ARM - ARM64 - Binder|Jan 2023|
 |07 Feb|AOSP 10| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)| non-SaR - SaR| ARM64 - X86|Dec 2022|
 |18 June|LeOS (19.1)|Harvey186| [Downloads](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [Telegram](https://t.me/LeOS_Support)|[GitHub](https://github.com/LeOS-GSI/LeOS-S-patches)|SAR|ARM64 - Binder|June 2023|
-|18 Jan|LeOS (R)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp)|[GitHub](https://github.com/LeOS-GSI/aosp_patches_leaos)|non-SaR - SaR|ARM - ARM64 - Binder|Jan 2023|
-|18 Jan|LeOS (Q)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp)|[GitHub](https://github.com/LeOS-GSI/treble-patches)|non-SaR - SaR|ARM - ARM64 - Binder|Jan 2023|
-
 
 
 <br>
@@ -125,6 +122,7 @@
 ## Unofficial Android 11
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|18 June|LeOS (R)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp)|[GitHub](https://github.com/LeOS-GSI/aosp_patches_leaos)|non-SaR - SaR|ARM - ARM64 - Binder|-|
 |Oct 2022|FLOS (A11)|Chondoe|[Download](https://github.com/ChonDoit/treble_flos_patches/releases/tag/A11)/[Telegram](https://t.me/elranchodecornelio/187)|[GitHub](https://github.com/ChonDoit/treble_flos_patches/tree/11)|SaR|ARM64|
 |Jul 2022|LineageOS 18.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|non-SaR - SaR|ARM - ARM64 - Binder|
 |Mar 2022|LineageOS R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LiR-Project)|non-SaR - SaR|arm - arm64 - binder|
@@ -145,6 +143,7 @@
 ## Unofficial Android 10
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
+|23/01/23|LeOS (Q)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp)|[GitHub](https://github.com/LeOS-GSI/treble-patches)|non-SaR - SaR|ARM - ARM64 - Binder|-|
 |exTHmUI 23/12/22|xiaoleGun|[Download](https://github.com/exthmui-10-treble/Release/releases)|SAR|ARM64|
 |Firmware collection|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/)|non-SaR - SaR|arm - arm64 - binder|
 |Firmware collection|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://sourceforge.net/projects/treblerom/files/)|non-SaR - SaR|arm - arm64 - binder|
