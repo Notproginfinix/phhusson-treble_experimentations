@@ -1,5 +1,7 @@
 # Huawei MediaPad M5  (SHT-W09)
 
+05/07/2023: Fashed Trebledroid 13 vanilla vndklite, all OK and offline charging works too.
+
 21/03/2022: dirty flashed squeak v411 vanilla, it boots.
 
 11/08/2021: roar-312-arm64-ab-gapps.img boots fine, most things work, but video doesn't play from within Chrome, due to what looks like problems with hardware video decoding.  This is a long standing issue, and likely to affect all previous builds also.  It's a showstopper for me sadly.
