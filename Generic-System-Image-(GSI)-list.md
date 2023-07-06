@@ -18,6 +18,7 @@
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|05 July|AlphaDroid|KoysX|[Download](https://github.com/KoysX/treble_alpha_gsi/releases)| [GitHub](https://github.com/KoysX/treble_alpha_gsi)|ARM64 - Binder|June 2023|
 |05 July|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/ArrowOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|June 2023|
 |02 July|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_superior_patches)|ARM64|July 2023|
 |02 July|Evolution X|Ponces|[Telegram](https://t.me/pixelexperiencegsi) / [Download](https://github.com/ponces/treble_build_evo/releases)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|July 2023|
