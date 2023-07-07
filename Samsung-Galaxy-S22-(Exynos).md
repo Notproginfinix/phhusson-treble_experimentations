@@ -5,7 +5,7 @@
 1.  Unlock Bootloader (Enable OEM Unlocking in Developer Options, power the phone off, hold Vol+&- while plugging in to your PC)
 2.  Download the latest firmware for your device (You can use e.g. Samfirm - google it)
 3.  Extract the archive, open up the super archive via 7Zip Z-Standard (NOT THE REGULAR 7-Zip), extract the recovery archive and then extract that one to get your own recovery.img
-4.  Patch your recovery image - you can patch it with **[Johnx22's Patch-Recovery Tool](https://github.com/Johx22/Patch-Recovery **
+4.  Patch your recovery image - you can patch it with **[Johnx22's Patch-Recovery Tool](https://github.com/Johx22/Patch-Recovery) **
 
 5.  To flash the patched recovery, extract the 'Patched-Recovery.zip' and flash the 'fastbootd-recovery.tar' via Odin (AP slot)
                    
