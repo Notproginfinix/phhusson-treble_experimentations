@@ -9,7 +9,7 @@
 
 5.  To flash the patched recovery, extract the 'Patched-Recovery.zip' and flash the 'fastbootd-recovery.tar' via Odin (AP slot)
                    
-*  _**Make sure to hold the power button and Volume Up as soon as the phone starts rebooting, otherwise the patched recovery will be overwritten by the Samsung one as soon as one boots into OneUI**_
+*  _**Make sure to hold the power button and Volume Up as soon as the phone starts rebooting, otherwise the patched recovery will be overwritten by the Samsung one when the phone boots into OneUI**_
 6.  After entering recovery, choose "Enter fastboot"
 7.  Flash an ARM64 A/B GSI with fastboot:    `fastboot flash system image.img`
 8.  Go back into recovery and Wipe Data and Cache
