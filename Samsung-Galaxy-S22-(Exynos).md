@@ -12,7 +12,7 @@
 * Follow the README file, specifically the "Driver Installation Instructions" , in my case I had to replace the SAMSUNG USB device's with the WinUSB one (make sure it's NOT the "modem" one)
 *  After that, try executing the following command within the root of Heimdall's directory: 
      `heimdall flash --RECOVERY <whatever your patched image is named>.img` 
-* An alternative is renaming the patched recovery image to 'recovery.img', putting it into a .tar archive and flashing it via Odin into the AP slot.
+* **An alternative is renaming the patched recovery image to 'recovery.img', putting it into a .tar archive and flashing it via Odin into the AP slot.**
                   
 * Make sure to hold the power button and Volume Up as soon as the phone starts rebooting, otherwise the patched recovery will be overwritten by the Samsung one as soon as one boots into OneUI
 * After entering recovery, choose "Enter fastboot"
