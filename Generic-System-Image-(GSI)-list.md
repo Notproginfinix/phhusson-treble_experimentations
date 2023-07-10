@@ -60,43 +60,43 @@
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|12 May|RisingOS|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_rising/releases)|[GitHub](https://github.com/ahnet-69/treble_rising)|ARM64|May 2023
-|24 Dec|Bliss OS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/BlissOS/v16.2/24122022/)| [GitHub](https://github.com/naz664/)|ARM64|Dec 2022|
-|03 Nov|YAAP|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/YAAP/29102022)|[GitHub](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
+|May 2022|RisingOS|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_rising/releases)|[GitHub](https://github.com/ahnet-69/treble_rising)|ARM64|May 2023
+|Dec 2022|Bliss OS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/BlissOS/v16.2/24122022/)| [GitHub](https://github.com/naz664/)|ARM64|Dec 2022|
+|Nov 2022|YAAP|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/YAAP/29102022)|[GitHub](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
 
 
 ## Official Android 12/12L
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|09 Nov|AOSP 12.1|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|[GitHub](https://github.com/phhusson/treble_experimentations)|SAR|ARM64 - Binder|July 2022|
-|09 Oct|Corvus OS|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Downloads](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Unofficial/20221008/)|[GitLab](https://gitlab.com/TipzTeam/vendor_generify)|ARM64|July 2022|
-|24 Aug|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/)/[Downloads](https://sourceforge.net/projects/ancientrom/files/gsi/V6.4/)|-|ARM64 - Binder|August 2022|
-|05 Aug|LeOS (S) discontinued|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-S-discontinued) / [Telegram](https://t.me/LeOS_Support)|-|ARM64 - Binder|August 2022|
-|27 July|KaleidoscopeOS|alk3p|[Downloads](https://kaleidoscope.ink/download.html?device=meowmobile/treble)|-|ARM64|July 2022|
-|13 June|DescendantOS|Dil3mm4|[Telegram](https://t.me/joinchat/UVg3KMbRfu4cV2lp) / [Downloads](https://downloads.descendant.me/)|[GitHub](https://github.com/Descendant/manifest)|ARM64|May 2022|
-|10 June|StatiXOS|StatiX Team|[Telegram](https://t.me/StatiXOSReleases) / [Downloads](https://downloads.statixos.com/12-GSI/)|[GitHub](https://github.com/StatiXOS/android_manifest)|ARM64|June 2022|
+|Nov 2022|AOSP 12.1|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|[GitHub](https://github.com/phhusson/treble_experimentations)|SAR|ARM64 - Binder|July 2022|
+|Oct 2022|Corvus OS|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Downloads](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Unofficial/20221008/)|[GitLab](https://gitlab.com/TipzTeam/vendor_generify)|ARM64|July 2022|
+|Aug 2022|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/)/[Downloads](https://sourceforge.net/projects/ancientrom/files/gsi/V6.4/)|-|ARM64 - Binder|August 2022|
+|Aug 2022|LeOS (S) discontinued|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-S-discontinued) / [Telegram](https://t.me/LeOS_Support)|-|ARM64 - Binder|August 2022|
+|July 2022|KaleidoscopeOS|alk3p|[Downloads](https://kaleidoscope.ink/download.html?device=meowmobile/treble)|-|ARM64|July 2022|
+|June 2022|DescendantOS|Dil3mm4|[Telegram](https://t.me/joinchat/UVg3KMbRfu4cV2lp) / [Downloads](https://downloads.descendant.me/)|[GitHub](https://github.com/Descendant/manifest)|ARM64|May 2022|
+|June 2022|StatiXOS|StatiX Team|[Telegram](https://t.me/StatiXOSReleases) / [Downloads](https://downloads.statixos.com/12-GSI/)|[GitHub](https://github.com/StatiXOS/android_manifest)|ARM64|June 2022|
 
 ## Unofficial Android 12/12L	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|18 Nov|Pixel Experience 12|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Base](https://github.com/ponces/treble_build_pe/releases/tag/v416) / [Plus](https://github.com/ponces/treble_build_pe/releases/tag/v416-plus) /[Telegram](https://t.me/pixelexperiencegsi)|[GitHub](https://github.com/ponces/treble_build_pe)|SAR|ARM64|Nov 2022|
-|23 Oct|Stag OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/StagOS/)|-|ARM64|Jul 2022|
-|20 Oct|Evolution X|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Evolution-X/)|-|ARM64|Aug 2022|
-|19 Oct|Arrow OS|Nazim|[Download](https://sourceforge.net/projects/gsi-projects/files/A12.1/ArrowOS-12.1/19102022/)|-|ARM64 - Binder|Oct 2022|
-|15 Oct|KomodoOS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/KomodoOS/)|-|ARM64|Aug 2022|
-|16 Oct|crDroid|Nazim|[Telegram](https://t.me/naz_dev/)/[Download](https://sourceforge.net/projects/gsi-projects/files/A12.1/crDroid-8.10/16102022/)|[GitHub](https://github.com/naz664/crDroid_gsi)|ARM64 - Binder|Oct 2022|
-|13 Oct|RiceDroid|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/riceDroid/)|-|ARM64|Aug 2022|
-|11 Oct|Xdroid|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/xdroid/)|-|ARM64|Aug 2022|
-|10 Oct|PixysOS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/PixysOS/)|-|ARM64|Aug 2022|
-|03 Oct|Nitrogen OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/NitrogenOS/)|-|ARM64|Aug 2022|
-|28 Sep|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/)|[GitHub](https://github.com/j7b3y/blaze_patches_unified)|ARM64|Sep 2022|
-|14 Sep|Xdroid|Nazim|[Telegram](https://t.me/naz_dev/)/[Download](https://github.com/naz664/xdroid_gsi/releases/tag/v1)|[GitHub](https://github.com/naz664/xdroid_gsi)|ARM64 - Binder|Aug 2022|
-|21 Aug|ProtonAOSP|Haridhayal|[Telegram](https://t.me/c/1772196556/5526)/[Download](https://github.com/haridhayal11/treble_proton_aosp/releases/tag/v415-21-08-2022)|[GitHub](https://github.com/haridhayal11/treble_proton_aosp)|ARM64|Jul 2022|
-|20 Aug|Awaken OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/175)/[Download](https://xiaomemeindex.com/treble/?dir=Awaken)|-|ARM64|Aug 2022|
-|19 Aug|Spark OS|Nazim|[Telegram](https://t.me/naz_dev/) /[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Aug/SparkOS-12.6-Experimental/)|-|ARM64- Binder|Aug 2022|
-|17 Aug|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/174)/[Download](https://xiaomemeindex.com/treble/?dir=Superior/12L)|-|ARM64|Aug 2022|
-|16 Aug|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/173)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|-|ARM64|Jul 2022|
-|11 Aug|dotOS|AngelaCool|[Download](https://sourceforge.net/projects/dotos-6-0-phh-gsi/files/)|[GitHub](https://github.com/AngelaCooljx/treble_build_pe)|ARM64|Jul 2022|
+|Nov 2022|Pixel Experience 12|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Base](https://github.com/ponces/treble_build_pe/releases/tag/v416) / [Plus](https://github.com/ponces/treble_build_pe/releases/tag/v416-plus) /[Telegram](https://t.me/pixelexperiencegsi)|[GitHub](https://github.com/ponces/treble_build_pe)|SAR|ARM64|Nov 2022|
+|Oct 2022|Stag OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/StagOS/)|-|ARM64|Jul 2022|
+|Oct 2022|Evolution X|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Evolution-X/)|-|ARM64|Aug 2022|
+|Oct 2022|Arrow OS|Nazim|[Download](https://sourceforge.net/projects/gsi-projects/files/A12.1/ArrowOS-12.1/19102022/)|-|ARM64 - Binder|Oct 2022|
+|Oct 2022|KomodoOS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/KomodoOS/)|-|ARM64|Aug 2022|
+|Oct 2022|crDroid|Nazim|[Telegram](https://t.me/naz_dev/)/[Download](https://sourceforge.net/projects/gsi-projects/files/A12.1/crDroid-8.10/16102022/)|[GitHub](https://github.com/naz664/crDroid_gsi)|ARM64 - Binder|Oct 2022|
+|Oct 2022|RiceDroid|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/riceDroid/)|-|ARM64|Aug 2022|
+|Oct 2022|Xdroid|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/xdroid/)|-|ARM64|Aug 2022|
+|Oct 2022|PixysOS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/PixysOS/)|-|ARM64|Aug 2022|
+|Oct 2022|Nitrogen OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/NitrogenOS/)|-|ARM64|Aug 2022|
+|Sep 2022|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/)|[GitHub](https://github.com/j7b3y/blaze_patches_unified)|ARM64|Sep 2022|
+|Sep 2022|Xdroid|Nazim|[Telegram](https://t.me/naz_dev/)/[Download](https://github.com/naz664/xdroid_gsi/releases/tag/v1)|[GitHub](https://github.com/naz664/xdroid_gsi)|ARM64 - Binder|Aug 2022|
+|Aug 2022|ProtonAOSP|Haridhayal|[Telegram](https://t.me/c/1772196556/5526)/[Download](https://github.com/haridhayal11/treble_proton_aosp/releases/tag/v415-21-08-2022)|[GitHub](https://github.com/haridhayal11/treble_proton_aosp)|ARM64|Jul 2022|
+|Aug 2022|Awaken OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/175)/[Download](https://xiaomemeindex.com/treble/?dir=Awaken)|-|ARM64|Aug 2022|
+|Aug 2022|Spark OS|Nazim|[Telegram](https://t.me/naz_dev/) /[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Aug/SparkOS-12.6-Experimental/)|-|ARM64- Binder|Aug 2022|
+|Aug 2022|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/174)/[Download](https://xiaomemeindex.com/treble/?dir=Superior/12L)|-|ARM64|Aug 2022|
+|Aug 2022|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/173)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|-|ARM64|Jul 2022|
+|Aug 2022|dotOS|AngelaCool|[Download](https://sourceforge.net/projects/dotos-6-0-phh-gsi/files/)|[GitHub](https://github.com/AngelaCooljx/treble_build_pe)|ARM64|Jul 2022|
 |Jul 2022|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64|Jul 2022|
 |Jan 2022|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|[GitHub](https://github.com/Yilliee/octavi_patches)|ARM64 - Binder|Dec 2021|
 |Dec 2021|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|-|ARM64 - Binder|Dec 2021|
@@ -123,7 +123,7 @@
 ## Unofficial Android 11
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|18 June|LeOS (R)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp)|[GitHub](https://github.com/LeOS-GSI/aosp_patches_leaos)|non-SaR - SaR|ARM - ARM64 - Binder|-|
+|June 2023|LeOS (R)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp)|[GitHub](https://github.com/LeOS-GSI/aosp_patches_leaos)|non-SaR - SaR|ARM - ARM64 - Binder|-|
 |Oct 2022|FLOS (A11)|Chondoe|[Download](https://github.com/ChonDoit/treble_flos_patches/releases/tag/A11)/[Telegram](https://t.me/elranchodecornelio/187)|[GitHub](https://github.com/ChonDoit/treble_flos_patches/tree/11)|SaR|ARM64|
 |Jul 2022|LineageOS 18.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|non-SaR - SaR|ARM - ARM64 - Binder|
 |Mar 2022|LineageOS R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LiR-Project)|non-SaR - SaR|arm - arm64 - binder|
