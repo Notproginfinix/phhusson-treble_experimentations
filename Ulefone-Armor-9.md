@@ -1,8 +1,12 @@
 # Ulefone Armor 9
-The device generally works fine. The thermal camera and endoscope apps can be incorporated into any GSI with https://github.com/phhusson/ulefone-armor-9-gsi
+The device generally works fine. The thermal camera and endoscope apps can be incorporated into any GSI with https://github.com/phhusson/ulefone-armor-9-gsi.
+
+It does use A/B images despite being an A-only device.
 
 
 So far the thermal camera works in Android12 GSIs if you set SElinux to permissive once (it's only needed once for some reason) with `setenforce 0` as root. I haven't managed to get it working on Android 13 though.
+
+All this (except thermal camera) is likely applicable to the Armor 9E.
 
 
 ## Hardware support
@@ -20,7 +24,7 @@ So far the thermal camera works in Android12 GSIs if you set SElinux to permissi
 | Offline Charging          | OK                                                    |
 
 ## Direct link to OEM Firmware
-[CUBOT_KINGKONG_MINI_9101C_V15_20200609](https://mega.nz/file/JdkwFAjL#IK4ANFAr684U89BdkCmuBHyLyyAHLczx3k1o0wB6nSM)
+[Ulefone Armor 9](https://drive.google.com/drive/folders/1PRFZ1Jytp_X9URya4pT6WLhkouFq_FoR)
 
 ---
-Tested By: @idfake - Firmware Version: CUBOT_KINGKONG_MINI_9101C_V15_20200609 - Date tested: 2021-07-15 - Template created by @zguithues and @hackintosh5
+Tested By: @ssorgatem - Date tested: 2022-07-11 - Template created by @zguithues and @hackintosh5
