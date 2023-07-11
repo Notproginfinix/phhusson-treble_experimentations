@@ -100,6 +100,7 @@
 |[[Tecno Camon X]]|TECNO-CA7|✓|A|arm64|
 |[[Teracube One]]|v7101o|✓|A/B|arm64|
 |[[Timovi Insignia Delta 3]]|n/a|✓|A|arm|
+|[[Ulefone Armor 9]]|n/a|✓|A/B|arm64|
 |[[Umidigi A7 Pro]]|A7 Pro|✓|A/B|arm64|
 |[[Umidigi Bison]]|Bison|✓|A/B|arm64|
 |[[Umidigi F2]]|F2|✓|A/B|arm64|
