@@ -1,113 +1,136 @@
-# Samsung A02s (SM-A025F, SM-A025G, SM-A025M)
+# Samsung Galaxy A02s
 
-## Custom Recoveries/Kernels/Vendors:
+| Components | Status |
+| --- | --- |
+| Camera (FRONT/BACK) | WORKING ✅/ One works but idk if the other 2 does. |
+| Speaker/Mic (TOP/BOTTOM) | WORKING ✅ / WORKING ✅ |
+| Bluetooth | WORKING ✅ |
+| Wi-Fi | WORKING ✅ |
+| SIM / Mobile Data / Voice Calls | WORKING ✅ /  WORKING ✅ / Partially works ✳️ |
+| VoLTE | Unknown ❔ |
+| Offline Charging | WORKING ✅ |
+| Normal / Fast Charging | Unknown ❔ / Unknown ❔ |
+| USB / USB OTG | WORKING ✅ / WORKING ✅ |
 
-TWRP (Unofficial): [Click here](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a02s-snapdragon.4294377/)
+##### Terms used:
 
-OrangeFox (Unofficial)**(Discontinued)***: [Click here](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a02s-snapdragon.4294377/)
+Patched recovery - Stock recovery patched with the tool.
 
-ARM32(Binder)/ARM64 Custom vendor: [Telegram](https://t.me/samsung_galaxy_m01_a01_m11_a11)
+Custom recovery - TWRP, OFOX etc...
 
-Stock recovery Patcher (Adds Fastbootd to stock recovery) : [Click here](https://github.com/tangymc/Patch-Recovery)
+## Custom recoveries/kernels/vendors
 
-***VERY UNSTABLE AND DOESN'T WORK! USE TWRP!**
-
-## NOTES (VERY IMPORTANT!) :
-
-### About the custom vendor :
-
-As the device has a binder arch, an arm64 custom vendor was created to add arm64 support on the device. But do note that the custom vendor is very unstable and some things such as fast charging do not work on it. Has **watchdog disabled** which allows the usage of old or outdated GSIs without modifying anything.
-
-Binder vendor has **watchdog disabled** which allows the usage of old or outdated GSIs without modifying anything. 
-Both custom vendors have **SELinux set to permissive**.
-
-### About choosing the right GSI image :
-
-Use binder GSI images for **stock vendor and ARM32(binder) custom vendor**! Binder GSI images will either be marked as **a64** or **arm32_binder64**.
-
-If you're using **ARM64 custom vendor**, use arm64 GSIs only. arm64 GSIs will be marked as **arm64**.
-
-Some images might have **A/B(ab)** or **A-only** variants. Use **A/B(ab)** ones.
-
-### Flashing a GSI image (**Custom or patched** recovery is required) :
-
-Either flash it as system image on your custom recovery (make sure it's a .img file).
-
-or
-
-Use fastboot to flash the image by using the following command(recommended)
-
-`fastboot flash system <your gsi img>`
-
-Note that you shouldn't erase data using fastboot as this will **brick the partition**. Use the **Format Data** option in your custom recovery or **Wipe Data** on the patched recovery to do it.
-
-### Erasing the product partition (**Custom or patched** recovery is required) :
-
-First, do `fastboot erase product` and then, flash the [product_gsi.img](https://forum.xda-developers.com/attachments/product_gsi-img.5371179/) by doing `fastboot flash product product_gsi.img`. 
-
-### Installing Magisk on GSI images.
-
-- Download the Magisk APK from the following [repo](https://github.com/topjohnwu/Magisk) in releases.
+- [TeamWin Recovery Project (Unofficial)(Discontinued)](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a02s-snapdragon.4294377/)
   
-- In TWRP, Go to Install and select the APK and flash it.
-  
-
-OR
-
-- De-lz4 your boot.img.lz4 found in your firmware's AP using appropriate tools and you should obtain a boot.img file.
-  
-- Install the magisk app on a phone regardless if it's rooted or not.
-  
-- Click on install and select Patch a file and select the boot.img file.
-  
-- After it's done, transfer the patched boot.img (might be found in Downloads) to your PC
-  
-- Flash the boot image by doing `fastboot erase boot` and then `fastboot flash boot <your patched boot image>`
-  
-
-If you want to make system files R/W on root, use **VNDKLITE** GSIs or [this magisk module](https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs).
-
-Note that magisk should only be installed on non-superuser GSIs. See [this](https://github.com/phhusson/treble_experimentations/wiki/Frequently-Asked-Questions-%28FAQ%29#naming-conventions-that-some-gsi-buildermaintainer-uses) to be able to identify which image is non-superuser.
-
-### Important things if you're going to use any old release of/outdated GSI (applies only to stock vendor) :
-
-#### About old/outdated GSIs :
-
-Old/Outdated GSIs means that it hasn't been updated at **June 2023 or later**.
-
-#### What won't function properly and why :
-
-- Secure GSIs will crash after some secs due to watchdog issues.
-  
-- Secure-on-demand GSIs will crash after some secs if you enable **Spoof Device Properties** due to watchdog issues. But you'll have approximately 20-30 secs to turn it off before it crashes.
-  
-- Using any magisk module such as Universal SafetyNet Fix to pass SafetyNet on a magisk-rooted device will make the GSI crash due to watchdog issues.
-  
-- Alternate Audio Policy cause issues such as not being able to change volume and volume stays always on 100%.
-  
-- Call audio doesn't work
-  
-
-#### Fixes that phh has implemented for that (which has been added in new and new releases of GSIs) (according to [this commit]()) :
-
-- Removed the script that disables watchdog from rw-system.sh.
-  
-- Added a script that pings watchdogd in vndk.rc.
-  
-- Partially fixed call audio in another commit
-  
-  - Note that call audio only works on SIM 1 and doesn't work on SIM 2. However, this won't be an issue if you have a single-sim device.
+  - The developer has stopped updating it or abandoned it. However, It still functions as expected and has no bugs.
     
-
-#### Implementing that fix if you're going to use an old GSI :
-
-Replace **rw-system.sh** (found in /system/bin) and **vndk.rc** (found in /system/etc/init) in your GSI by either :
-
-- Unpacking, replacing the files and repacking the GSI Image using appropriate tools.
+- [OrangeFox Recovery (Unofficial)(Non-functional/Discontinued)](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a02s-snapdragon.4294377/)
   
-- Replacing the files on a phone that has magisk installed(rooted with magisk). This requires a R/W system. See notes above on how to make your system R/W.
+  - The developer has stopped updating it or abandoned it. Doesn't function anymore. **USE TWRP!**
+    
+- [Smiley's ARM32(Binder)/ARM64 Custom vendor](https://t.me/samsung_galaxy_m01_a01_m11_a11)
+  
+  - Each vendor has watchdog completely disabled and **allows GSIs that hasn't been updated at June 2023 or later**(or has been abandoned) to work on the device. See notes for Running GSIs below.
+    
+  - ARM64 vendor is a ported vendor from M02s. Lots of functions such as fast charging and other don't function properly and has lots of bugs so use it at your own risk.
+    
+- [Stock recovery Patcher (Click to know more)](https://github.com/tangymc/Patch-Recovery)
+  
+  - Note that this only adds fastbootd to the stock recovery. This allows you to only to flash images(.img) through fastboot and not .zip files. Use TWRP for that purpose.
+    
+  - This should be enough for flashing GSIs.
+    
+- [Physwizz's Kernel](https://t.me/physwizz2)
   
 
-Make sure to set the appropriate permissions after replacing the files.
+## Important notes
 
-**For the call audio fix, use the fix made by smiley on the Telegram channel of the custom vendor found above.**
+### Running GSIs
+
+Any attempt in running a **secure or secure-on-demand**¹ GSIs that **hasn't been updated at June 2023 or later** will make the device hard reboot every 10-20 seconds after booting up. You might think that the GSI has booted properly but after some seconds, it will do it.
+
+¹Only when you **securize** or you turn on **Device Spoof Properties**(On secure-on-demand GSIs)
+
+Same applies for when you try to use any Magisk module to fix SafetyNet such as Universal SafetyNet Fix. Basically, any method used to fix SafetyNet will cause the above issue. Properties are always spoofed on Secure GSIs so that's why the above issue happens.
+
+Phh has fixed the above issue by changing the way how Watchdog and Watchdogd is handled by GSIs. You can apply these fixes on old GSIs using appropriate tools to unpack and repack the GSI or by using root. However, I would recommend you to use a newer GSI or just wait for your developer to implement the fix on their GSI.
+
+No need to and you shouldn't turn on any **Alternate audio policy** option or any audio-related options in phh Treble options. This will break the audio system. However, disabling **sound effects in Qualcomm settings** or disabling **audio effect in Misc Settings** won't break it.
+
+Not sure how the above option works. -- @tangymc
+
+### How to GSI
+
+#### Unlocking the bootloader.
+
+- To be able to installed GSIs and a custom ROM, you should first **unlock the bootloader**. **Do note that you can't unlock bootloader on some variants**!
+  
+- First, Enable the Developer's Settings in settings by tapping on the Build number several times in the About section (Basically how humans do it unless you're from Mars).
+  
+- Then, go to the Developer's Settings (Last setting on the home page of Settings) and you should see **OEM Unlocking** and **USB Debugging**. If you don't see the OEM Unlocking option, it might be because it's a carrier-locked one or maybe a variant that doesn't allow the unlocking of the bootloader.
+  
+- Enable both options and reboot to **Download Mode** by first, powering off your device, holding both **Volume UP and DOWN** button while plugging a USB cable to it that's **connected to your PC**. If you see a blue screen pop-up, it means that you've successfully booted into Download mode!
+  
+  If you see an option called Device Unlock Mode, this means that you can proceed further! Then, long press on the **Volume UP** and continue with the process!
+  
+  **NOTE THAT THIS WILL ERASE YOUR DATA SO TAKE A BACKUP BEFORE DOING SO!**(unless you don't care about your data or there's none). You can use the Smart Switch software on your PC to do it.
+  
+- After rebooting, complete the setup process, connect to a network, check for updates, enable developer settings again and if you see the OEM Unlocking option greyed out, it means that you have successfully unlocked the bootloader!
+  
+
+#### Flashing a patched vbmeta/disabling vbmeta
+
+The TWRP recovery mentioned above has a file that has been mentioned called **vbmeta_disabler.tar**. You should flash this before installing a custom recovery.
+
+The above file should be also flashed before installing the patched recovery.
+
+#### Choosing the right GSI and other stuff
+
+A02s only supports **a64/arm32_binder64** and **A/B** GSIs. So, make sure to only choose them.
+
+If you're going to install Magisk, make sure to choose a GSI that **doesn't contain phh SU**.
+
+SGSIs(Semi-GSIs) are not guaranteed to work perfectly on it. So, use them at your own risk!
+
+#### Installing a GSI
+
+Before installing a GSI, make sure you have a **custom recovery** or have installed a **patched recovery**(tool found above). The fastboot option that's found on the stock recovery (basically the one that says reboot to bootloader in recovery) is completely useless.
+
+After installing any of them, you'll be able to flash a GSI by either:
+
+- Flashing it as a system image in a **custom recovery** using methods such as sideload or by having the image on an SD card that's on the phone. You can also plug a USB drive through OTG with the image on it.
+  
+  or
+  
+- By flashing it through fastboot on a **custom recovery** or a **patched recovery** (Recommended) using the following commands:
+  
+  To flash a GSI:
+  
+  ```bash
+  fastboot erase system # To erase the system partition
+  ```
+  
+  ```bash
+  fastboot flash system <your gsi img> # To flash your GSI
+  ```
+  
+  To empty out the product partition (Optional):
+  
+  ```bash
+  fastboot erase product # To erase the product partition
+  ```
+  
+  ```bash
+  fastboot flash product product_gsi.img# To flash an empty product image
+  ```
+  
+  [product_gsi.img](https://forum.xda-developers.com/attachments/product_gsi-img.5371179/) - click to download 
+  Note that you should have ADB/Platform tools installed on your PC along with **Samsung's or Google's USB Driver**. Both works fine.
+  
+  However, if you're using another phone to do that (through OTG) then the above drivers won't be required.
+  
+  Then, reboot to the recovery by either pressing on reboot system if you use a **custom recovery** or just select the option to go back to the recovery if you're on a **patched recovery**.
+  
+  After that, clear data by going into the Wipe options in **TWRP** and pressing Advanced Wipe and selecting **Data, Dalvik, Internal Storage and Cache**.
+  
+  If you're on the **patched recovery**, you should use **Wipe data** and **Wipe cache** options to wipe the data and cache.
