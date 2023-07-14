@@ -18,16 +18,31 @@ Nokia 8V 5G UW users need to use different prototype ABL image to unlock the boo
 | Fingerprint               | √                                                         |
 | 5G                        | √                                                         |
 
+## Hardware Support (Android 11, Nokia 8V 5G UW)
+
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | √                                                         |
+| Speaker / Mic             | √                                                         |
+| Bluetooth                 | √                                                         |
+| WiFi                      | √                                                         |
+| NFC                       | √                                                         |
+| SIM / Mobile Data / Voice | ?                                                         |
+| VoLTE                     | ?                                                         |
+| Fingerprint               | √                                                         |
+| 5G                        | ?                                                         |
 
 ## Additional Notes
 
 To enable 5G, you'll need to configure "NR" in preferred network type.
 
-We're not sure if Nokia 8 V 5G UW is allowed for doing such test.
+For Nokia 8V 5G UW, to enter Fastbootd you must execute: ```adb shell reboot fastboot```
+We recommend you to install latest stock firmware (00VPO_1_45H) before installing GSI.
 
 ## Tested By:
 
 @HikariCalyx @ Nokia 8.3 5G 00WW_1_150 (BGT-1150-0-00WW-B01) @ 19/01/2021
 
+@HikariCalyx @ Nokia 8V 5G UW 00VPO_1_45H (RAV-145H-0-00VPO-B01) @ 14/07/2023
 
 Template created by @zguithues
