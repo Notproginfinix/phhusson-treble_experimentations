@@ -4,7 +4,8 @@ Bootloader Unlock : https://forum.xda-developers.com/t/guide-how-to-unlock-the-b
 
 Nokia 8V 5G UW users need to use different prototype ABL image to unlock the bootloader and allow partition flashing.
 
-## Hardware Support (Android 11)
+## Nokia 8.3 5G (TA-1243/TA-1251)
+### Hardware Support (Android 11)
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
@@ -18,7 +19,13 @@ Nokia 8V 5G UW users need to use different prototype ABL image to unlock the boo
 | Fingerprint               | √                                                         |
 | 5G                        | √                                                         |
 
-## Hardware Support (Android 11, Nokia 8V 5G UW)
+### Additional Notes
+
+To enable 5G, you'll need to configure "NR" in preferred network type.
+
+
+## Nokia 8V 5G UW (TA-1257)
+### Hardware Support (Android 12)
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
@@ -32,9 +39,7 @@ Nokia 8V 5G UW users need to use different prototype ABL image to unlock the boo
 | Fingerprint               | √                                                         |
 | 5G                        | ?                                                         |
 
-## Additional Notes
-
-To enable 5G, you'll need to configure "NR" in preferred network type.
+### Additional Notes
 
 For Nokia 8V 5G UW, to enter Fastbootd you must execute: ```adb shell reboot fastboot```
 
