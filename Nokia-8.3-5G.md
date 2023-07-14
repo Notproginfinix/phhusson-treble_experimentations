@@ -25,7 +25,7 @@ To enable 5G, you'll need to configure "NR" in preferred network type.
 
 
 ## Nokia 8V 5G UW (TA-1257)
-### Hardware Support (Android 12)
+### Hardware Support (Android 11)
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
@@ -33,7 +33,7 @@ To enable 5G, you'll need to configure "NR" in preferred network type.
 | Speaker / Mic             | √                                                         |
 | Bluetooth                 | √                                                         |
 | WiFi                      | √                                                         |
-| NFC                       | √                                                         |
+| NFC                       | ?                                                         |
 | SIM / Mobile Data / Voice | ?                                                         |
 | VoLTE                     | ?                                                         |
 | Fingerprint               | √                                                         |
