@@ -121,7 +121,7 @@ After installing any of them, you'll be able to flash a GSI by either:
   ```
   
   ```bash
-  fastboot flash product product_gsi.img# To flash an empty product image
+  fastboot flash product product_gsi.img # To flash an empty product image
   ```
   
   [product_gsi.img](https://forum.xda-developers.com/attachments/product_gsi-img.5371179/) - click to download 
