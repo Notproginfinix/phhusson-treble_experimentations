@@ -37,7 +37,8 @@ Nokia 8V 5G UW users need to use different prototype ABL image to unlock the boo
 To enable 5G, you'll need to configure "NR" in preferred network type.
 
 For Nokia 8V 5G UW, to enter Fastbootd you must execute: ```adb shell reboot fastboot```
-We recommend you to install latest stock firmware (00VPO_1_45H) before installing GSI.
+
+We recommend you to install latest stock firmware (00VPO_1_45H) before installing GSI, so you won't be blocked away from unable to accept flashing commands.
 
 ## Tested By:
 
