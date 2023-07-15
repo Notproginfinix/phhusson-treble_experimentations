@@ -8,16 +8,17 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|15 July|LeOS 20 & T|Harvey186|[DL1](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-A13) / [DL2](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|July 2023|
 |12 July|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android13-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|ARM64 - X86|June 2023|
 |06 July|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|June 2023|
 |26 June|Project Elixir|KrutosX & Lynix|[XDA](https://forum.xda-developers.com/t/gsi-rom-project-elixir-3-5-android-13-0-aosp-official-13-01-2023.4541063/) / [Download](https://www.pling.com/p/1960767/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phhgsi_generic/)|ARM64|June 2023|
-|17 June|LeOS 20 & T|Harvey186|[DL1](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-A13) / [DL2](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|June 2023|
 |10 May|LeafOS 2.0 BETA|Linux4|[DL](https://dl.leafos.org/beta/leaf_gsi_arm64/) / [Telegram](https://t.me/leafos)|[GitHub](https://github.com/LeafOS-Project/)|ARM64|May 2023|
 |25 Mar|AncientOS|Nazim|[Download](https://ancientrom.xyz/download) / [Pling](https://www.pling.com/p/1766574/) / [Telegram](https://t.me/naz_dev)|-|ARM64|March 2023|
 
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|14 July|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|July 2023|
 |13 July|Pixel Experience (Plus)|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases/) / [Telegram](https://t.me/pixelexperiencegsi)|[GitHub](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|July 2023|
 |10 July|PixelOS|MisterZtr|[Download](https://sourceforge.net/projects/misterztr-gsi/files/PixelOS/Android%2013/)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|July 2023|
 |09 July|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_superior_patches)|ARM64|July 2023|00
@@ -28,7 +29,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |02 July|Evolution X|Ponces|[Telegram](https://t.me/pixelexperiencegsi) / [Download](https://github.com/ponces/treble_build_evo/releases)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|July 2023|
 |01 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|July 2023|
 |22 Jun|LineageOS TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|June 2023|
-|21 Jun|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|June 2023|
 |21 Jun|BiancaProject|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://sourceforge.net/projects/itzkaguya-gsi/files/BiancaProject/)|[GitHub](https://github.com/BiancaProject)|ARM64|May 2023|
 |16 June|LeaOS|Iceows|[Telegram](https://t.me/leaos_group) / [Downloads](https://sourceforge.net/projects/altairfr-huawei/files/TrebleDroid-GSI/)|[GitHub](https://github.com/Iceows/aosp_patches_leaos/tree/android-13)|ARM64|June 2023|
 |27 May|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|May 2023|
