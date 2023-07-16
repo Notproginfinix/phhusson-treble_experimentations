@@ -18,7 +18,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|14 July|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|July 2023|
+|16 July|LineageOS TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|July 2023|
+|15 July|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|July 2023|
 |13 July|Pixel Experience (Plus)|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases/) / [Telegram](https://t.me/pixelexperiencegsi)|[GitHub](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|July 2023|
 |10 July|PixelOS|MisterZtr|[Download](https://sourceforge.net/projects/misterztr-gsi/files/PixelOS/Android%2013/)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|July 2023|
 |09 July|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_superior_patches)|ARM64|July 2023|00
@@ -28,7 +29,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |05 July|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/ArrowOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|June 2023|
 |02 July|Evolution X|Ponces|[Telegram](https://t.me/pixelexperiencegsi) / [Download](https://github.com/ponces/treble_build_evo/releases)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|July 2023|
 |01 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|July 2023|
-|22 Jun|LineageOS TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|June 2023|
 |21 Jun|BiancaProject|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://sourceforge.net/projects/itzkaguya-gsi/files/BiancaProject/)|[GitHub](https://github.com/BiancaProject)|ARM64|May 2023|
 |16 June|LeaOS|Iceows|[Telegram](https://t.me/leaos_group) / [Downloads](https://sourceforge.net/projects/altairfr-huawei/files/TrebleDroid-GSI/)|[GitHub](https://github.com/Iceows/aosp_patches_leaos/tree/android-13)|ARM64|June 2023|
 |27 May|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|May 2023|
@@ -39,11 +39,11 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Latest Android 10, 11, 12 GSIs	
 |Updated|Image|Maintainer|Links|Sources|Partition Style|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|15 July|LineageOS 19.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/)/[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified)|SAR|ARM64 - Binder|July 2023|
 |07 July|AOSP 12|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SAR|ARM64 - X86|July 2023|
 |06 July|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|July 2023|
 |20 June|/e/ OS q|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|[GitLab](https://gitlab.e.foundation/e)|non-SaR - SaR|ARM - ARM64 - Binder|June 2023|
 |18 June|LeOS (19.1)|Harvey186| [Downloads](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [Telegram](https://t.me/LeOS_Support)|[GitHub](https://github.com/LeOS-GSI/LeOS-S-patches)|SAR|ARM64 - Binder|June 2023|
-|11 June|LineageOS 19.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/)/[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified)|SAR|ARM64 - Binder|June 2023|
 |09 Jun|LineageOS 18.1|MeowIce| [Download](https://sourceforge.net/projects/meowice-gsi/files/LineageOS/) / [Telegram](https://t.me/meowicegsi)|-|SaR|ARM64|Jun 2023|
 |09 Jun|Pixel Experience 12 |MeowIce| [Download](https://sourceforge.net/projects/meowice-gsi/files/Pixel%20Experience%2012/) / [Telegram](https://t.me/meowicegsi)|-|SaR|ARM64|Jun 2023|
 
