@@ -20,18 +20,20 @@
 | Back Camera               | Working                                                   |
 | Front facing Camera       | Working                                                   |
 | Speaker / Mic             | Working                                                   |
-| Bluetooth                 | only BT media doesn't work                                     |
+| Bluetooth                 | Only BT media doesn't work                                     |
 | WiFi                      | Working                                                   |
 | SIM / Mobile Data / Voice | Working                              |
-| VoLTE                     | Working after MTK IMS setup in phh settings                                              |
+| VoLTE                     | Working after MTK IMS setup in PHH settings                                              |
 | Side Fingerprint sensor   | Working                                             |
 | Offline Charging          | Working                                                   |
 | Tethering                 | Working                                                   |
 | Hotspot                   | Works after installing this [Hotspot fix magisk module](https://t.me/Realme85G_Narzo305G_Official/13103)                                     |
 | Auto-Brightness           | Working                                              |
+| Headset                   | Partially Working                                              |
 ---
 Notes:
  * Use alternative brightness scaling
+ * Headset not detected until you enable "Use alternative way to detect headsets" option in PHH settings
  * TWRP won't work for now
  * Do not flash vbmeta disable on RealmeUI 3.0 and above or else the mobile network will not work.
 
