@@ -20,7 +20,7 @@ To remove your device is corrupt warning, simply flash vbmeta image and disable 
 
 ## Additional Notes
 
-Tested GSI: [https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/ , arm-binder64 (a64) bgN variant.](https://github.com/TrebleDroid/treble_experimentations/releases/download/ci-20230706/system-td-arm32_binder64-ab-vanilla.img.xz)
+Tested GSI: [system-td-arm32_binder64-ab-vanilla.img.xz](https://github.com/TrebleDroid/treble_experimentations/releases/download/ci-20230706/system-td-arm32_binder64-ab-vanilla.img.xz)
 
 ```
 fastboot flash system /path/to/gsi/image.img
@@ -28,7 +28,8 @@ fastboot --disable-verity --disable-verification flash vbmeta /path/to/vbmeta.im
 ```
 
 ~~After flashing it along with vbmeta, you must format userdata partition as f2fs filesystem, or the phone will bootloop~~
-Delete keystore* files from /vendor/lib/hw
+
+Delete keystore* files from /vendor/lib/hw/ or it won't boot
 
 ## Tested By:
 @pcurz @ Nokia 2.3 TA-1214 00WW_3_310_SP09 (IRM-331J-0-00WW-B01) @ 14/07/2023
