@@ -33,7 +33,7 @@
 Notes:
  * Use alternative brightness scaling
  * TWRP won't work for now
- * Do not flash vbmeta disable or else the mobile network will not work.
+ * Do not flash vbmeta disable on RealmeUI 3.0 and above or else the mobile network will not work.
 
 Tested by members of [Telegram group for these devices](https://t.me/Realme85G_Narzo305G_Official)
 Template created by @zguithues and @hackintosh5
