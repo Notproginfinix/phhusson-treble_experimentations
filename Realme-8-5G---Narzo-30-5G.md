@@ -8,7 +8,7 @@
   fastboot -w
   fastboot reboot recovery
   ```
-* Flash disabled vbmeta via fastboot (only for first time flashing ROM after using stock ColorOS) :
+* Flash disabled vbmeta via fastboot (only for RealmeUI 2.0) :
     ```sh
     fastboot flash --disable-verity --disable-verification vbmeta vbmeta.img 
     ```
@@ -33,6 +33,7 @@
 Notes:
  * Use alternative brightness scaling
  * TWRP won't work for now
+ * Do not flash vbmeta disable or else the mobile network will not work.
 
 Tested by members of [Telegram group for these devices](https://t.me/Realme85G_Narzo305G_Official)
 Template created by @zguithues and @hackintosh5
