@@ -20,7 +20,7 @@
 | Back Camera               | Working                                                   |
 | Front facing Camera       | Working                                                   |
 | Speaker / Mic             | Working                                                   |
-| Bluetooth                 | Only BT media doesn't work                                     |
+| Bluetooth                 | Partially Working                                     |
 | WiFi                      | Working                                                   |
 | SIM / Mobile Data / Voice | Working                              |
 | VoLTE                     | Working after MTK IMS setup in PHH settings                                              |
