@@ -1,7 +1,7 @@
 # Realme 8 5G / Narzo 30 5G (RMX3241 / RMX3242)
 ## Steps to install
 * Unlock bootloader (https://forum.xda-developers.com/t/a-guide-to-unlock-the-bootloader.4306487)
-* Download any Phh based GSI
+* Download any Phh based GSI that can be found [here](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list)
 * Flash GSI in fastbootd mode
   ```sh
   fastboot flash system *.img
