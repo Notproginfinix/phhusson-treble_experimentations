@@ -1,4 +1,4 @@
-# Realme 8 5G /Narzo 30 5G (RMX3241 / RMX3242)
+# Realme 8 5G / Narzo 30 5G (RMX3241 / RMX3242)
 ## Steps to install
 * Unlock bootloader (https://forum.xda-developers.com/t/a-guide-to-unlock-the-bootloader.4306487)
 * Download any Phh based GSI
@@ -24,7 +24,7 @@
 | WiFi                      | Working                                                   |
 | SIM / Mobile Data / Voice | Working                              |
 | VoLTE                     | Working after MTK IMS setup in PHH settings                                              |
-| Side Fingerprint sensor   | Working                                             |
+| Side Fingerprint sensor   | Partially Working                                             |
 | Offline Charging          | Working                                                   |
 | Tethering                 | Working                                                   |
 | Hotspot                   | Works after installing this [Hotspot fix magisk module](https://t.me/Realme85G_Narzo305G_Official/13103)                                     |
@@ -36,6 +36,7 @@ Notes:
  * Headset not detected until you enable "Use alternative way to detect headsets" option in PHH settings
  * TWRP won't work for now
  * Do not flash vbmeta disable on RealmeUI 3.0 and above or else the mobile network will not work.
+ * Due to compatibility issue, fingerprint and face unlock option are missing in some GSI roms (Mostly Android 13 GSIs).
 
 Tested by members of [Telegram group for these devices](https://t.me/Realme85G_Narzo305G_Official)
 Template created by @zguithues and @hackintosh5
