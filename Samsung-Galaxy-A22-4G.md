@@ -22,4 +22,4 @@ Unfinished steps, will be updated soon.
 ### Test Log
 Tested by [@devid7xw](https://github.com/devid7x) - SM-A225F, phh Pixel Experience 13.0
 
-> Date tested - 2022-07-08
+> Date tested - 2023-07-08
