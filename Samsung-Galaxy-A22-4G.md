@@ -1,7 +1,7 @@
 # Samsung Galaxy A22 4G
 
 ## Steps to install
-* Flash GSI image with `Fastboot` or [`TWRP`](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a22-sm-a225f-a225m-android-11-12.4333305/)
+Unfinished steps, will be updated soon.
 ## Hardware support
 
 | Component                 |      Comment                                              |
