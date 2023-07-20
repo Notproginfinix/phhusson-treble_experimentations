@@ -13,6 +13,7 @@
 |[[Samsung Galaxy A20]]|a20|✓|A/B|arm64|
 |[[Samsung Galaxy A20s]]|a20s|✓|A/B|arm64|
 |[[Samsung Galaxy A21s]]|a21s|✓|A/B|arm64|
+|[[Samsung Galaxy A22 4G]]|a21s|✓|A/B|arm64|
 |[[Samsung Galaxy A30]]|a30|✓|A/B|arm64|
 |[[Samsung Galaxy A30s]]|a30s|✓|A/B|arm64|
 |[[Samsung Galaxy A33 5G]]|a33x|✓|A/B|arm64|
