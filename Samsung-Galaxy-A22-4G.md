@@ -1,6 +1,6 @@
 # Samsung Galaxy A22 4G
 
-### Your warranty is now void. I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in this ROM before flashing it! YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you. 
+### Your warranty is now void. I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in the GSI you want to flash before flashing it! YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you. 
 
 ## Steps to install TWRP
 * Flash [`TWRP`](https://drive.google.com/file/d/10bExm5EGMlP3x3S0H2BZ6yj-RrfFi8oC/view?usp=drive_link) in AP slot and [`vbmeta`](https://drive.google.com/file/d/1UrqhA9zxMOJ-sq-VQ9kmg-n_YcaFtoxa/view?usp=drive_link) in userdata slot in Odin3
