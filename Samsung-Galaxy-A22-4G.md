@@ -38,7 +38,14 @@ In `TWRP`
 
 ## Workarounds
 
-# No audio in bluetooth headset: 
+### Bluetooth workarounds (fixes no audio in bluetooth headset):
+Open settings -> Phh treble settings -> Misc features -> Bluetooth workarounds -> select mediatek
+Open settings -> Phh treble settings -> Misc features -> Use System wide bt hal
+
+### No AOD:
+Open settings -> Phh treble settings -> Misc features -> Force always on display
+
+Thanks to this [Telegram community](https://t.me/Samsung_f22_Community) for all these guides!
 
 ### Test Log
 Tested by [@devid7xw](https://github.com/devid7x) - SM-A225F, phh Pixel Experience 13.0
