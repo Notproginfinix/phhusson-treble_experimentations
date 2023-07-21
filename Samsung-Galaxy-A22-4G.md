@@ -1,7 +1,15 @@
 # Samsung Galaxy A22 4G
 
 ## Steps to install
-Unfinished steps, will be updated soon.
+* Flash [`TWRP`](https://drive.google.com/file/d/10bExm5EGMlP3x3S0H2BZ6yj-RrfFi8oC/view?usp=drive_link) and ['vbmeta'](https://drive.google.com/file/d/1UrqhA9zxMOJ-sq-VQ9kmg-n_YcaFtoxa/view?usp=drive_link) in Odin
+* Boot into `TWRP`
+* Wipe -> Format data >Ttype 'yes'
+* Go to advanced -> terminal -> type 'multidisabler'
+* Reboot into `TWRP`
+* Download [`Dynapatch.zip`](https://drive.google.com/file/d/1U-PTJXNXrdITt6aN1nYeS8kz2NHl7Nhi/view?usp=drive_link)
+* Flash `Dynapatch.zip`
+## Now you can install any GSI now!
+
 ## Hardware support
 
 | Component                 |      Comment                                              |
@@ -11,7 +19,7 @@ Unfinished steps, will be updated soon.
 | Bluetooth                 | Working                                                   |
 | WiFi                      | Working                                                   |
 | SIM / Mobile Data / Voice | Working                                                   |
-| Dual SIM                  | Working  (No LTE on SIM 2)                                                 |    
+| Dual SIM                  | Working  (No LTE on SIM 2, everything else works on SIM 2)                                                 |    
 | VoLTE                     | Not working                                               |
 | Fingerprint               | Working*                                               |
 | NFC                       | Untested                                                  |
