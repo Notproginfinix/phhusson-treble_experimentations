@@ -1,14 +1,23 @@
 # Samsung Galaxy A22 4G
 
-## Steps to install
-* Flash [`TWRP`](https://drive.google.com/file/d/10bExm5EGMlP3x3S0H2BZ6yj-RrfFi8oC/view?usp=drive_link) and ['vbmeta'](https://drive.google.com/file/d/1UrqhA9zxMOJ-sq-VQ9kmg-n_YcaFtoxa/view?usp=drive_link) in Odin
+## Steps to install TWRP
+* Flash [`TWRP`](https://drive.google.com/file/d/10bExm5EGMlP3x3S0H2BZ6yj-RrfFi8oC/view?usp=drive_link) and [`vbmeta`](https://drive.google.com/file/d/1UrqhA9zxMOJ-sq-VQ9kmg-n_YcaFtoxa/view?usp=drive_link) in Odin
 * Boot into `TWRP`
-* Wipe -> Format data >Ttype 'yes'
-* Go to advanced -> terminal -> type 'multidisabler'
+* Wipe -> Format data >Type 'yes'
+* Go to advanced -> terminal -> type `multidisabler`
 * Reboot into `TWRP`
 * Download [`Dynapatch.zip`](https://drive.google.com/file/d/1U-PTJXNXrdITt6aN1nYeS8kz2NHl7Nhi/view?usp=drive_link)
 * Flash `Dynapatch.zip`
-## Now you can install any GSI now!
+
+## Steps to install GSI
+In `TWRP` 
+* Wipe > format data > type 'yes' then swipe.
+* Wipe > Advanced wipe > select Dalvik, data, cache and swipe.
+* Install > select img file as 'System Image' and swipe. (Note: Extract your GSI.img.xz to .img using WinRAR or 7zip on PC)
+### And you're done!
+
+
+
 
 ## Hardware support
 
@@ -26,6 +35,10 @@
 | Hotspot / Usb tethering   | Working                                                   |
 | MTP                       | Untested                                                  |
 ---
+
+## Workarounds
+
+# No audio in bluetooth headset: 
 
 ### Test Log
 Tested by [@devid7xw](https://github.com/devid7x) - SM-A225F, phh Pixel Experience 13.0
