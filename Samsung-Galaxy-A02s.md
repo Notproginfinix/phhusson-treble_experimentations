@@ -63,7 +63,7 @@ Not sure how the above option works. -- @tangymc
 
 #### Unlocking the bootloader.
 
-- To be able to installed GSIs and a custom ROM, you should first **unlock the bootloader**. **Do note that you can't unlock bootloader on some variants**!
+- To be able to install GSIs and a custom ROM, you should first **unlock the bootloader**. **Do note that you can't unlock bootloader on some variants**!
   
 - First, Enable the Developer's Settings in settings by tapping on the Build number several times in the About section (Basically how humans do it unless you're from Mars).
   
@@ -82,7 +82,7 @@ Not sure how the above option works. -- @tangymc
 
 The TWRP recovery mentioned above has a file that has been mentioned called **vbmeta_disabler.tar**. You should flash this before installing a custom recovery.
 
-The above file should be also flashed before installing the patched recovery.
+The above file should be also flashed after installing the patched recovery.
 
 #### Choosing the right GSI and other stuff
 
