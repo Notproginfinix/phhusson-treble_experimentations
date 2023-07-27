@@ -17,7 +17,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |26 July|AlphaDroid|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_alphadroid_patches/releases/tag/A13-v20230726)||ARM64|July 2023|
 |26 July|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|July 2023|
 |26 July|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|June 2023|
