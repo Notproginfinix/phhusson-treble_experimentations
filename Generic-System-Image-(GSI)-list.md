@@ -22,7 +22,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |26 July|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|July 2023|
 |26 July|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|June 2023|
 |23 July|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|July 2023|
-|22 July|RisingOS|MisterZtr|[Download](https://sourceforge.net/projects/misterztr-gsi/files/RisingOS/Android%2013/GApps/risingOS-v1.2.5-Camelot-RELEASE-20230722-arm64_bN-CORE-COMMUNITY.img.xz/download)|-|ARM64|July 2023|
+|22 July|RisingOS|MisterZtr|[Download](https://sourceforge.net/projects/misterztr-gsi/files/RisingOS/Android%2013/GApps/risingOS-v1.2.5-Camelot-RELEASE-20230722-arm64_bN-CORE-COMMUNITY.img.xz/download)|[GitHub](https://github.com/MisterZtr/RisingOS_gsi)|ARM64|July 2023|
 |21 July|DerpFest|KoysX| [Download](https://github.com/KoysX/treble_DerpFest_GSI/releases)|[GitHub](https://github.com/KoysX/treble_DerpFest_GSI)|ARM64|July 2023|
 |18 July|Evolution X|Ponces|[Telegram](https://t.me/pixelexperiencegsi) / [Download](https://github.com/ponces/treble_build_evo/releases)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|July 2023|
 |17 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|July 2023|
