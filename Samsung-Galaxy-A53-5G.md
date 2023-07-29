@@ -1,4 +1,4 @@
-# Device
+# Samsung Galaxy A53 5G
 
 Summary of what works and doesn't
 
@@ -34,12 +34,19 @@ Summary of what works and doesn't
 | USB-C headphones and sound cards | Working with mitigations (Settings -> Phh Treble Settings -> Samsung features -> Use alternate audio policy) |
 
 ## GSI support
-Android 13 GSIs don't seem to be supported. Bootloops while running on every Android 13 GSI (Lineage TD 20, PixelExperience 13, TrebleDroid 13).
+Android 13 GSIs are supported (only VNDK). Bootloops while running on VNDKlite vendor. Android 12 GSIs are supported (both VNDK and VNDKlite).
 
-Android 12 GSIs are supported. Tested on LineageOS 19.1 GSI.
+### GSIs tested
+
+- [Lineage TD 20.0 - Android 13](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/) - tested with `bvN` as well as `bgN` with VNDK vendor, `vndklite` didn't feel like booting. Seems that Universal SafetyNet Fix interferes with Google apps (including Messages, Drive and GMail) and makes them crash upon opening. It might just be my phone, but proceed with caution. Tested on 28/07/2023 by mytja.
+- [PixelOS 13.0](https://sourceforge.net/projects/misterztr-gsi/files/PixelOS/Android%2013/) - **didn't boot**, stuck on Google logo, connecting and disconnecting from my computer every 10-60 seconds. Tested on 29/07/2023 by mytja.
+- [Pixel Experience 13.0](https://github.com/ponces/treble_build_pe/releases/) - tested with `VNDK` vendor (not `slim` or `vndklite`), first time it didn't want to connect to WiFi during setup, reboot didn't help, had to reinstall the image to make it work.
+- [Lineage 19.1 - Android 12](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/) - tested with `bvN` and both vendors (`VNDKlite` and `VNDK`). Universal SafetyNet Fix interferes with some Google apps, but less than on Lineage 20. Tested on 18/05/2023 by mytja.
 
 ---
 
 Tested By: ItsLynix - SM-A536B(EUX), A536BXXU4BVL2 - 01/02/2023 - Template created by @zguithues and @hackintosh5
 
 Tested By: mytja - SM-A536B(EUX), A536BZKNEEE - 18/05/2023 - LineageOS GSI 19.1
+
+Tested By: mytja - SM-A536B(EUX), A536BZKNEEE - 29/07/2023 - Pixel Experience Plus 13.0
