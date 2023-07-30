@@ -49,6 +49,6 @@ We recommend you to install latest stock firmware (00VPO_1_45H) before installin
 
 @HikariCalyx @ Nokia 8.3 5G 00WW_1_150 (BGT-1150-0-00WW-B01) @ 19/01/2021
 
-@HikariCalyx @ Nokia 8V 5G UW 00VPO_1_45H (RAV-145H-0-00VPO-B01) @ 14/07/2023
+@HikariCalyx @ Nokia 8V 5G UW 00VPO_1_45H (RAV-145H-0-00VPO-B01 Verizon System Update 8) @ 14/07/2023
 
 Template created by @zguithues
