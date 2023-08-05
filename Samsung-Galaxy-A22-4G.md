@@ -32,23 +32,27 @@ In `TWRP`
 | SIM / Mobile Data / Voice | Working                                                   |
 | Dual SIM                  | Working  (No LTE on SIM 2, everything else works on SIM 2)                                                 |    
 | VoLTE                     | Not working                                               |
-| Fingerprint               | Working*                                               |
+| Fingerprint               | Working                                              |
 | Face Unlock  | Not working                                                   |
 | Offline charging  | Untested, probably works                                                |
 | NFC                       | Untested                                                  |
 | Hotspot / Usb tethering   | Working                                                   |
 | MTP                       | Untested                                                  |
-| 90 HZ                   | Untested, probably works                                                  |
+| 90 HZ                   | Not working                                            |
 ---
 
 ## Workarounds
 
+### Non Root workarounds.
 ### Bluetooth workarounds (fixes no audio in bluetooth headset):
 Open settings -> Phh treble settings -> Misc features -> Bluetooth workarounds -> select mediatek
 Open settings -> Phh treble settings -> Misc features -> Use System wide bt hal
 
 ### No AOD:
 Open settings -> Phh treble settings -> Misc features -> Force always on display (note: AOD for some reason never updates unless you get a notification, no workaround yet.)
+
+### Rooted Workarounds
+TBD
 
 Thanks to this [Telegram community](https://t.me/Samsung_f22_Community) for all these guides!
 
