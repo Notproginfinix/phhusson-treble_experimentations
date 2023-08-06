@@ -18,6 +18,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|08 July|YAAP|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_yaap/releases)|[GitHub](https://github.com/ahnet-69/treble_yaap)|ARM64|July 2023|
 |29 July|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|June 2023|
 |26 July|AlphaDroid|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_alphadroid_patches/releases/tag/A13-v20230726)|[GitHub](https://github.com/ChonDoit/treble_alphadroid_patches)|ARM64|July 2023|
 |26 July|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|July 2023|
@@ -32,7 +33,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |10 July|LeaOS (LOS20)|Iceows|[Telegram](https://t.me/leaos_group) / [Download](https://sourceforge.net/projects/altairfr-huawei/files/LeaOS-20.0/)|[GitHub](https://github.com/Iceows/lineage_build_leaos)|ARM64|July 2023|
 |10 July|PixelOS|MisterZtr|[Download](https://sourceforge.net/projects/misterztr-gsi/files/PixelOS/Android%2013/)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|July 2023|
 |09 July|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_superior_patches)|ARM64|July 2023|00
-|08 July|YAAP|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_yaap/releases)|[GitHub](https://github.com/ahnet-69/treble_yaap)|ARM64|July 2023|
 |05 July|AlphaDroid|KoysX|[Download](https://github.com/KoysX/treble_alpha_gsi/releases)| [GitHub](https://github.com/KoysX/treble_alpha_gsi)|ARM64|June 2023|
 |05 July|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/ArrowOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|June 2023|
 |21 Jun|BiancaProject|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://sourceforge.net/projects/itzkaguya-gsi/files/BiancaProject/)|[GitHub](https://github.com/BiancaProject)|ARM64|May 2023|
