@@ -4,7 +4,7 @@ Summary of what works and doesn't
 
 ## Steps to install
 
-* Flash [TWRP](https://www.androidfilehost.com/?w=files&flid=335166) as AP and [VBMETA Disabler](https://forum.xda-developers.com/attachments/vbmeta_disabled_r-tar.5236537/?hash=f7249adaefe16f3aeac3256a63063f0a) as USERDATA with Odin.
+* Flash [TWRP](https://www.androidfilehost.com/?w=files&flid=335166) as AP and [VBMETA Disabler](https://forum.xda-developers.com/attachments/vbmeta-tar.5956063/) as USERDATA with Odin.
 
 * Reboot to recovery via recovery key combo (Vol up + power + USB connected).
 
