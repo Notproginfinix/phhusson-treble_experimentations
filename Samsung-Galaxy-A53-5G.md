@@ -24,7 +24,7 @@ Summary of what works and doesn't
 | Speaker / Mic                    | Working                                                                                                      |
 | Bluetooth                        | Working                                                                                                      |
 | WiFi                             | Working                                                                                                      |
-| SIM / Mobile Data / Voice        | Depends on GSI                                                                                               |
+| SIM / Mobile Data / Voice        | Working (if not, try to reflash the GSI)                                                                 |
 | VoLTE                            | Not Working                                                                                                  |
 | Fingerprint                      | Working                                                                                                      |
 | NFC                              | Working                                                                                                      |
