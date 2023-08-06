@@ -40,7 +40,7 @@ Android 13 GSIs are supported (only VNDK). Bootloops while running on VNDKlite v
 
 - [Lineage TD 20.0 - Android 13](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/) - tested with `bvN` as well as `bgN` with VNDK vendor, `vndklite` didn't feel like booting. Seems that Universal SafetyNet Fix interferes with Google apps (including Messages, Drive and GMail) and makes them crash upon opening. It might just be my phone, but proceed with caution. Tested on 28/07/2023 by mytja.
 - [PixelOS 13.0](https://sourceforge.net/projects/misterztr-gsi/files/PixelOS/Android%2013/) - **didn't boot**, stuck on Google logo, connecting and disconnecting from my computer every 10-60 seconds. Tested on 29/07/2023 by mytja.
-- [Pixel Experience 13.0](https://github.com/ponces/treble_build_pe/releases/) - tested with `VNDK` vendor (not `slim` or `vndklite`), first time it didn't want to connect to WiFi during setup, reboot didn't help, had to reinstall the image to make it work.
+- [Pixel Experience 13.0](https://github.com/ponces/treble_build_pe/releases/) - tested with `VNDK` vendor (not `slim` or `vndklite`), first time it didn't want to connect to WiFi during setup, reboot didn't help, had to reinstall the image to make it work. After having it installed for more than a week, everything listed in above table seems to be correct (only 5G and VoLTE not working due to Samsung's proprietary design).
 - [Lineage 19.1 - Android 12](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/) - tested with `bvN` and both vendors (`VNDKlite` and `VNDK`). Universal SafetyNet Fix interferes with some Google apps, but less than on Lineage 20. Tested on 18/05/2023 by mytja.
 
 ---
