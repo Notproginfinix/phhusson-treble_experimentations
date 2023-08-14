@@ -18,6 +18,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|13 Aug|LineageOS<br>"Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Aug 2023|
 |12 Aug|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Aug 2023|00
 |10 Aug|YAAP|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_yaap/releases)|[GitHub](https://github.com/ahnet-69/treble_yaap)|ARM64|Aug 2023|
 |09 Aug|DerpFest|KoysX| [Download](https://github.com/KoysX/treble_DerpFest_GSI/releases)|[GitHub](https://github.com/KoysX/treble_DerpFest_GSI)|ARM64|July 2023|
@@ -29,7 +30,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |18 July|Evolution X|Ponces|[Telegram](https://t.me/pixelexperiencegsi) / [Download](https://github.com/ponces/treble_build_evo/releases)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|July 2023|
 |17 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|July 2023|
 |16 July|LineageOS<br>TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|July 2023|
-|15 July|LineageOS<br>"Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|July 2023|
 |13 July|Pixel Experience (Plus)|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases/) / [Telegram](https://t.me/pixelexperiencegsi)|[GitHub](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|July 2023|
 |10 July|LeaOS (LOS20)|Iceows|[Telegram](https://t.me/leaos_group) / [Download](https://sourceforge.net/projects/altairfr-huawei/files/LeaOS-20.0/)|[GitHub](https://github.com/Iceows/lineage_build_leaos)|ARM64|July 2023|
 |10 July|PixelOS|MisterZtr|[Download](https://sourceforge.net/projects/misterztr-gsi/files/PixelOS/Android%2013/)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|July 2023|
