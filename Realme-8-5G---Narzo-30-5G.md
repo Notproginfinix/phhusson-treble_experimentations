@@ -35,7 +35,7 @@ Notes:
  * Use alternative brightness scaling
  * Headset not detected until you enable "Use alternative way to detect headsets" option in PHH settings
  * Do not flash vbmeta disable on RealmeUI 3.0 and above or else the mobile network will not work.
- * Due to compatibility issue, fingerprint and face unlock option are missing in some GSI roms (Mostly Android 13 GSIs).
+ * Due to vendor issue after updating RealmeUI 4, fingerprint and face unlock are not working in all GSI roms.
 
 Tested by members of [Telegram group for these devices](https://t.me/Realme85G_Narzo305G_Official)
 Template created by @zguithues and @hackintosh5
