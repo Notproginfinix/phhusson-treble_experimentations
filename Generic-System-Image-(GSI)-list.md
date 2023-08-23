@@ -18,7 +18,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|22 AugJuly|Evolution X|Ponces|[Telegram](https://t.me/pixelexperiencegsi) / [Download](https://github.com/ponces/treble_build_evo/releases)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|Aug 2023|
+|22 Aug|Evolution X|Ponces|[Telegram](https://t.me/pixelexperiencegsi) / [Download](https://github.com/ponces/treble_build_evo/releases)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|Aug 2023|
 |21 Aug|Pixel Experience (Plus)|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases/) / [Telegram](https://t.me/pixelexperiencegsi)|[GitHub](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Aug 2023|
 |21 Aug|PixelOS|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Aug 2023|
 |21 Aug|YAAP|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_yaap/releases)|[GitHub](https://github.com/ahnet-69/treble_yaap)|ARM64|Aug 2023|
