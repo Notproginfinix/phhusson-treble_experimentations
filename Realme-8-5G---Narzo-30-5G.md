@@ -22,9 +22,11 @@
 | Speaker / Mic             | Working                                                   |
 | Bluetooth                 | Partially Working                                     |
 | WiFi                      | Working                                                   |
-| SIM / Mobile Data / Voice | Working                              |
+| SIM / Mobile Data / Voice | Working                                |
 | VoLTE                     | Working after MTK IMS setup in PHH settings                                              |
-| Side Fingerprint sensor   | Working (only in RealmeUI2 Vendor)                                            |
+| Side Fingerprint sensor   | Working (only in RealmeUI 2.0 Vendor)                                            
+|
+| Face Unlock               | Working (only in RealmeUI 2.0 Vendor)                                      |
 | Offline Charging          | Working                                                   |
 | Tethering                 | Working                                                   |
 | Hotspot                   | Works after installing this [Hotspot fix magisk module](https://t.me/Realme85G_Narzo305G_Official/13103)                                     |
