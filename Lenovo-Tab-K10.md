@@ -110,3 +110,13 @@ The fix is to execute the following to disable the feature:
 ```
 adb shell settings put global restricted_networking_mode 0
 ```
+
+# Update to a newer GSI
+
+Similar to other devices, just dirty flash system with the newer image again should do the trick.
+
+```terminal
+adb reboot fastboot
+fastboot flash system system-squeak-arm64-ab-gapps.img
+fastboot reboot
+```
