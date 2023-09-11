@@ -4,7 +4,7 @@ Helio G80 (MT6769)
 
 Overall excellent, things are working as expected.
 
-Tested with Phh's GSI, LineageOS, CAOS, and PixelExperience (Android 10, 11 & 12)
+Tested with Phh's GSI, LineageOS, CAOS, and PixelExperience (Android 10, 11, 12, & 13)
 
 ## Steps to install
 
@@ -14,13 +14,16 @@ Tested with Phh's GSI, LineageOS, CAOS, and PixelExperience (Android 10, 11 & 12
     ```
     $ fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
     ```
-* Reboot to fastbootd
+* Reboot to fastboot mode
+    ```
+    $ fastboot reboot fastboot
+    ```
 * Flash the system image with the `fastboot` utility:
     ```
     $ fastboot flash system system-image.img
     ```
 
-* Tip: If you're running out of space, you could remove the `product` partition by doing this (this might be destructive):
+* Tips: If you ran out of system partition space, you can remove the `product` partition by doing the following:
     ```
     $ fastboot delete-logical-partition product
     ```
@@ -43,6 +46,6 @@ Tested with Phh's GSI, LineageOS, CAOS, and PixelExperience (Android 10, 11 & 12
 
 ## Additional Notes
 
-* This device uses ARM64 CPU architecture and A/B image (because of system-as-root partition scheme), but does not support seamless update.
+* This device uses ARM64 CPU architecture and A/B image (because of the system-as-root partition scheme), but does not support seamless update.
 
-Tested By: [リェンーゆく (ryenyuku)](https://github.com/ryenyuku) @ Infinix Note 8 (x692), X692-H694KLMX-Q-GL-220311V412 - Last edited on 08/08/2022 - Template created by @zguithues and @hackintosh5
+Tested By: [リェンーゆく (ryenyuku)](https://github.com/ryenyuku) @ Infinix Note 8 (x692), X692-H694KLMX-Q-GL-220311V412 - Last edited on 11/09/2023 - Template created by @zguithues and @hackintosh5
