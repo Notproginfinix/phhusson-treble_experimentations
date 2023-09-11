@@ -8,13 +8,13 @@ Tested with Phh's GSI, LineageOS, CAOS, and PixelExperience (Android 10, 11, 12,
 
 ## Steps to install
 
-* Grab an ARM64 A/B GSI ROM image [here](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list) or from other source
-* Unlock the bootloader and go into bootloader mode
-* Reflash the original vbmeta image but with verification disabled using the `fastboot` utility:
+* Grab an ARM64 A/B GSI ROM image [here](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list) or from other source,
+* Unlock the bootloader and go into bootloader mode,
+* Reflash the original vbmeta image but with verification disabled using the `fastboot` utility;
     ```
     $ fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
     ```
-* Reboot to fastboot mode
+* Reboot to fastboot mode;
     ```
     $ fastboot reboot fastboot
     ```
@@ -44,7 +44,7 @@ Tested with Phh's GSI, LineageOS, CAOS, and PixelExperience (Android 10, 11, 12,
 | Offline Charging          | OK                                                        |
 ---
 
-## Additional Notes
+## Additional Note
 
 * This device uses ARM64 CPU architecture and A/B image (because of the system-as-root partition scheme), but does not support seamless update.
 
