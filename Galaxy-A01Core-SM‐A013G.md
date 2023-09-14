@@ -24,7 +24,7 @@
 | Fingerprint               | ----------                                                    |
 | NFC                       | ----------                                                    |
 | Offline Charging          | Working.                                                   |
-| Other feature             | MTP no working. (ADB working)                                                   |
+| Other feature             | MTP no working. (ADB working)  to turn on from charging mode, need press down volume+power some sec.                                                |
 ---
 
 Tested By: @AshiVered.
