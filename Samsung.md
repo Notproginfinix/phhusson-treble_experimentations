@@ -1,6 +1,7 @@
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |[[Samsung Galaxy A6 (2018)]]|a6lte|✓|A/B|arm_binder64|
+|[Samsung Galaxy A01Core](https://github.com/phhusson/treble_experimentations/wiki/Galaxy-A01Core-SM%E2%80%90A013G)|a013|✓|A/B|arm_binder64|
 |[[Samsung Galaxy A6 Plus (2018)]]|a6plte|✓|A (A/B after updated to One UI 2.0)|arm_binder64|
 |[[Samsung Galaxy A7 (2018)]]|a7y18lte|✓|A (A/B after updated to One UI 2.0)|arm64|
 |[[Samsung Galaxy A8 (Exynos)]]|jackpotlte|✓|A (A/B)|arm64|
