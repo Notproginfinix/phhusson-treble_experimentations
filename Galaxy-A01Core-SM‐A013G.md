@@ -29,5 +29,3 @@
 
 Tested By: @AshiVered.
 ROM tested: [lir 18 (Android 11)](https://sourceforge.net/projects/treblerom/files/LiR/2022.03.25/lir-v316-220325-a64-bvZ-lite.img.xz/download) Tried other ROMs too but they were more buggy.
-
-**!!!IF YOU'RE EDITING THIS TEMPLATE TO ADD YOUR DEVICE, CREATE ITS PAGE AND EDIT THERE, OTHERWISE YOU'LL DELETE THE TEMPLATE ITSELF!!!**
