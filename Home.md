@@ -18,6 +18,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 Since the original device list is pretty long, all supported devices are now categorized by brand. If you can't see your device's brand here, it might be placed at **Miscellaneous** page.
 
 * [[Asus]]
+* [[Duoqin]]
 * [[Google]]
 * [[HTC]]
 * [[Huawei]]
@@ -35,4 +36,3 @@ Since the original device list is pretty long, all supported devices are now cat
 * [[Xiaomi]]
 * [[ZTE and Nubia]]
 * [[Miscellaneous]]
-* [[Duoqin]]
