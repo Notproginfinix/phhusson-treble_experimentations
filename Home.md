@@ -35,3 +35,4 @@ Since the original device list is pretty long, all supported devices are now cat
 * [[Xiaomi]]
 * [[ZTE and Nubia]]
 * [[Miscellaneous]]
+* [[Duoqin]]
