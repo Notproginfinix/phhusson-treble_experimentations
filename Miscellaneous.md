@@ -48,9 +48,6 @@
 |[[Doogee X50]]|X50|✓|A|arm|
 |[[Doogee Y8]]|Y8|✓|A/B|arm64|
 |[[Doogee S58 Pro]]|n/a|✓|A/B|arm64|
-|[[Duoqin Qin 2]]|sp9832e_1h10_go|✓|A/B|arm64|
-|[[Duoqin Qin 2 Pro]]|s9863a1h10|✓|A/B|arm64|
-|[[Duoqin Qin F21 Pro](https://github.com/phhusson/treble_experimentations/wiki/DouQin-Qin-F21Pro)]|N/A|✓|A/B|arm64|
 |[[Elephone Soldier]]|n/a|✓|A|arm64|
 |[[Elephone U Pro]]|U_Pro|✓|A/B|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
