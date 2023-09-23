@@ -18,7 +18,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|22 Sep|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Aug 2023|
+|22 Sep|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Sep 2023|
 |20 Sep|VoltageOS|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_voltage/releases)|[GitHub](https://github.com/ahnet-69/treble_voltage)|ARM64|Sep 2023|
 |14 Sep|Pixel Experience (Plus)|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases/) / [Telegram](https://t.me/pixelexperiencegsi)|[GitHub](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Aug 2023|
 |12 Sep|DerpFest|KoysX| [Download](https://github.com/KoysX/treble_DerpFest_GSI/releases)|[GitHub](https://github.com/KoysX/treble_DerpFest_GSI)|ARM64|Aug 2023|
