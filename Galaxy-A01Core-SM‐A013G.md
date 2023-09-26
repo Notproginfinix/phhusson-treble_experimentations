@@ -19,7 +19,7 @@
 | Speaker / Mic             | Working. headset not working.                                                    |
 | Bluetooth                 | No tested.                                                    |
 | WiFi                      | Working.                                                   |
-| SIM / Mobile Data / Voice | Working (SMS/Calls). Mobile data No tested.                                                    |
+| SIM / Mobile Data / Voice | Working (SMS/Calls). Mobile data Not working.                                                    |
 | VoLTE                     | No tested.|
 | Fingerprint               | ----------                                                    |
 | NFC                       | ----------                                                    |
