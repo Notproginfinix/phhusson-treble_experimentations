@@ -1,11 +1,9 @@
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|[[Alldocube iPlay40 Pro]]|n/a|✓|A|arm64|
 |[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[Alldocube Power M3]]|n/a|✓|A|arm64|
 |[AllView V3 Viper](https://github.com/phhusson/treble_experimentations/wiki/Casper-Via-M4-(AllView-V3-Viper))|V3_Viper|✓|A|arm64|
-|[[Amazon Kindle Fire HD 10 2019]]|maverick|✓|A|arm_binder64|
-|[Barnes & Noble Nook Tablet 10.1" 2018 (BNTV650)](https://github.com/phhusson/treble_experimentations/wiki/Barnes-&-Noble-Nook-Tablet-10.1%22)|st18c10bnn|✓|A|arm64|
+|[[Amazon Kindle Fire HD 10 2019]]|maverick|✓|A|arm_binder64||[Barnes & Noble Nook Tablet 10.1" 2018 (BNTV650)](https://github.com/phhusson/treble_experimentations/wiki/Barnes-&-Noble-Nook-Tablet-10.1%22)|st18c10bnn|✓|A|arm64|
 |[[Barnes & Noble Nook Tablet 7" 2018 (BNTV460)]]|st18c7bnn|✓|A|arm|
 |[[Blackview A20]]|a20|✓|A|arm|
 |[[Blackview A60]]|a60|✓|A|arm|
@@ -51,9 +49,6 @@
 |[[Elephone Soldier]]|n/a|✓|A|arm64|
 |[[Elephone U Pro]]|U_Pro|✓|A/B|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
-|[[eSurfing No. 1 (2020)]]|TYH201H|✓|A/B|arm64|
-|[[eSurfing No. 1 (2021)]]|TYH211H|✓|A/B|arm64|
-|[[eSurfing No. 1 (2022)]]|TYH212H|✓|A/B|arm64|
 |[[Fairphone 3]]|FP3|✓|A/B|arm64|
 |[[F(x)tec Pro1]]|QX1000|✓|A/B|arm64|
 |[[General Mobile GM 8]]|GM8_sprout|✓|A/B (VNDKLITE)|arm64|
@@ -64,8 +59,15 @@
 |[[General Mobile GM 20]]|G301|✓|A/B|arm64|
 |[[General Mobile GM 20 Pro]]|G501|✓|A/B|arm64|
 |[[GOME U9]]|n/a|✓|A|arm64|
-|[[Hot Pepper Serrano]]|HPP-L55B|not sure|A/B|arm_binder64|
-|[[HP Elite x3 and Pro x3]]|butler|✓|A|arm64|
+|[[Infinix Hot 8]]|x650|✓|A/B|arm_binder64|
+|[[Infinix Note 5]]|x604|✓|A/B|arm64|
+|[[Infinix Note 6]]|x610|✓|A/B|arm64|
+|[[Infinix Note 7]]|x690b|✓|A/B|arm64|
+|[[Infinix Note 7]]|x690|✓|A/B|arm64|
+|[[Infinix Note 8]]|x692|✓|A/B|arm64|
+|[[Infinix Note 10 Pro]]|x695c|✓|A/B|arm64|
+|[[Infinix Zero 6]]|x620|✓|A/B|arm64|
+|[[Infinix Zero 8]]|x687|✓|A/B|arm64|
 |[[INOI 2 Lite]]|n/a|✓|A|arm|
 |[[Itel A32F]]|f8007|✓|A|arm|
 |[[Jinga Start LTE]]|ji50ag1_169hp|✓|A|arm|
@@ -80,9 +82,8 @@
 |[[MBI S10]]|s10|✓|A|arm64|
 |[[Meizu 18]]|meizu_18|✓|A/B|arm64|
 |[[Micromax In 1]]|E6746|✓|A/B|arm64|
-|[[Microsoft Surface Duo]]|epsilon|✓|A/B|arm64|
-|[[Microsoft Surface Duo 2]]|zeta|✓|A/B|arm64|
-|[[Nintendo Switch]]|icosa, lowa, hoag and aula||A/B|arm64|
+|[[Microsoft Surface Duo]]|duo|✓|A/B|arm64|
+|[[Microsoft Surface Duo 2]]|duo2|✓|A/B|arm64|
 |[[QRD750 and QRD765]]|lito|✓|A/B|arm64|
 |[[Rakuten Mini C330]]|C330|✓|A/B|arm64|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
@@ -94,20 +95,20 @@
 |[[Sharp Aquos R3]]|NAX|✓|A/B|arm64|
 |[[Sharp Aquos Zero 2]]|n/a|✓|A/B|arm64|
 |[[Sharp Aquos Zero 5G Basic]]|OJ6|✓|A/B|arm64|
-|[[Skyworth TV Box E900V22C]]|p291_iptv|✓|A/B|arm|
 |[[Tecno Camon X]]|TECNO-CA7|✓|A|arm64|
 |[[Teracube One]]|v7101o|✓|A/B|arm64|
 |[[Timovi Insignia Delta 3]]|n/a|✓|A|arm|
-|[[Ulefone Armor 9]]|n/a|✓|A/B|arm64|
 |[[Umidigi A7 Pro]]|A7 Pro|✓|A/B|arm64|
 |[[Umidigi Bison]]|Bison|✓|A/B|arm64|
 |[[Umidigi F2]]|F2|✓|A/B|arm64|
 |[[Umidigi Power]]|Power|✓|A/B|arm64|
 |[[Umidigi Power 3]]|Power_3|✓|A/B|arm64|
 |[[Umidigi X]]|Umidigi_X|✓|A/B|arm64|
-|[[Unihertz Titan]]|not sure|not sure|A/B|arm64|
 |[[Vsmart Joy 2+]]|V420A|✓|A/B|arm64|
-|[[Vsmart Joy 3+]]|V430|✓|A/B|arm64|
+|[[Vsmart  Joy 3+]]|V430|✓|A/B|arm64|
+|[[vivo Y20 2021]]|PD2036|✓|A/B|arm64|
+|[[vivo Y12s]]|PD2036|✓|A/B|arm64|
+|[[vivo Y15]]|PD1901|✓|A/B|arm64|
 |[[Wiko Lenny5]]|w_k400|✓|A|arm|
 |[[Wiko View Max]]|w_p200|✓|A|arm|
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
