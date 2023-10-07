@@ -1,6 +1,6 @@
 Installing GSI in Moto G52(rhode) is same like in many other devices. This device is a **Virtual A/B** device with recovery-as-boot.
 
-Strange thing in this device is, even though it launched with Android 12, vndk and boot shows as Android 11 only. So we can even install Android 11 GSIs in this device.(Tested when I am in Moto Stock Android 12 S1SRS32.38-132-3)
+Because of [GRF](https://www.esper.io/blog/android-dessert-bites-11-grf-323579), vndk and boot shows as Android 11 even though it launched with Android 12. So we can install Android 11 GSIs too in this device.(Tested when I am in Moto Stock Android 12 S1SRS32.38-132-3)
 
 - `adb reboot fastboot` or if you are in fastboot mode run `fastboot reboot fastboot` to boot to fastbootd mode.
 - `fastboot flash system system-gsi.img` to flash GSI. If this command fails, we have to remove product partition to get some space. `fastboot delete-logical-partition product_a`, replace product_a to product_b if active slot is b and rerun the system flash command.
