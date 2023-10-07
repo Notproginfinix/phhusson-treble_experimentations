@@ -109,3 +109,4 @@
 |[[Xiaomi 13]]|fuxi|✓|A/B|arm64|
 |[[Xiaomi 13 Pro]]|nuwa|✓|A/B|arm64|
 |[[Xiaomi Redmi 12C]]|earth|✓|A/B|arm64|
+|[[Xiaomi 12t]]|plato|✓|A/B|arm64|
