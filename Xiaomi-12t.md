@@ -11,6 +11,7 @@ fastboot delete-logical-partition product_a
 fastboot delete-logical-partition product_b
 
 fastboot flash system system.img
+
 fastboot -w
 
 Tested AOSP 13.
