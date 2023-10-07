@@ -15,5 +15,8 @@ fastboot delete-logical-partition product_b
 fastboot flash system system.img
 
 fastboot -w
+fastboot reboot
+**NOTE**
+(If for some reason formating through fastboot doesn't work then try formating data through recovery) 
 
 Tested AOSP 13.
