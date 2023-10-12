@@ -13,7 +13,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |30 Aug|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android13-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|ARM64 - X86|Sep 2023|
 |30 Aug|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Aug 2023|
 |17 July|LeafOS BETA|Linux4|[DL](https://dl.leafos.org/beta/leaf_gsi_arm64/) / [Telegram](https://t.me/leafos)|[GitHub](https://github.com/LeafOS-Project/)|ARM64|July 2023|
-|15 July|LeOS 20 & T|Harvey186|[DL1](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-A13) / [DL2](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|July 2023|
+|15 July|LeOS|Harvey186|[Download](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Sep 2023|
 
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
