@@ -9,7 +9,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|14 Oct|AOSP |ponces|[Telegram](https://t.me/phhtreble)/ [Download](https://github.com/ponces/treble_build_aosp/releases/tag/v2023.10.14) | [GitHub](https://github.com/ponces/treble_build_aosp)|ARM64|Oct 2023|
+|17 Oct|AOSP |ponces|[Telegram](https://t.me/phhtreble)/ [Download](https://github.com/ponces/treble_build_aosp/releases/tag/v2023.10.17) | [GitHub](https://github.com/ponces/treble_build_aosp)|ARM64|Oct 2023|
 
 ## Official Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
