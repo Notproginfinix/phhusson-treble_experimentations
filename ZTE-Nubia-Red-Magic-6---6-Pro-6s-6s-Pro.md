@@ -26,44 +26,49 @@ PWR + VOL- --> Bootloader
     ```
 * Flash this image with the `fastboot` utility:
     ```
-    $ fastboot flash system system-roar-arm64-ab-vanilla.img
+    $ fastboot flash system system-td-arm64-ab-vanilla.img 
     ```
-* Reboot (or wipe device from stock recovery)
+* Reboot (or wipe device from stock recovery).
 
 ## Hardware support
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Works                                                     |
-| Speaker / Mic             | Works with "Qualcomm features / Use alternative audio policy"                                |
-| Headphone                 | Not working |
+| Speaker / Mic             | Works with "Qualcomm features / Use alternative audio policy" |
+| Headphone                 | Works |
 | USB DAC                   | Works |
 | Type-C DP Alt mode        | Works |
 | GPS                       | Works |
-| Bluetooth                 | Works                                                     |
-| WiFi                      | Works (may not see 5G wifi at the first time)                                            |
-| SIM / Mobile Data / Voice | Works                                                    |
-| Tethering                 | Not working |
+| Bluetooth                 | Works |
+| WiFi                      | Works |
+| SIM / Mobile Data / Voice | Works |
+| Tethering                 | Works |
 | Proximity Sensor          | Works |
 | Accelerometer / Gyroscope | Works |
 | VoLTE                     | Not working (China Telecom) (Works with steps in https://github.com/phhusson/treble_experimentations/issues/1681, but not persisted across reboots)                                                    |
-| Fingerprint               | Not working                                                    |
-| Brightness                | Works without auto brightness (light sensor works) |
+| Fingerprint *              | Works |
+| Auto Brightness *                | Works |
 | Offline Charging          | Works                                                    |
-| Quick Charging            | Works (~5A charging current with stock charger) |
-| Fan control               | Works with "Nubia features / FAN speed"                                                    |
+| Quick Charging            | Works  |
+| Fan Control **               | Works with "Nubia features / FAN speed" (Supported auto start/stop depend on charging state)                                                    |
 | Logo LED                  | Not working |
 | RGB LEDs                  | Works with "Nubia features / REDMAGIC RGB" |
 | Display Refreshing Rate   | Supports 60/90/120/144/165Hz with "Misc features / Force FPS" |
+| Double Tap To Wake Up (dt2w) **                 | Works with "Nubia features / Enable DT2W"  |
 | Shoulder Buttons          | Not working |
+| Back Panel Button               | Not working |
 | Side Switch               | Not working |
 | Vibration                 | Works |
 
+\* (TrebleDroid Android >= 14)
+
+\** (TrebleDroid Android >= 14, After this is merged: https://github.com/TrebleDroid/treble_app/pull/16)
 ## Tweaks
 
 | Name | Comment |
 |------|---------|
-|Rounded corners|Set "Misc features / Set rounded corners diameter" to 30~50 and reboot|
+|Rounded corners|Set "Misc features / Set rounded corners diameter" to 30~40 and reboot|
 
 ## Notes
 
@@ -71,4 +76,6 @@ PWR + VOL- --> Bootloader
 2. Nubia is using the test key(external/avb/test/data/testkey_rsa4096.pem) to sign boot, vendor_boot, dtbo and odm partitions. You can create a new `vbmeta.img` with this key from AOSP and keep Magisk with a locked bootloader, also get the working fingerprint.
 ---
 
-Tested By: notsyncing - NX669J(CN), AOSP 11.0 v302 - 2021/03/12 - Template created by @zguithues and @hackintosh5
+Tested By: 
+- notsyncing - NX669J(CN), AOSP 11.0 v302 - 2021/03/12 - Template created by @zguithues and @hackintosh5
+- boydaihungst - NX669J(CN), TrebleDroid AOSP 14.0 2023/10/21
