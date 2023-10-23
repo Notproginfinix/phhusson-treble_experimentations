@@ -36,14 +36,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |14 Sep|Evolution X|ponces|[Telegram](https://t.me/poncesgsi) / [Download](https://github.com/ponces/treble_build_evo/releases/tag/v2023.09.14)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|Aug 2023|
 |14 Sep|Pixel Experience (Plus)|ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases/) / [Telegram](https://t.me/poncesgsi)|[GitHub](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Aug 2023|
 |04 Sep|YAAP|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_yaap/releases)|[GitHub](https://github.com/ahnet-69/treble_yaap)|ARM64|Aug 2023|
-|31 Aug|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/ArrowOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Aug 2023|
-|24 Aug|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Aug 2023|
-|21 Aug|PixelOS|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Aug 2023|
-|10 July|LeaOS (LOS20)|Iceows|[Telegram](https://t.me/leaos_group) / [Download](https://sourceforge.net/projects/altairfr-huawei/files/LeaOS-20.0/)|[GitHub](https://github.com/Iceows/lineage_build_leaos)|ARM64|July 2023|
-|05 July|AlphaDroid|KoysX|[Download](https://github.com/KoysX/treble_alpha_gsi/releases)| [GitHub](https://github.com/KoysX/treble_alpha_gsi)|ARM64|June 2023|
-|21 Jun|BiancaProject|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://sourceforge.net/projects/itzkaguya-gsi/files/BiancaProject/)|[GitHub](https://github.com/BiancaProject)|ARM64|May 2023|
-|16 June|LeaOS (AOSP)|Iceows|[Telegram](https://t.me/leaos_group) / [Downloads](https://sourceforge.net/projects/altairfr-huawei/files/TrebleDroid-GSI/)|[GitHub](https://github.com/Iceows/aosp_patches_leaos/tree/android-13)|ARM64|July 2023|
-|13 May|LMODroid|Lynix|[Download](https://github.com/ItsLynix/pineapple1/releases/tag/LMOdroid) / [Telegram](https://t.me/lynixsuddenlypineapples/)|[GitHub](https://github.com/ItsLynix/pineapple1/releases/tag/LMOdroid)|ARM64|May 2023|
+
 
 
 
@@ -66,9 +59,17 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Aug 2023|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/)|[GitHub](https://github.com/j7b3y/treble_pb)|ARM64|Aug 2023|
-|Jul 2023|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|June 2023|
-|May 2023|RisingOS|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_rising/releases)|[GitHub](https://github.com/ahnet-69/treble_rising)|ARM64|May 2023
+|31 Aug|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/ArrowOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Aug 2023|
+|24 Aug|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Aug 2023|
+|23 Aug|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/)|[GitHub](https://github.com/j7b3y/treble_pb)|ARM64|Aug 2023|
+|21 Aug|PixelOS|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Aug 2023|
+|10 July|LeaOS (LOS20)|Iceows|[Telegram](https://t.me/leaos_group) / [Download](https://sourceforge.net/projects/altairfr-huawei/files/LeaOS-20.0/)|[GitHub](https://github.com/Iceows/lineage_build_leaos)|ARM64|July 2023|
+|07 Jul|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|June 2023|
+|05 Jul|AlphaDroid|KoysX|[Download](https://github.com/KoysX/treble_alpha_gsi/releases)| [GitHub](https://github.com/KoysX/treble_alpha_gsi)|ARM64|June 2023|
+|21 Jun|BiancaProject|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://sourceforge.net/projects/itzkaguya-gsi/files/BiancaProject/)|[GitHub](https://github.com/BiancaProject)|ARM64|May 2023|
+|16 Jun|LeaOS (AOSP)|Iceows|[Telegram](https://t.me/leaos_group) / [Downloads](https://sourceforge.net/projects/altairfr-huawei/files/TrebleDroid-GSI/)|[GitHub](https://github.com/Iceows/aosp_patches_leaos/tree/android-13)|ARM64|July 2023|
+|31 May|RisingOS|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_rising/releases)|[GitHub](https://github.com/ahnet-69/treble_rising)|ARM64|May 2023|
+|13 May|LMODroid|Lynix|[Download](https://github.com/ItsLynix/pineapple1/releases/tag/LMOdroid) / [Telegram](https://t.me/lynixsuddenlypineapples/)|[GitHub](https://github.com/ItsLynix/pineapple1/releases/tag/LMOdroid)|ARM64|May 2023|
 |Mar 2023|VoltageOS|Soli|[Download](https://github.com/Soli666/VoltageOS-GSI/releases) |[GitHub](https://github.com/Soli666)|ARM64 - Binder|Feb 2023|
 |Jan 2023|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/)|[GitHub](https://github.com/universalx-devs/rice_treble)|ARM64|Jan 2023|
 |Dec 2022|Bliss OS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/BlissOS/v16.2/24122022/)| [GitHub](https://github.com/naz664/)|ARM64|Dec 2022|
