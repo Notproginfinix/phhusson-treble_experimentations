@@ -134,4 +134,4 @@ Boots fine and everything is working except the following
 
 Tested By: Racka98 - x650B(International), December 5 Security Patch Vendor - 23 January 2020 - 
 
-Template created by @zguithues and @hackintosh5
+Template created by @zguithues and @hackintosh5 😍🫶
