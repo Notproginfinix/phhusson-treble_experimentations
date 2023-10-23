@@ -158,7 +158,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 10
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|23/01/23|LeOS (Q)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp)|[GitHub](https://github.com/LeOS-GSI/treble-patches)|non-SaR - SaR|ARM - ARM64 - Binder|-|
+|LeOS (Q) 23/01/23|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp)|non-SaR - SaR|ARM - ARM64 - Binder|
 |exTHmUI 23/12/22|xiaoleGun|[Download](https://github.com/exthmui-10-treble/Release/releases)|SAR|ARM64|
 |Firmware collection|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/)|non-SaR - SaR|arm - arm64 - binder|
 |Firmware collection|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://sourceforge.net/projects/treblerom/files/)|non-SaR - SaR|arm - arm64 - binder|
