@@ -68,11 +68,10 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |14 Sep|Evolution X|ponces|[Telegram](https://t.me/poncesgsi) / [Download](https://github.com/ponces/treble_build_evo/releases/tag/v2023.09.14)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|Aug 2023|
 |14 Sep|Pixel Experience (Plus)|ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases/) / [Telegram](https://t.me/poncesgsi)|[GitHub](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Aug 2023|
+|Aug 2023|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/)|[GitHub](https://github.com/j7b3y/treble_pb)|ARM64|Aug 2023|
 |29 July|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|June 2023|
 |May 2023|RisingOS|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_rising/releases)|[GitHub](https://github.com/ahnet-69/treble_rising)|ARM64|May 2023
-|Mar 2023|SparkOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/SparkOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Feb 2023|
 |Mar 2023|VoltageOS|Soli|[Download](https://github.com/Soli666/VoltageOS-GSI/releases) |[GitHub](https://github.com/Soli666)|ARM64 - Binder|Feb 2023|
-|Feb 2023|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/)|[GitHub](https://github.com/j7b3y/treble_pb)|ARM64|Feb 2023|
 |Jan 2023|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/)|[GitHub](https://github.com/universalx-devs/rice_treble)|ARM64|Jan 2023|
 |Dec 2022|Bliss OS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/BlissOS/v16.2/24122022/)| [GitHub](https://github.com/naz664/)|ARM64|Dec 2022|
 |Nov 2022|YAAP|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/YAAP/29102022)|[GitHub](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
