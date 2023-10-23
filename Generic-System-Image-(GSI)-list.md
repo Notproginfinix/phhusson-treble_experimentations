@@ -25,7 +25,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |22 Oct|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Sep 2023|
-|17 Oct|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Oct 2023|
+|20 Oct|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Oct 2023|
 |17 Oct|LineageOS<br>TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|Oct 2023|
 |15 Oct|LineageOS<br>"Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Oct 2023|
 |15 Oct|SparkOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/SparkOS_gsi/releases/tag/v2023.10.15)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Sep 2023|
