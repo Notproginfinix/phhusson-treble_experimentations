@@ -3,12 +3,15 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 - *Only use GSI images with an Android version that's higher or equal to the version of Android that came with your device.*
 - *If your device uses VNDKLite, only use VNDKLite GSIs. To verify what image is right for your device, check the "Required Image" section of the [Treble Info](https://github.com/phhusson/treble_experimentations/wiki/Frequently-Asked-Questions-(FAQ)#how-can-i-check-if-my-device-is-treble-enabled) app.*
 - *All images here require a System-as-Root ("A/B") partition style, unless otherwise specified through a column.*
+## Official Android 14		
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|25 Oct|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Oct 2023|
 
 ## Unofficial Android 14	
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|25 Oct|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Oct 2023|
 |20 Oct|AOSP |ponces|[Telegram](https://t.me/phhtreble)/ [Download](https://github.com/ponces/treble_build_aosp/releases) | [GitHub](https://github.com/ponces/treble_build_aosp)|ARM64|Oct 2023|
 
 
