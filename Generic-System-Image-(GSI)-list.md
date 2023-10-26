@@ -22,6 +22,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |01 Oct|AncientOS|Nazim|[Download](https://ancientrom.xyz/download) / [Pling](https://www.pling.com/p/1766574/) / [Telegram](https://t.me/naz_dev)|-|ARM64 - Binder|Sep 2023|
 |27 Sep|Project Elixir|KrutosX & Lynix|[XDA](https://forum.xda-developers.com/t/gsi-rom-project-elixir-3-5-android-13-0-aosp-official-13-01-2023.4541063/) / [Download](https://www.pling.com/p/1960767/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phhgsi_generic/)|ARM64|Sep 2023|
 |25 Sep|LeOS 20|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Sep 2023|
+|06 Sep|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Aug 2023|
 |17 Jul|LeafOS BETA|Linux4|[DL](https://dl.leafos.org/beta/leaf_gsi_arm64/) / [Telegram](https://t.me/leafos)|[GitHub](https://github.com/LeafOS-Project/)|ARM64|July 2023|
 
 ## Unofficial Android 13		
@@ -34,7 +35,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |15 Oct|SparkOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/SparkOS_gsi/releases/tag/v2023.10.15)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Sep 2023|
 |09 Oct|AlphaDroid|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_alphadroid_patches/releases/tag/A13-v20231009)|[GitHub](https://github.com/ChonDoit/treble_alphadroid_patches)|ARM64|Oct 2023|
 |09 Oct|DerpFest|KoysX| [Download](https://github.com/KoysX/treble_DerpFest_GSI/releases)|[GitHub](https://github.com/KoysX/treble_DerpFest_GSI)|ARM64|Oct 2023|
-|1 Oct|RisingOS|MisterZtr|[Download](https://github.com/MisterZtr/RisingOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/RisingOS_gsi)|ARM64|Sep 2023|
+|01 Oct|RisingOS|MisterZtr|[Download](https://github.com/MisterZtr/RisingOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/RisingOS_gsi)|ARM64|Sep 2023|
 |21 Sep|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Sep 2023|
 |20 Sep|VoltageOS|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_voltage/releases)|[GitHub](https://github.com/ahnet-69/treble_voltage)|ARM64|Sep 2023|
 |14 Sep|Evolution X|ponces|[Telegram](https://t.me/poncesgsi) / [Download](https://github.com/ponces/treble_build_evo/releases/tag/v2023.09.14)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|Aug 2023|
