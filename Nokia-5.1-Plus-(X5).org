@@ -1,6 +1,4 @@
-* Hardware Support (AOSP 10)
-
-
+## Hardware Support (AOSP 10)
 ----
 
 Camera	✓
@@ -17,7 +15,10 @@ VoLTE	✓
 
 Fingerprint	✓
 
-
+## Known clones of Nokia 5.1 Plus
+* Waltron Primo RX7 mini
+* Bq Aquaris Aurora SE
+* Red Chilli 9X (红辣椒 9X)
 
 
 * AOSP 10 tested by Asim Ranjha
