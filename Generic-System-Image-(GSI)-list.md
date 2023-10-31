@@ -13,7 +13,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |26 Oct|AOSP |ponces|[Telegram](https://t.me/phhtreble)/ [Download](https://github.com/ponces/treble_build_aosp/releases) | [GitHub](https://github.com/ponces/treble_build_aosp)|ARM64|Oct 2023|
-|28 Oct|Evolution X|boydaihungst|[Download](https://sourceforge.net/projects/nubia-6s-pro-pixel-gsi/files/evo_android_14/)| |ARM64|Oct 2023|
+|28 Oct|Evolution X|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_evo/releases)| |ARM64|Oct 2023|
 
 
 ## Official Android 13		
