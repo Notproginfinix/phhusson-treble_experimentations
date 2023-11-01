@@ -84,7 +84,9 @@ PWR + VOL- --> Bootloader
 2. You can re-lock your bootloader with stock ROM to restore your fingerprint. Back up your persist partition.
 3. Nubia is using the test key(external/avb/test/data/testkey_rsa4096.pem) to sign boot, vendor_boot, dtbo and odm partitions. You can create a new `vbmeta.img` with this key from AOSP and keep Magisk with a locked bootloader, also get the working fingerprint.
 ---
-
+4. Unbrick tool: 
+- 6/6pro: https://drive.google.com/file/d/15QjRvedmB7J7bJPqffMdKQ4qnWMtIWm-/view?usp=drivesdk
+- 6s/6spro: https://drive.google.com/file/d/12udr9yKexzLCpBjB0lwhSNU6C6poKOhR/view?usp=sharing
 Tested By: 
 - notsyncing - NX669J(CN), AOSP 11.0 v302 - 2021/03/12 - Template created by @zguithues and @hackintosh5
 - boydaihungst - NX669J(CN), TrebleDroid AOSP 14.0 2023/10/21
