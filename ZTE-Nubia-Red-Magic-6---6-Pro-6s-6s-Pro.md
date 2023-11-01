@@ -64,13 +64,15 @@ PWR + VOL- --> Bootloader
 | Vibration                 | Works |
 
 \* (TrebleDroid Android >= 14)
-## Tweaks
 
 \** The Chinese version doesn't have NFC. If you want to stop hwmanager from flooring log with (init: try to start nfc): 
 - Root with magisk and install module [magic_overlayfs](https://github.com/HuskyDG/magic_overlayfs). 
 - Then run open termux and run cmd: `su -mm -c magic_remount_rw` to enable r/w. 
 - Open any file explorer and go to `/odm/etc/vintf/` then remove `manifest_nfc.xml`.
 - Next, go to `/odm/etc/permissions/sku_nfc/` and remove all files starting with `android.hardware.nfc`.
+
+
+## Tweaks
 
 | Name | Comment |
 |------|---------|
