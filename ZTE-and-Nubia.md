@@ -19,9 +19,9 @@
 |[[ZTE Nubia Red Magic 5G]]|nx659j|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic 5G Lite]]|nx651j|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic 5S]]|nx659s|✓|A/B|arm64|
-|[[ZTE Nubia Red Magic 6 / 6 Pro]]|nx669j|✓|A/B|arm64|
+|[ZTE Nubia Red Magic 6 / 6 Pro](https://github.com/phhusson/treble_experimentations/wiki/ZTE-Nubia-Red-Magic-6---6-Pro-6s-6s-Pro)|nx669j|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic 6R]]|nx666j|✓|A/B|arm64|
-|[[ZTE Nubia Red Magic 6S Pro]]|nx666s|✓|A/B|arm64|
+|[ZTE Nubia Red Magic 6S Pro](https://github.com/phhusson/treble_experimentations/wiki/ZTE-Nubia-Red-Magic-6---6-Pro-6s-6s-Pro)|nx666s|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic 7]]|nx679j|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic 7 Pro]]|nx709j|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic 7S]]|nx679s|✓|A/B|arm64|
