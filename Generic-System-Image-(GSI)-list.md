@@ -18,7 +18,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 
 
-## Official Android 13		
+## Official Android 13	
+	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |20 Oct|Google GSI|Google|[Download] (https://ci.android.com/builds/branches/aosp-android13-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|ARM64 - X86|Oct 2023|
@@ -28,10 +29,11 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |06 Sep|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Aug 2023|
 |17 Jul|LeafOS BETA|Linux4|[DL](https://dl.leafos.org/beta/leaf_gsi_arm64/) / [Telegram](https://t.me/leafos)|[GitHub](https://github.com/LeafOS-Project/)|ARM64|July 2023|
 
-## Unofficial Android 13		
+## Unofficial Android 13	
+	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-03 Nov|BaikalOS|ChonDoit[Download](https://github.com/ChonDoit/treble_baikal_patches/releases) 
+03 Nov|BaikalOS|ChonDoit|[GitHub] (https://github.com/ChonDoit/treble_baikal_patches/releases) 
 |28 Oct|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/ArrowOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Sept 2023|
 |27 Oct|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Oct 2023|
 |22 Oct|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Sep 2023|
