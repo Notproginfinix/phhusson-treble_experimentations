@@ -22,7 +22,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|20 Oct|Google GSI|Google|[Download] (https://ci.android.com/builds/branches/aosp-android13-gsi/grid?) / [Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|ARM64 - X86|Oct 2023|
+|20 Oct|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android13-gsi/grid?) / [Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|ARM64 - X86|Oct 2023|
 |01 Oct|AncientOS|Nazim|[Download](https://ancientrom.xyz/download) / [Pling](https://www.pling.com/p/1766574/) / [Telegram](https://t.me/naz_dev)|-|ARM64 - Binder|Sep 2023|
 |27 Sep|Project Elixir|KrutosX & Lynix|[XDA](https://forum.xda-developers.com/t/gsi-rom-project-elixir-3-5-android-13-0-aosp-official-13-01-2023.4541063/) / [Download](https://www.pling.com/p/1960767/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phhgsi_generic/)|ARM64|Sep 2023|
 |25 Sep|LeOS 20|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Sep 2023|
