@@ -33,6 +33,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|04 Nov|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Oct 2023|
 |03 Nov|BaikalOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_baikal_patches/releases)|[Github](https://github.com/ChonDoit/treble_baikal_patches)|ARM64|Oct 2023| 
 |28 Oct|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/ArrowOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Sept 2023|
 |03 Nov|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases/tag/A13-v20231103)|[GitHub](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Oct 2023|
@@ -71,7 +72,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|24 Aug|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Aug 2023|
 |23 Aug|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/)|[GitHub](https://github.com/j7b3y/treble_pb)|ARM64|Aug 2023|
 |21 Aug|PixelOS|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Aug 2023|
 |10 July|LeaOS (LOS20)|Iceows|[Telegram](https://t.me/leaos_group) / [Download](https://sourceforge.net/projects/altairfr-huawei/files/LeaOS-20.0/)|[GitHub](https://github.com/Iceows/lineage_build_leaos)|ARM64|July 2023|
