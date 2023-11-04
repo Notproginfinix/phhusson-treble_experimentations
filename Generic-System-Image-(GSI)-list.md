@@ -12,8 +12,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|01 Nov|AOSP|ponces|[Telegram](https://t.me/phhtreble)/ [Download](https://github.com/ponces/treble_build_aosp/releases) | [GitHub](https://github.com/ponces/treble_build_aosp)|ARM64|Oct 2023|
 |02 Nov|DerpFest|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_derpfest/releases)|[GitHub](https://github.com/boydaihungst/treble_build_derpfest) |ARM64|Oct 2023|
+|01 Nov|AOSP|ponces|[Telegram](https://t.me/phhtreble)/ [Download](https://github.com/ponces/treble_build_aosp/releases) | [GitHub](https://github.com/ponces/treble_build_aosp)|ARM64|Oct 2023|
 |31 Oct|Evolution X|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_evo/releases)| [GitHub](https://github.com/boydaihungst/treble_build_evo/)|ARM64|Oct 2023|
 
 
