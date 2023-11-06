@@ -1,12 +1,15 @@
 # RMX1971
 
 Summary of what works and doesn't.
+
 ## Steps to install
+
 * Download any Phh based GSI
 * Flash *.img file using any `custom recovery` or `fastboot`:
 
     ```
     $ fastboot flash system *.img && fastboot -w && fastboot reboot
+
     ```
 ## Notes
 * In order to use android 14 you must flash custom vendor (flash custom rom (i used evox latest) then wipe system partition but leave vendor or use backed up vendor image).
