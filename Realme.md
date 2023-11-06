@@ -3,6 +3,7 @@
 |[[Realme 1]]|CPH1859 / CPH1861|✓|A/B|arm64|
 |[[Realme 2 / C1]]|RMX1805 / RMX1811|✓|A (A/B when updated to Android 9)|arm64|
 |[[Realme 3 Pro]]|RMX1851|✓|A/B|arm64|
+|[[Realme 5 Pro ]]|RMX1971|✓|A/B|arm64|
 |[[Realme 6]]|RMX2001|✓|A/B|arm64|
 |[[Realme 6 Pro]]|RMX206X|✓|A/B|arm64|
 |[[Realme 6i]]|RMX2040|✓|A/B|arm64|
