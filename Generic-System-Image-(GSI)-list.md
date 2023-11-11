@@ -12,12 +12,10 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|11 Nov|Evolution-X|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_evo/releases)|[GitHub](https://github.com/ahnet-69/treble_evo)|ARM64|Nov 2023|
 |10 Nov|DerpFest|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_derpfest/releases)|[GitHub](https://github.com/boydaihungst/treble_build_derpfest) |ARM64|Nov 2023|
 |08 Nov|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_build_aosp/releases) | [GitHub](https://github.com/ponces/treble_build_aosp)|ARM64|Nov 2023|
 |05 Nov|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases/tag/Udon-0.1.3)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Nov 2023|
-|31 Oct|Evolution X|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_evo/releases)| [GitHub](https://github.com/boydaihungst/treble_build_evo/)|ARM64|Oct 2023|
-
-
 
 ## Official Android 13	
 	
@@ -69,6 +67,11 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 <details>
 <summary>Legacy GSIs</summary>
 <br>
+
+## Unofficial Android 14
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|31 Oct|Evolution X|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_evo/releases)| [GitHub](https://github.com/boydaihungst/treble_build_evo/)|ARM64|Oct 2023|
 
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
