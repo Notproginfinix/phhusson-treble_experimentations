@@ -1,6 +1,7 @@
 # RMX1971
 
 Summary of what works and doesn't.
+* No bugs till yet. 
 
 ## Steps to install
 
