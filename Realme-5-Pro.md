@@ -12,14 +12,15 @@ Summary of what works and doesn't.
 
     ```
 ## Notes
-* In order to use android 14 you must flash custom vendor (flash custom rom (i used evox latest) then wipe system partition but leave vendor or use backed up vendor image).
+* In order to use android 14 you must flash stock rom (f.06)first.
 * For Indian Jio SIM Card users, signal may not show. To fix this, go to Setting -> Network & internet -> SIMs -> Preferred network type and choose LTE (recommended) instead of 3G. Now Jio will work.
+* Magisk doesn't work on android 14. (tested version 26.4)
 
 ## Hardware support
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Not working                                                   |
+| Camera                    | working                                                   |
 | Speaker / Mic             | Working                                                   |
 | Bluetooth                 | Working (with audio)                                                   |
 | WiFi                      | Working                                                   |
@@ -31,4 +32,4 @@ Summary of what works and doesn't.
 | MTP                       | Working                                                   |
 ---
 
-Tested By: [abkdmn](https://t.me/abkdmn) RMX1971,  Version: [PHH Android 14 r2](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20231030)                                                      
+Tested By: [abkdmn](https://t.me/abkdmn) RMX1971,  Version: [PHH Android 14 r14](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20231107)                                                      
