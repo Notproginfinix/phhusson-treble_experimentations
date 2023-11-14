@@ -26,6 +26,6 @@ Summary of what works and doesn't
 | Other feature             | To be tested                                              |
 ---
 
-Tested By: **InsertX2k** - **SM-A207F/DS(EGY)**, Build Number - **A207FXXS5CWF1**
+Tested By: **InsertX2k** - On **SM-A207F/DS(EGY)**, Build Number - **A207FXXS5CWF1**
 
 GSI Tested: [android_13.0.0_r73 ci-20230905 - TrebleDroid](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20230905) (file: **system-td-arm64-ab-vndklite-vanilla.img.xz**)
