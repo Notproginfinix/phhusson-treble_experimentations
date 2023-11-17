@@ -23,7 +23,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|08 Nov|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android13-gsi/grid?) / [Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|-|ARM64 - X86|Nov 2023|
+|15 Nov|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android13-gsi/grid?) / [Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|-|ARM64 - X86|Nov 2023|
 |05 Nov|Project Elixir|KrutosX & Lynix|[XDA](https://forum.xda-developers.com/t/gsi-rom-project-elixir-3-5-android-13-0-aosp-official-13-01-2023.4541063/) / [Download](https://www.pling.com/p/1960767/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phhgsi_generic/)|ARM64|Oct 2023|
 |01 Oct|AncientOS|Nazim|[Download](https://ancientrom.xyz/download) / [Pling](https://www.pling.com/p/1766574/) / [Telegram](https://t.me/naz_dev)|-|ARM64 - Binder|Sep 2023|
 |25 Sep|LeOS 20|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Sep 2023|
@@ -57,8 +57,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Latest Android 10, 11, 12 GSIs	
 |Updated|Version|Image|Maintainer|Links|Sources|Partition Style|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|07 Nov|12|AOSP|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SAR|ARM64 - X86|Nov 2023|
-|26 Oct|11|AOSP|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|Oct 2023|
+|15 Nov|12|AOSP|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SAR|ARM64 - X86|Nov 2023|
+|17 Nov|11|AOSP|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|Nov 2023|
 |20 Oct|10|/e/ OS|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|[GitLab](https://gitlab.e.foundation/e)|non-SaR - SaR|ARM - ARM64 - Binder|Oct 2023|
 |17 Oct|12|LineageOS 19.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/)/[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified)|SAR|ARM64 - Binder|Oct 2023|
 |26 Sep|12|LeOS 19.1|Harvey186| [Downloads](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [Telegram](https://t.me/LeOS_Support)|[GitHub](https://github.com/LeOS-GSI/LeOS-S-patches)|SAR|ARM64 - Binder|Sep 2023|
