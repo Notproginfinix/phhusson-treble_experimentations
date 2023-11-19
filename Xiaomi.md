@@ -45,6 +45,12 @@
 |[[Xiaomi Mi Note 10 Lite]]|toco|✓|A/B|arm64|
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
 |[[Xiaomi Mi Play]]|lotus|✓|A|arm64|
+|[[Xiaomi Mi Smart Clock and Xiao Ai Smart Speaker]]|X04G and LX04|✓|A|arm64|
+|[[Xiaomi 11T Pro]]|vili|✓|A/B|arm64|
+|[[Xiaomi 12 Pro]]|zeus|✓|A/B|arm64|
+|[[Xiaomi 12t]]|plato|✓|A/B|arm64|
+|[[Xiaomi 13]]|fuxi|✓|A/B|arm64|
+|[[Xiaomi 13 Pro]]|nuwa|✓|A/B|arm64|
 |[[Xiaomi Poco F1]]|beryllium|✓|A|arm64|
 |[[Xiaomi Poco M2]]|shiva|✓|A/B|arm64|
 |[[Xiaomi Poco M2 Pro]]|gram|✓|A/B|arm64|
@@ -66,6 +72,7 @@
 |[[Xiaomi Redmi 10C / 10 - India]]|fog|✓|A/B|arm64|
 |[[Xiaomi Redmi 10X 5G]]|atom|✓|A/B|arm64|
 |[[Xiaomi Redmi 10X Pro]]|bomb|✓|A/B|arm64|
+|[[Xiaomi Redmi 12C]]|earth|✓|A/B|arm64|
 |[[Xiaomi Redmi Go]]|tiare|✓|A|arm|
 |[[Xiaomi Redmi K20 / Mi 9T]]|davinci|✓|A/B|arm64|
 |[[Xiaomi Redmi K20 Pro / Mi 9T Pro]]|raphael|✓|A/B|arm64|
@@ -104,9 +111,3 @@
 |[[Xiaomi Redmi Note 11]]|spesn|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 11 5G(China) / Redmi Note 11T 5G(India)]]|evergo|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
-|[[Xiaomi 11T Pro]]|vili|✓|A/B|arm64|
-|[[Xiaomi 12 Pro]]|zeus|✓|A/B|arm64|
-|[[Xiaomi 13]]|fuxi|✓|A/B|arm64|
-|[[Xiaomi 13 Pro]]|nuwa|✓|A/B|arm64|
-|[[Xiaomi Redmi 12C]]|earth|✓|A/B|arm64|
-|[[Xiaomi 12t]]|plato|✓|A/B|arm64|
