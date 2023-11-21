@@ -1,7 +1,5 @@
 # Device
 
-Summary of what works and doesn't
-
 ## Steps to install
 
 See [this](https://xdaforums.com/t/samsung-galaxy-a03-rooting-and-gsi-installation-guide.4642322/) XDA forums thread.
