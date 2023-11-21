@@ -59,7 +59,7 @@ PWR + VOL- --> Bootloader
 | RGB LEDs                  | Works with "Nubia features / REDMAGIC RGB" |
 | Display Refreshing Rate   | Supports 60/90/120/144/165Hz with "Misc features / Force FPS" |
 | Double Tap To Wake Up (dt2w) *                 | Works with "Nubia features / Enable DT2W"  |
-| Shoulder Buttons/triggers *         | works |
+| Shoulder Buttons/triggers *         | Works (need 3rd app to map key. (tested with Octopus)) |
 | Back Panel Button         | Not working |
 | Side Switch               | Not working |
 | Vibration                 | Works |
