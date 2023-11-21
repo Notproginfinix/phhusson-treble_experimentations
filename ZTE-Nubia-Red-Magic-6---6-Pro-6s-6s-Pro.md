@@ -68,7 +68,7 @@ PWR + VOL- --> Bootloader
 
 \** The Chinese version doesn't have NFC. If you want to stop hwmanager from flooring log with (init: try to start nfc): 
 - Root with magisk and install module [magic_overlayfs](https://github.com/HuskyDG/magic_overlayfs). 
-- Then run open termux and run cmd: `su -mm -c magic_remount_rw` to enable r/w. 
+- Then open termux and run cmd: `su -mm -c magic_remount_rw` to enable r/w. 
 - Open any file explorer and go to `/odm/etc/vintf/` then remove `manifest_nfc.xml`.
 - Next, go to `/odm/etc/permissions/sku_nfc/` and remove all files starting with `android.hardware.nfc`.
 
@@ -83,9 +83,9 @@ PWR + VOL- --> Bootloader
 
 ## Notes
 
-2. You can re-lock your bootloader with stock ROM to restore your fingerprint. Back up your persist partition.
-3. Nubia is using the test key(external/avb/test/data/testkey_rsa4096.pem) to sign boot, vendor_boot, dtbo and odm partitions. You can create a new `vbmeta.img` with this key from AOSP and keep Magisk with a locked bootloader, also get the working fingerprint.
-4. Unbrick tool (Go to EDL mode, Open miflashtool > select `images` folder and click "flash"):
+1. You can re-lock your bootloader with stock ROM to restore your fingerprint. Back up your persist partition.
+2. Nubia is using the test key(external/avb/test/data/testkey_rsa4096.pem) to sign boot, vendor_boot, dtbo and odm partitions. You can create a new `vbmeta.img` with this key from AOSP and keep Magisk with a locked bootloader, also get the working fingerprint.
+3. Unbrick tool (Enter EDL mode (in bootloader, screen will turn black), Open miflashtool > select `images` folder and click "flash". After finish hold power button 10-15s to restart. Then select format userdata):
 - 6/6pro: https://drive.google.com/file/d/15QjRvedmB7J7bJPqffMdKQ4qnWMtIWm-/view?usp=drivesdk
 - 6s/6spro: https://drive.google.com/file/d/12udr9yKexzLCpBjB0lwhSNU6C6poKOhR/view?usp=sharing
 ---
