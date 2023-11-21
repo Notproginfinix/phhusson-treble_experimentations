@@ -50,6 +50,7 @@ PWR + VOL- --> Bootloader
 | VoLTE                     | Not working (China Telecom) (Works with steps in https://github.com/phhusson/treble_experimentations/issues/1681, but not persisted across reboots)                                                    |
 | RCS Message *              | Works |
 | Fingerprint *              | Works |
+| Brightness                | Works (Select "Set alternative brightness curve" and "Force alternative backlight scale" in phh setting > misc features > backlight) |
 | Auto Brightness *                | Works |
 | Offline Charging          | Works                                                    |
 | Quick Charging            | Works  |
@@ -58,8 +59,8 @@ PWR + VOL- --> Bootloader
 | RGB LEDs                  | Works with "Nubia features / REDMAGIC RGB" |
 | Display Refreshing Rate   | Supports 60/90/120/144/165Hz with "Misc features / Force FPS" |
 | Double Tap To Wake Up (dt2w) *                 | Works with "Nubia features / Enable DT2W"  |
-| Shoulder Buttons          | Not working |
-| Back Panel Button               | Not working |
+| Shoulder Buttons/triggers *         | works |
+| Back Panel Button         | Not working |
 | Side Switch               | Not working |
 | Vibration                 | Works |
 
@@ -78,6 +79,7 @@ PWR + VOL- --> Bootloader
 |------|---------|
 |Rounded corners|Set "Misc features / Set rounded corners diameter" to 30~40 and reboot|
 |Boost CPU| For faster fingerprint scanning|
+|DTS:X ultra|Need rooted and install this magisk module [DTSX-Ultra-ZTE-A2020G-Pro-Magisk-Module](https://github.com/reiryuki/DTSX-Ultra-ZTE-A2020G-Pro-Magisk-Module)|
 
 ## Notes
 
