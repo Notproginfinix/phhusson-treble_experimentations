@@ -59,7 +59,7 @@ FLOSS versions include the following open source alternatives to GAPPS:
 * [AnySoftKeyboard](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/)
 * [Yalp Store](https://f-droid.org/en/packages/com.github.yeriomin.yalpstore/)
 * [K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)
-* [Riot.im](https://f-droid.org/en/packages/im.vector.alpha/)
+* [Element](https://f-droid.org/en/packages/im.vector.app/)
 * [DAVdroid](https://f-droid.org/en/packages/at.bitfire.davdroid/)
 * [Nextcloud](https://f-droid.org/en/packages/com.nextcloud.client/)
 * [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
