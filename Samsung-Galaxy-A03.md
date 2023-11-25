@@ -14,7 +14,7 @@ See [this](https://xdaforums.com/t/samsung-galaxy-a03-rooting-and-gsi-installati
 | WiFi                      | Works                                                     |
 | Tethering                 | Works, with full WPA3 and 5GHz support                    |
 | SIM / Mobile Data / Voice | Partially works, incoming SMS need [this][1] module       |
-| VoLTE/VoWiFi              | Not yet tested, likely does not work                      |
+| VoLTE/VoWiFi              | Does not work                      |
 | Face recognition          | Does not work                                             |
 | Offline Charging          | Does not show percentage                                  |
 ---
