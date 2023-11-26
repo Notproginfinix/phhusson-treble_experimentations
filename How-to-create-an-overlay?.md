@@ -1,8 +1,8 @@
 ## Preparation
 
-This guide is only for Treble-enabled devices with **stock firmware**. For devices that were Treble-enabled via a custom firmware, please coordinate directly with its developer.
+This guide is only for Treble-enabled devices with **stock firmware**. For devices that were Treble-enabled via custom firmware, please coordinate directly with its developer.
 
-You should also have your stock firmware on hand and a method to extract system files from it, or have the stock firmware installed on your device. You can use [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases/latest) to extract system files inside your firmware file.
+You should also have your stock firmware on hand and a method to extract system files from it or have the stock firmware installed on your device. You can use [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases/latest) to extract system files inside your firmware file.
 
 This procedure assumes that you use an Ubuntu or Linux Mint machine. If you are on another Linux distro, you can use [Distrobox](https://github.com/89luca89/distrobox). If you are on Windows, you can use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install).
 
@@ -18,9 +18,7 @@ sudo apt install git xmlstarlet aapt apktool
 
 ## Locating the stock overlays
 
-Find the following files on your firmware, either by extracting it from your stock firmware file or copying it from a device with stock firmware.
-
-Grab the APKs from the following locations. If you can't see the exact file, just take a similarly-named APK on the directory, or look at other related directories. Whatever you find, grab it and set it aside for the procedure.
+Grab the APKs from the following locations. If you can't see the exact file, just take a similarly-named APK on the directory, or look at other related directories. Whatever you find, grab it and set it aside for the procedure. You can also extract them from your stock firmware file.
 
 - `/system/product/overlay/framework-res__auto_generated_rro_product.apk`
 - `/system/vendor/overlay/framework-res__auto_generated_rro_vendor.apk`
@@ -31,13 +29,13 @@ Grab the APKs from the following locations. If you can't see the exact file, jus
 
 To grab the values from the overlay APKs, `cd` into the directory where the overlay APK is stored, and run `apktool d nameOfApk.apk -o ./nameOfThePartitionTheApkCameFrom`.
 
-Navigate to the `product` folder and get the `power_profile.xml` under `res/xml`. Do the same on the `vendor` folder. If there is no power profile on the product overlay or there is no difference between the power profile on the product and vendor overlays, then you don't need a power profile as it is on the vendor partition already.
+Navigate to the `product` folder and get the `power_profile.xml` under `res/xml`. Do the same on the `vendor` folder. If there is no power profile on the product overlay or there is no difference between the power profile on the product and vendor overlays, then you don't need a power profile as it is on the vendor partition already. If there is a difference between the power profile on the product overlay and the vendor overlay, use the profile from the product overlay.
 
 Also, under `res/values`, take the files named `arrays.xml`, `bools.xml`, `dimens.xml`, `integers.xml`, and `strings.xml`. Do this to both `product` and `vendor`.
 
 ## Comparing the product and vendor overlays
 
-The values on the product overlay is more accurate than the vendor partition. Also, flashing a GSI only overwrites the product partition and not the vendor partition. Therefore, the overlay you're creating only needs to include the overrides the product overlay has.
+The values on the product overlay are more accurate than the vendor partition. Also, flashing a GSI only overwrites the product partition and not the vendor partition. Therefore, the overlay you're creating only needs to include the overrides the product overlay has.
 
 Compare the `arrays.xml`, `bools.xml`, `dimens.xml`, `integers.xml`, and `strings.xml` of the product and vendor partitions. Make a `config.xml` file and paste the following:
 
@@ -48,7 +46,7 @@ Compare the `arrays.xml`, `bools.xml`, `dimens.xml`, `integers.xml`, and `string
 </resources>
 ```
 
-Inside the `<resources></resources>` part, put in all the values that product overlay has differences with the vendor overlay. You can use online text difference checkers for this part. **Read all the examples carefully for guidance.**
+Inside the `<resources></resources>` part, put in all the values that the product overlay has differences from the vendor overlay. You can use online text difference checkers for this part. **Read all the examples carefully for guidance.**
 
 ### Examples
 
@@ -77,7 +75,7 @@ Therefore, this is now our `config.xml`:
 
 ![Image](https://i.imgur.com/BQE2Urh.png)
 
-The vendor overlay is on the left, and the product overlay is on the right. The product overlay does not have the following values even though the vendor overlay have those:
+The vendor overlay is on the left, and the product overlay is on the right. The product overlay does not have the following values even though the vendor overlay has those:
 
 ```xml
     <bool name="config_carrier_volte_available">true</bool>
@@ -118,7 +116,7 @@ Fork [TrebleDroid/vendor_hardware_overlay](https://github.com/TrebleDroid/vendor
 
 ### Making `AndroidManifest.xml`
 
-Run the `tests.sh` script under the `tests` folder an take note of the suggested priority number it outputs.
+Run the `tests.sh` script under the `tests` folder and take note of the suggested priority number it outputs.
 
 Under the folder of your phone's brand, make a folder for your model. Inside, make a file named `AndroidManifest.xml` and paste this:
 
@@ -173,15 +171,15 @@ Just replace `brandName` and `modelName` with the values you used earlier.
 
 Make a `res` folder beside the two previous files, and inside it make `values` and `xml` folders. Inside the `xml` folder, place the `power_profile.xml` from earlier. Delete the `xml` folder if you don't need a power profile.
 
-Place the `config.xml` file from earlier on the `values` folder.
+Place the `config.xml` file from earlier in the `values` folder.
 
 ### Adding your overlay to the build list
 
-Open the `overlay.mk` file on the root of the repo you cloned and add the value of `LOCAL_PACKAGE_NAME` from your `Android.mk` to the list. Follow the alphabetical order, indentation, and don't forget the ` \` at the end of each items.
+Open the `overlay.mk` file on the root of the repo you cloned and add the value of `LOCAL_PACKAGE_NAME` from your `Android.mk` to the list. Follow the alphabetical order, indentation, and don't forget the ` \` at the end of each item.
 
 ### Testing your overlay
 
-Go to the `tests` folder again and run `tests.sh` script once more. Look for errors for your overlay. Delete values that causes errors and run the test script again. Do this until there are no more errors for your overlay.
+Go to the `tests` folder again and run `tests.sh` script once more. Look for errors for your overlay. Delete values that cause errors and run the test script again. Do this until there are no more errors for your overlay.
 
 ### Building and retesting your overlay
 
