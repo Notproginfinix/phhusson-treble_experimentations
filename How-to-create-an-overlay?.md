@@ -1,128 +1,199 @@
-## First of all
-This guide is made for devices providing Treble with **stock vendor**. For devices with only unofficial implementation, cooperate directly with the unofficial vendor provider.
+## Preparation
 
-Set up a **Linux machine** – it may be the newest Ubuntu or Mint. If you aren't planning to run it alongside Windows, use a virtual machine, for example VirtualBox, or build with Jenkins.
+This guide is only for Treble-enabled devices with **stock firmware**. For devices that were Treble-enabled via a custom firmware, please coordinate directly with its developer.
 
-You can install all needed deps with this command `sudo apt install git xmlstarlet aapt apktool`
+You should also have your stock firmware on hand and a method to extract system files from it, or have the stock firmware installed on your device. You can use [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases/latest) to extract system files inside your firmware file.
 
-## Make overlay
+This procedure assumes that you use an Ubuntu or Linux Mint machine. If you are on another Linux distro, you can use [Distrobox](https://github.com/89luca89/distrobox). If you are on Windows, you can use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install).
 
-Install **apktool** by following its guide.
-If there's a `framework-res__auto_generated_rro.apk`, `FrameworksResCommon.apk` (or something like that) overlay on your device in `/vendor/overlay` directory, copy it to your PC. If there's nothing like that (try searching for everything with framework and .apk in the name), install your stock system (or extract it on PC) and copy the `system/framework/framework-res.apk` file.
-Whatever you found, **decompile** it by apktool.
+### Setting up the necessary tools
 
-Install **git** if you don't have it by:
-`sudo apt install git`
+Run the following commands:
 
-On your desktop, open up the terminal, write:
-`git clone https://github.com/phhusson/vendor_hardware_overlay.git`
-
-Find your brand or create its directory, create a directory with your device's official name inside it. Copy some other device's `Android.mk` and replace in it:
-`LOCAL_PACKAGE_NAME := treble-overlay-brand-device`
-
-On your device, in **adb** or **Termux** app use this command:
-`getprop ro.vendor.build.fingerprint`
-
-On PC, copy `AndroidManifest.xml` and replace in it:
-
-`package="me.phh.treble.overlay.brand.device"`
-
-`android:requiredSystemPropertyValue="+brand/device*"`
-
-Where brand and device for property value is what you got from that `getprop` command.
-
-Then inside your device's directory, create a `res` folder and copy inside the `xml` folder (If there is no `power_profile.xml` in **decompile** `system/framework/framework-res.apk` and copy its `res/xml/power_profile.xml` into it) from apk **decompiled** by apktool. Then inside the `res`, also copy the `values` folder. Inside it, delete every file which isn't called `arrays`, `bools`, `integers`, `strings` (.xml).
-
-## Build with your own PC
-
-Install **xmlstarlet** if you don't have it by:
-`sudo apt install xmlstarlet`
-Then go into `vendor_hardware_overlay/tests`, open terminal and run:
-`bash tests.sh`
-
-If you see lines like this `defines a non-existing attribute APKTOOL_DUMMY_36` after test you need to delete this attribute from config.xml
-
-As a result, you'll get a recommended priority level which you should replace in your `AndroidManifest.xml`.
-Inside the `overlay.mk` of main directory add your `LOCAL_PACKAGE_NAME`, in the alphabetic order.
-
-Then if you want (but you should), go into `vendor_hardware_overlay/build/` and run:
-`bash build.sh`
-It'll build you an overlay which you should put in `/system/product/overlay/` on your device.
-
-(if you see errors like this when you build overlays `Error: No resource found that matches the given name (at 'storageDescription' with value '@string/storage_usb').` you need to remove this attributes from files)
-
-## Build with Jenkins
-
-Before building, you should push your commit into Github first.
-
-Install **xmlstarlet** on your remote server if you don't have it by:
-`sudo apt install xmlstarlet`
-
-Set a new job in Jenkins (Freestyle project is OK)
-
-Navigate to `General` section, click `ADVANCED...`, then make `Use custom workspace` checked.
-
-Then set a path (what you like, e.g: `/tmp/overlay`) into `Directory` field.
-
-Navigate to `Build` section, click `ADD BUILD STEP`, then select `Execute shell`.
-
-Copy following codes into `Command` field:
-
-```shell
-#!/bin/bash
-
-git clone https://github.com/yourusername/vendor_hardware_overlay.git
-cd vendor_hardware_overlay
-git checkout master
-cd build
-chmod u+x ./build.sh
-./build.sh
-cd ../tests
-chmod u+x tests.sh
-./tests.sh
+```bash
+sudo apt update
+sudo apt upgrade
+sudo apt install git xmlstarlet aapt apktool
 ```
 
-After that, navigate to `Post-build Actions`, click `ADD POST-BUILD ACTION`, then select `Archive the artifacts`.
+## Locating the stock overlays
 
-Input `vendor_hardware_overlay/build/*.apk` into `Files to archive` field.
+Find the following files on your firmware, either by extracting it from your stock firmware file or copying it from a device with stock firmware.
 
-Click `ADD POST-BUILD ACTION` again, then select `Delete workspace when build is done`.
+Grab the APKs from the following locations. If you can't see the exact file, just take a similarly-named APK on the directory, or look at other related directories. Whatever you find, grab it and set it aside for the procedure.
 
-Finally, Click `Save`, and click `Build Now`.
+- `/system/product/overlay/framework-res__auto_generated_rro_product.apk`
+- `/system/vendor/overlay/framework-res__auto_generated_rro_vendor.apk`
 
-(Don't forget to view `Console Output`, it will show errors here.)
+⚠️ Avoid taking values from the system partition. Those are extremely inaccurate generic information.
 
-If build succeeded, you can see there's a link named `Last Successful Artifacts`.
+## Decompiling the stock overlays
 
-Then click `(all files in zip)` to download your overlay files.
+To grab the values from the overlay APKs, `cd` into the directory where the overlay APK is stored, and run `apktool d nameOfApk.apk -o ./nameOfThePartitionTheApkCameFrom`.
 
-## Push to Github
+Navigate to the `product` folder and get the `power_profile.xml` under `res/xml`. Do the same on the `vendor` folder. If there is no power profile on the product overlay or there is no difference between the power profile on the product and vendor overlays, then you don't need a power profile as it is on the vendor partition already.
 
-On GitHub, create an account and fork the **original repo** by phhusson.
-Open up terminal in `vendor_hardware_overlay`, then type:
+Also, under `res/values`, take the files named `arrays.xml`, `bools.xml`, `dimens.xml`, `integers.xml`, and `strings.xml`. Do this to both `product` and `vendor`.
 
-`git add --all`
+## Comparing the product and vendor overlays
 
-`git commit -m "Add overlay for yourdevicenamehere"`
+The values on the product overlay is more accurate than the vendor partition. Also, flashing a GSI only overwrites the product partition and not the vendor partition. Therefore, the overlay you're creating only needs to include the overrides the product overlay has.
 
-`git remote add myrepo https://github.com/yourusername/vendor_hardware_overlay.git`
+Compare the `arrays.xml`, `bools.xml`, `dimens.xml`, `integers.xml`, and `strings.xml` of the product and vendor partitions. Make a `config.xml` file and paste the following:
 
-`git push myrepo pie`
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+</resources>
+```
 
+Inside the `<resources></resources>` part, put in all the values that product overlay has differences with the vendor overlay. You can use online text difference checkers for this part. **Read all the examples carefully for guidance.**
 
-Then use **pull request** function on GitHub and **apply to tips and guidance** by people commenting :)
+### Examples
 
-If you do extra changes, repeat:
+![Image](https://i.imgur.com/Bnreq8d.png)
 
-`git commit -m "Your change description"`
+The vendor overlay is on the left, and the product overlay is on the right. The product overlay adds the following:
 
-`git push myrepo pie`
+```xml
+    <string-array name="config_biometric_sensors">
+        <item>0:2:15</item>
+        <item>1:8:4095</item>
+    </string-array>
+```
 
-If you create a messy pile of commits or your git "stops working", copy your changes somewhere else, clone **original** (phhusson) repo again, paste your changes into the newly downloaded one and force push them by:
-`git add --all`
+Therefore, this is now our `config.xml`:
 
-`git commit -m "Add overlay for yourdevicenamehere"`
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_biometric_sensors">
+        <item>0:2:15</item>
+        <item>1:8:4095</item>
+    </string-array>
+</resources>
+```
 
-`git remote add myrepo https://github.com/yourusername/vendor_hardware_overlay.git`
+![Image](https://i.imgur.com/BQE2Urh.png)
 
-and: `git push -f myrepo pie`
+The vendor overlay is on the left, and the product overlay is on the right. The product overlay does not have the following values even though the vendor overlay have those:
+
+```xml
+    <bool name="config_carrier_volte_available">true</bool>
+    <bool name="config_carrier_volte_provisioned">true</bool>
+    <bool name="config_carrier_volte_tty_supported">false</bool>
+    <bool name="config_carrier_vt_available">true</bool>
+    <bool name="config_device_volte_available">true</bool>
+    <bool name="config_device_vt_available">true</bool>
+    <bool name="config_device_wfc_ims_available">true</bool>
+```
+
+We are not gonna touch those values or add those to `config.xml` as it is not overridden by the product overlay.
+
+Meanwhile, the product overlay has this value while the vendor does not have it:
+
+```xml
+   <bool name="config_supportAudioSourceUnprocessed">false</bool>
+```
+
+We are going to add it as it is not declared on the vendor overlay. This is now our `config.xml`:
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_biometric_sensors">
+        <item>0:2:15</item>
+        <item>1:8:4095</item>
+    </string-array>
+    <bool name="config_supportAudioSourceUnprocessed">false</bool>
+</resources>
+```
+
+Looking back, we have `power_profile.xml` and `config.xml`. This is what we are going to submit to the overlay repo.
+
+## Creating your overlay
+
+Fork [TrebleDroid/vendor_hardware_overlay](https://github.com/TrebleDroid/vendor_hardware_overlay) and clone the fork to your computer.
+
+### Making `AndroidManifest.xml`
+
+Run the `tests.sh` script under the `tests` folder an take note of the suggested priority number it outputs.
+
+Under the folder of your phone's brand, make a folder for your model. Inside, make a file named `AndroidManifest.xml` and paste this:
+
+```xml
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="me.phh.treble.overlay.brandName.modelName"
+        android:versionCode="1"
+        android:versionName="1.0">
+        <overlay android:targetPackage="android"
+        	android:requiredSystemPropertyName="ro.vendor.build.fingerprint"
+        	android:requiredSystemPropertyValue="+*brandName/modelName*"
+		android:priority="yourSuggestedPriorityNumber"
+		android:isStatic="true" />
+</manifest>
+```
+
+Replace `yourSuggestedPriorityNumber` with the priority number you saw earlier. I got `553`.
+
+Replace the `brandName` and `modelName` with information from running `getprop ro.vendor.build.fingerprint` on a terminal on your phone. For example, if I get `samsung/a03nnxx/a03:11/RP1A.200720.012/A035FXXU4CWI1:user/release-keys`, my `brandName` is `samsung` and my `modelName` is `a03`. This is now my example `AndroidManifest.xml`:
+
+```xml
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="me.phh.treble.overlay.samsung.a03"
+        android:versionCode="1"
+        android:versionName="1.0">
+        <overlay android:targetPackage="android"
+        	android:requiredSystemPropertyName="ro.vendor.build.fingerprint"
+        	android:requiredSystemPropertyValue="+*samsung/a03*"
+		android:priority="553"
+		android:isStatic="true" />
+</manifest>
+```
+
+### Making `Android.mk`
+
+Make another file named `Android.mk` and paste this:
+
+```makefile
+LOCAL_PATH := $(call my-dir)
+include $(CLEAR_VARS)
+LOCAL_MODULE_TAGS := optional
+LOCAL_PACKAGE_NAME := treble-overlay-brandName-modelName
+LOCAL_MODULE_PATH := $(TARGET_OUT_PRODUCT)/overlay
+LOCAL_IS_RUNTIME_RESOURCE_OVERLAY := true
+LOCAL_PRIVATE_PLATFORM_APIS := true
+include $(BUILD_PACKAGE)
+```
+
+Just replace `brandName` and `modelName` with the values you used earlier.
+
+### Adding the overlay files
+
+Make a `res` folder beside the two previous files, and inside it make `values` and `xml` folders. Inside the `xml` folder, place the `power_profile.xml` from earlier. Delete the `xml` folder if you don't need a power profile.
+
+Place the `config.xml` file from earlier on the `values` folder.
+
+### Adding your overlay to the build list
+
+Open the `overlay.mk` file on the root of the repo you cloned and add the value of `LOCAL_PACKAGE_NAME` from your `Android.mk` to the list. Follow the alphabetical order, indentation, and don't forget the ` \` at the end of each items.
+
+### Testing your overlay
+
+Go to the `tests` folder again and run `tests.sh` script once more. Look for errors for your overlay. Delete values that causes errors and run the test script again. Do this until there are no more errors for your overlay.
+
+### Building and retesting your overlay
+
+Go to the `build` folder and run the `build.sh` script. When it is done building, look for the `treble-overlay-brandName-modelName.apk` for your device. Place it on `/system/vendor/overlay`, preferably by [making your own Magisk module](https://topjohnwu.github.io/Magisk/guides.html). See if your device runs fine with the module and if all issues are fixed. If not, modify the overlay further until it works.
+
+## Submitting the overlay
+If the overlay works properly, you can now make a pull request to get your overlay included on TrebleDroid sources. Simply go to your fork on GitHub click `Contribute` then `Open pull request`. Fill up the necessary info and confirm the action.
+
+## Now what?
+
+Look out on your device's groups or forums if there are any issues with GSIs built after the time your pull request was approved. It may be related to your overlay. Feel free to fix it and send an updated overlay.
+
+## Help
+
+If you need any help, do not hesitate to ask on [our Telegram group](https://t.me/phhtreble).
