@@ -25,7 +25,7 @@ Grab the APKs from the following locations. If you can't see the exact file, jus
 - `/system/product/overlay/framework-res__auto_generated_rro_product.apk`
 - `/system/vendor/overlay/framework-res__auto_generated_rro_vendor.apk`
 
-⚠️ Avoid taking values from the system partition. Those are extremely inaccurate generic information.
+⚠️ Avoid taking values from the `system/framework` folder. Those are extremely inaccurate generic information.
 
 ## Decompiling the stock overlays
 
