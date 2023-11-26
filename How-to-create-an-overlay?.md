@@ -27,7 +27,7 @@ Grab the APKs from the following locations. If you can't see the exact file, jus
 
 ## Decompiling the stock overlays
 
-To grab the values from the overlay APKs, `cd` into the directory where the overlay APK is stored, and run `apktool d nameOfApk.apk -o ./nameOfThePartitionTheApkCameFrom`.
+To grab the values from the overlay APKs, copy the APKs to your computer, `cd` into the directory where you copied them to, and run `apktool d nameOfApk.apk -o ./nameOfThePartitionTheApkCameFrom`.
 
 Navigate to the `product` folder and get the `power_profile.xml` under `res/xml`. Do the same on the `vendor` folder. If there is no power profile on the product overlay or there is no difference between the power profile on the product and vendor overlays, then you don't need a power profile as it is on the vendor partition already. If there is a difference between the power profile on the product overlay and the vendor overlay, use the profile from the product overlay.
 
