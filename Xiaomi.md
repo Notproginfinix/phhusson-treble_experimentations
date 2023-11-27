@@ -110,5 +110,5 @@
 |[[Xiaomi Redmi Note 10S]]|rosemary|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 11]]|spesn|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 11 5G(China) / Redmi Note 11T 5G(India)]]|evergo|✓|A/B|arm64|
-|[[]]|xun|✓|A/B|arm64|
+|[[[Xiaomi Redmi Pad SE](https://github.com/phhusson/treble_experimentations/wiki/Xiaomi-Redmi-Pad-SE)]]|xun|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
