@@ -62,7 +62,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 <br>
 <details>
-<summary>Legacy GSIs</summary>
+<summary>Legacy GSIs (Discontinued)</summary>
 <br>
 
 ## Unofficial Android 14
