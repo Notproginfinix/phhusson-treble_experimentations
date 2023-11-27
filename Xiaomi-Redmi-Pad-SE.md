@@ -1,6 +1,6 @@
 ## Installation process
 Download the ROM and you must extract the .IMG file found inside, you can download any GSI ROM from this page:
-https://github.com/phhusson/treble_experiments/wiki/Generic-System-Image-%28GSI%29-list
+https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list
 
 Copy the file into the platform-tools folder, if you do not have said folder you can download it from HERE: https://developer.android.com/studio/releases/platform-tools
 
