@@ -46,10 +46,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |09 Oct|AlphaDroid|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_alphadroid_patches/releases/tag/A13-v20231009)|[GitHub](https://github.com/ChonDoit/treble_alphadroid_patches)|ARM64|Oct 2023|
 |09 Oct|DerpFest|KoysX| [Download](https://github.com/KoysX/treble_DerpFest_GSI/releases)|[GitHub](https://github.com/KoysX/treble_DerpFest_GSI)|ARM64|Oct 2023|
 |01 Oct|RisingOS|MisterZtr|[Download](https://github.com/MisterZtr/RisingOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/RisingOS_gsi)|ARM64|Sep 2023|
-|20 Sep|VoltageOS|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_voltage/releases)|[GitHub](https://github.com/ahnet-69/treble_voltage)|ARM64|Sep 2023|
-|14 Sep|Evolution X|ponces|[Telegram](https://t.me/poncesgsi) / [Download](https://github.com/ponces/treble_build_evo/releases/tag/v2023.09.14)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|Aug 2023|
-|14 Sep|Pixel Experience (Plus)|ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases/) / [Telegram](https://t.me/poncesgsi)|[GitHub](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Aug 2023|
-|04 Sep|YAAP|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_yaap/releases)|[GitHub](https://github.com/ahnet-69/treble_yaap)|ARM64|Aug 2023|
 
 
 
@@ -74,6 +70,10 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|20 Sep|VoltageOS|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_voltage/releases)|[GitHub](https://github.com/ahnet-69/treble_voltage)|ARM64|Sep 2023|
+|14 Sep|Evolution X|ponces|[Telegram](https://t.me/poncesgsi) / [Download](https://github.com/ponces/treble_build_evo/releases/tag/v2023.09.14)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|Aug 2023|
+|14 Sep|Pixel Experience (Plus)|ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases/) / [Telegram](https://t.me/poncesgsi)|[GitHub](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Aug 2023|
+|04 Sep|YAAP|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_yaap/releases)|[GitHub](https://github.com/ahnet-69/treble_yaap)|ARM64|Aug 2023|
 |23 Aug|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/)|[GitHub](https://github.com/j7b3y/treble_pb)|ARM64|Aug 2023|
 |21 Aug|PixelOS|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases/tag/v2023.08.21)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Aug 2023|
 |10 July|LeaOS (LOS20)|Iceows|[Telegram](https://t.me/leaos_group) / [Download](https://sourceforge.net/projects/altairfr-huawei/files/LeaOS-20.0/)|[GitHub](https://github.com/Iceows/lineage_build_leaos)|ARM64|July 2023|
