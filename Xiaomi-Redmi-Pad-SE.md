@@ -23,3 +23,6 @@ You must also have the vbmeta.img file, you extract it from the Miui stock ROM, 
 * EvolutionX 7.9.7
 
 ## What works and what doesn't work.
+Apparently everything works, including the 90hz screen, if you find any Bug or error, do not hesitate to edit this page and add the error and I would greatly appreciate a possible solution.
+
+# # # # I hope you have a great day <3
