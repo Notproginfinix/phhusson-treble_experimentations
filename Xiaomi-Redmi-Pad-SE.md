@@ -21,3 +21,5 @@ You must also have the vbmeta.img file, you extract it from the Miui stock ROM, 
 * Project Elixir 3.13
 * ArrowOS 13.1
 * EvolutionX 7.9.7
+
+## What works and what doesn't work.
