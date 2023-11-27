@@ -16,3 +16,5 @@ You must also have the vbmeta.img file, you extract it from the Miui stock ROM, 
 `fastboot erase userdata`
 
 `fastboot reboot`
+
+# Tested GSI ROMs
