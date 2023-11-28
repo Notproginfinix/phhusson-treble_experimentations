@@ -32,6 +32,7 @@
 |[[Nokia C5 Endi]]|paramore / PMC|✓|A/B|arm64|
 |[[Nokia G10]]|rogue / ROG|✓|A/B|arm64|
 |[[Nokia G20]]|ronin / RNN|✓|A/B|arm64|
+|[[Nokia G42 and G310]]|shadow / SDW and shadowTMO / SDT|✓|A/B|arm64|
 |[[Nokia G50]]|punisher / PHR|✓|A/B|arm64|
 |[[Nokia G60]]|apollo / APO|✓|A/B|arm64|
 |[[Nokia X10]]|scarletwitch / SCW|✓|A/B|arm64|
