@@ -14,6 +14,8 @@ Flash GSI IN TWRP
 
 Enter TWRP terminal (https://telegra.ph/Terminal-TWRP-08-01)
 
+ATTENTION: Make sure your current system is in slot _a.
+
 Write this in twrp terminal
 - `lptools remove product_a`
 - `lptools create product_a 335872` (Do not change this value)
