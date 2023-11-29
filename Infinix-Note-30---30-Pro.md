@@ -43,7 +43,7 @@ Write this in twrp terminal
 | Tethering                 | Works |
 | Proximity Sensor          | Works |
 | Accelerometer / Gyroscope | Works |
-| VoLTE                     | Works with "IMS features / Force 4G Calling" |
+| VoLTE                     | Works with "IMS features / Install IMS APK for MediaTek S vendor" |
 | RCS Message               | Works |
 | Fingerprint               | Works |
 | Brightness                | Works |
