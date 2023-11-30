@@ -18,6 +18,10 @@
 
 We are attempting to patch super file to install GSI, as doing the TWRP way wont work, `fastbootd` only works on a very few select handsets, some were successful at installing using fastbootd but few lost their IMEI
 
+## WARNING!!!
+
+If you have successfully installed a GSI, **DO NOT INTERACT WITH PHH TREBLE SETTINGS**, It can cause bootloops, so even if there's no sensor support on the GSI or even VoLTE issue, DO NOT INTERACT WITH PHH Treble Settings, just go download mode and flash another GSI, best to check the Charts below about issues and problems of GSI that works in this particular unit
+
 ## Instructions
 
 ### A. Patch
