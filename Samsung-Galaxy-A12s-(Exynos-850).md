@@ -4,7 +4,7 @@
 
 - [Super Patch](https://github.com/SUFandom/super-patch)
 - [Termux APK](https://github.com/termux/termux-app/releases/latest)
-- Samsung A12 Firmware AP 
+- Samsung A12 Exynos Firmware AP 
 - A capable ARM64 Android Device with 8 cores and 4GB of RAM
 - Magisk Kitsuned Device (Previously called Magisk Delta) - This is important to not loop back to download
 - A reliable Internet and data cable
