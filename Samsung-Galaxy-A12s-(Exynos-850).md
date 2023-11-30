@@ -114,3 +114,16 @@ If you have issues, talk to us: https://t.me/a12schat
 | Pixel Experience Plus and Non plus (VNDK and VNDKLITE) by ponces 	| ✔️                                 	| ❌ - will cause bootloops 	| Any zygisk enabled kills GSI to bootloop<br><br>Only one camera main module works<br><br>Any minimal interaction with phh settings or just barely navigating also bootloops                                                                                                                                                                                                                                                                                                                                                                                                                                                 	| Takt Op. Symphony Surf around 21-25 FPS at Max<br><br><br>Genshin at 28-35 fps<br><br><br>War Thunder Mobile only 32-44 (Low Graphics)         	| Physwizz Kernel                 	|
 | Derpfest Android 14                                              	| ✔️                                 	| ✔️                        	| CPU Util while on energy_step is laggy ( Fix is to set CPU Freq. Minimum at 546, or set CPU Governor at schedutil, performance is okay but its better to set it to schedutil for battery)<br><br>2 out of 4 Camera (wide angle, main) works except macro and B/W<br><br>Fingerprint scans way too sensitive <br><br>Any Minimal Interaction with phh settings or just barely navigating also bootloops<br><br>Unnecessary wakes, fix is disable waking gesture ( This was enabled by default)<br><br>Volume bar goes in the middle of the screen, fix is to just rotate screen, this event is rare so not much of a problem 	| Takt Op. Symphony hits around 39FPS low<br><br><br>Genshin Impact untested yet<br><br><br>War Thunder Mobile surfs around 33-46 (Low graphics) 	| Physwizz Kernel                 	|
 | Miku UI 14                                                       	| TBA                               	| TBA                      	| TBA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	| TBA                                                                                                                                            	| TBA                             	|
+
+
+## Prebuilt Super Images
+
+Here are prebuilt images that will work on Exynos 850 A127 UA (128GB, 4GB RAM)
+
+https://terabox.com/s/1kHhDYta9zdd8IwhwvmkxuA
+
+### Always remember:
+
+- Most GSI may not work unlike other android devices 
+- If you did the steps right and still not booted, its a GSI problem
+- There may be split archives in the host link, download all 7z files to extract super tarfile
