@@ -36,7 +36,7 @@ You must also have the vbmeta.img file, you extract it from the Miui stock ROM, 
 | Volume scale | Works |
 | SafetyNet post root | More or less, sometimes it requires the Play Integrity module through Magisk or KSU to solve it in some ROMs. |
 | Camera | Works |
-| Speaker/Mic | Works (Not fully tested) |
+| Speaker/Mic | Works (Not work jack 3.5mm) |
 | Offline Charging | Sometimes yes, restarting solves it |
 | WideVine certification L1 | Work L1 |
 
