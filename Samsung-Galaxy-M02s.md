@@ -35,7 +35,7 @@
 
 ### Needs further testing.
 
-Tested By: ragebreaker - SM-M025F(INS) - (Oct-23), Lineage-OS Android-12 
+Tested By: ragebreaker - SM-M025F(INS) - Lineage-OS(Oct-23) Android-12 
 
 Updated Date: 30 November 2023
 
