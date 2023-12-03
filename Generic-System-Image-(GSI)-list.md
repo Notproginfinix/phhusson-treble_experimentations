@@ -285,3 +285,12 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |XenonHD|yshalsager|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-xenonhd-t3800543)|non-SaR - SaR|arm - arm64|
 
 </details>
+
+<details>
+<summary>List Maintainence Practices</summary>
+1. List should be sorted by update time.
+2. Outdated = not updated in 3 months.
+3. Outdated GSI's are transferred to legacy whether or not they are still being maintained is not taken into account.
+4. GSI's that are not Outdatdd should not be transferred to legacy whether or not they are still being maintained is not taken into account.
+5. Exception : If only a single GSI in a column has been Outdated, it shall remain in the column & Rule 3 would not apply here. This to due to keep the list smooth.
+</details>
