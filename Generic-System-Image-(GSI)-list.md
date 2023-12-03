@@ -63,7 +63,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 <br>
 <details>
-<summary>Legacy GSIs (Discontinued)</summary>
+<summary><i><b>Legacy GSIs (Discontinued)</b></i></summary>
 <br>
 
 ## Unofficial Android 14
@@ -287,10 +287,11 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 </details>
 
 <details>
-<summary>List Maintainence Practices</summary>
+<summary><i><b>List Maintainence Practices</b></i></summary>
+
 1. List should be sorted by update time.
 2. Outdated = not updated in 3 months.
 3. Outdated GSI's are transferred to legacy whether or not they are still being maintained is not taken into account.
-4. GSI's that are not Outdatdd should not be transferred to legacy whether or not they are still being maintained is not taken into account.
-5. Exception : If only a single GSI in a column has been Outdated, it shall remain in the column & Rule 3 would not apply here. This to due to keep the list smooth.
+4. GSI's that are not Outdated should not be transferred to legacy whether or not they are still being maintained is not taken into account.
+5. If only a single GSI in a column has been Outdated, it shall remain in the column & Rule 3 would not apply here.
 </details>
