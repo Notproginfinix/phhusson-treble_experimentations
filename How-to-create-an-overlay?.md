@@ -183,7 +183,7 @@ Go to the `tests` folder again and run `tests.sh` script once more. Look for err
 
 ### Building and retesting your overlay
 
-Go to the `build` folder and run the `build.sh` script. When it is done building, look for the `treble-overlay-brandName-modelName.apk` for your device. Place it on `/system/vendor/overlay`, preferably by [making your own Magisk module](https://topjohnwu.github.io/Magisk/guides.html). See if your device runs fine with the module and if all issues are fixed. If not, modify the overlay further until it works.
+Go to the `build` folder and run the `build.sh` script. When it is done building, look for the `treble-overlay-brandName-modelName.apk` for your device. Place it on `/system/product/overlay`, preferably by [making your own Magisk module](https://topjohnwu.github.io/Magisk/guides.html). See if your device runs fine with the module and if all issues are fixed. If not, modify the overlay further until it works.
 
 ## Submitting the overlay
 If the overlay works properly, you can now make a pull request to get your overlay included on TrebleDroid sources. Simply go to your fork on GitHub click `Contribute` then `Open pull request`. Fill up the necessary info and confirm the action.
