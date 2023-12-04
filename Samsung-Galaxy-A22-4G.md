@@ -34,11 +34,11 @@ In `TWRP`
 | VoLTE                     | Not working                                               |
 | Fingerprint               | Working                                              |
 | Face Unlock  | Not working                                                   |
-| Offline charging  | Untested, probably works                                                |
-| NFC                       | Untested                                                  |
+| Offline charging  | Working                                               |
+| NFC                       | Probably working, OS shows NFC icon in statusbar                                                |
 | Hotspot / Usb tethering   | Working                                                   |
-| MTP                       | Untested                                                  |
-| 90 HZ                   | Not working                                            |
+| MTP                       | Working                                               |
+| 90 HZ                   | Working with workaround                                            |
 ---
 
 # Workarounds
@@ -58,6 +58,11 @@ TBD
 Thanks to this [Telegram community](https://t.me/Samsung_f22_Community) for all these guides!
 
 ### Test Log
+Tested by [@devid7xw](https://github.com/devid7x) - SM-A225F, phh PixelOS 13
+
+> Date tested - 2023-09-29
+
+
 Tested by [@devid7xw](https://github.com/devid7x) - SM-A225F, phh Pixel Experience 13.0
 
 > Date tested - 2023-07-08
