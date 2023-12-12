@@ -42,5 +42,5 @@ Enable Force always on display in phh settings > misc, and then reboot. Go to lo
 ## Bluetooth crashing SystemUI
 Disable media recommendations under Sound & Vibration > Media > Show media recommendations
 
-
-
+## No internet access (both wifi and mobile data)
+`adb shell settings put global restricted_networking_mode 0`
