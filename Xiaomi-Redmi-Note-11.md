@@ -10,6 +10,7 @@ Mostly working fine (see Hardware support bellow)
 ```
 unxz your_gsi_rom_of_choice.img.xz
 
+wget https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img
 fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
 fastboot reboot fastboot
 fastboot flash system your_gsi_rom_of_choice.img
