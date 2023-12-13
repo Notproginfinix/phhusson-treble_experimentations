@@ -15,7 +15,8 @@ wget https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img
 fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
 
 # Enter fastbootd
-fastboot reboot fastboot  # If this does not work for any reason, boot system and `adb reboot fastboot`
+fastboot reboot fastboot
+# If this does not work for any reason, boot system and `adb reboot fastboot`
 
 # Flash system and wipe userdata
 fastboot flash system your_gsi_rom_of_choice.img
