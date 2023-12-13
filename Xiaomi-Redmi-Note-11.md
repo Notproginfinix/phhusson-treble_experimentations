@@ -10,9 +10,14 @@ Mostly working fine (see Hardware support bellow)
 ```
 unxz your_gsi_rom_of_choice.img.xz
 
+# Flasb vbmeta
 wget https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img
 fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
-fastboot reboot fastboot
+
+# Enter fastbootd
+fastboot reboot fastboot  # If this does not work for any reason, boot system and `adb reboot fastboot`
+
+# Flash system and wipe userdata
 fastboot flash system your_gsi_rom_of_choice.img
 fastboot -w  # Wipe userdata
 ```
