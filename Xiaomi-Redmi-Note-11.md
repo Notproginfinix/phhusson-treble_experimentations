@@ -20,6 +20,7 @@ fastboot reboot fastboot  # If this does not work for any reason, boot system an
 # Flash system and wipe userdata
 fastboot flash system your_gsi_rom_of_choice.img
 fastboot -w  # Wipe userdata
+fastboot reboot
 ```
 
 # Steps to update (if OTA is not working)
