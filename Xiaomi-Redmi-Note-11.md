@@ -1,9 +1,5 @@
 # Tested images
 
-Not working:
-
-- AOSP 12.1 (white screen on boot, with some blue/purple noise on interaction)
-
 Mostly working fine (see Hardware support bellow)
 
 - [TrebleDroid's android_14.0.0_r17 system-td-arm64-ab-vndklite-vanilla.img](https://github.com/TrebleDroid/treble_experimentations/releases/tag/android_14.0.0_r17)
