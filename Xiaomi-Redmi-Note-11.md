@@ -3,7 +3,7 @@
 Mostly working fine (see Hardware support bellow)
 
 - [TrebleDroid's AOSP android_14.0.0_r17: `system-td-arm64-ab-vndklite-vanilla.img`](https://github.com/TrebleDroid/treble_experimentations/releases/tag/android_14.0.0_r17)
-- [AndyYan's unnoficial LineageOS 20: `lineage-20.0-20231116-UNOFFICIAL-arm64_bvS.img`](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)
+- [AndyYan's unnoficial LineageOS 20: `lineage-20.0-20231116-UNOFFICIAL-arm64_bvN.img`](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)
 
 # Steps to install
 
