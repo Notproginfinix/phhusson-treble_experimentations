@@ -6,6 +6,7 @@ Not working:
 
 Mostly working fine (see Hardware support bellow)
 
+- [TrebleDroid's android_14.0.0_r17 system-td-arm64-ab-vndklite-vanilla.img](https://github.com/TrebleDroid/treble_experimentations/releases/tag/android_14.0.0_r17)
 - PixelExperience_arm64-ab-vndklite-12.1-20220329-UNOFFICIAL
 - lineage-20.0-20230218-UNOFFICIAL-arm64_bvS.img
 
