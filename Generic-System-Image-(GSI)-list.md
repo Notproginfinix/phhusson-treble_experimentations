@@ -17,6 +17,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |01 Dec|Evolution X|KoysX|[Download](https://github.com/KoysX/treble_build_evo/releases)|[GitHub](https://github.com/KoysX/treble_build_evo) |ARM64|Nov 2023|
 |25 Nov|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Nov 2023|
 |14 Nov|PixelOS|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Nov 2023|
+|12 Nov|Evolution X|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_evo/releases)|[GitHub](https://github.com/ahnet-69/treble_evo)|ARM64|Nov 2023|
+|31 Oct|Evolution X (Archived)|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_evo/releases)| [GitHub](https://github.com/boydaihungst/treble_build_evo/)|ARM64|Oct 2023|
 
 ## Official Android 13	
 	
@@ -62,12 +64,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 <details>
 <summary><i><b>Legacy GSIs (Discontinued)</b></i></summary>
 <br>
-
-## Unofficial Android 14
-|Updated|Image|Maintainer|Links|Sources|Architecture|Security|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|12 Nov|Evolution X|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_evo/releases)|[GitHub](https://github.com/ahnet-69/treble_evo)|ARM64|Nov 2023|
-|31 Oct|Evolution X (Archived)|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_evo/releases)| [GitHub](https://github.com/boydaihungst/treble_build_evo/)|ARM64|Oct 2023|
 
 ## Official Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
@@ -294,7 +290,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 <summary><i><b>List Maintainence Practices</b></i></summary>
 
 1. List should be sorted by update time.
-2. Outdated = not updated in 3 months.
+2. Outdated = not updated in 2 months.
 3. Outdated GSI's are transferred to legacy whether or not they are still being maintained is not taken into account.
 4. GSI's that are not Outdated should not be transferred to legacy whether or not they are still being maintained is not taken into account.
 5. If only a single GSI in a column has been Outdated, it shall remain in the column & Rule 3 would not apply here.
