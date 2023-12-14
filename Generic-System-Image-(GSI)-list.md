@@ -51,12 +51,10 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Latest Android 10, 11, 12 GSIs	
 |Updated|Version|Image|Maintainer|Links|Sources|Partition Style|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|21 Nov|11|AOSP|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|Nov 2023|
-|19 Nov|12|AOSP|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SAR|ARM64 - X86|Nov 2023|
+|13 Dec|11|AOSP|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|Dec 2023|
+|12 Dec|12|AOSP|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SAR|ARM64 - X86|Dec 2023|
 |10 Nov|10|/e/ OS|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|[GitLab](https://gitlab.e.foundation/e)|non-SaR - SaR|ARM - ARM64 - Binder|Oct 2023|
 |17 Oct|12|LineageOS 19.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/)/[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified)|SAR|ARM64 - Binder|Oct 2023|
-|26 Sep|12|LeOS 19.1|Harvey186| [Downloads](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [Telegram](https://t.me/LeOS_Support)|[GitHub](https://github.com/LeOS-GSI/LeOS-S-patches)|SAR|ARM64 - Binder|Sep 2023|
-|20 Sep|11|SuperiorOS|ChonDoe|[Download](https://github.com/ChonDoit/treble_superior_patches/releases/tag/A11)|[GitHub](https://github.com/ChonDoit/treble_superior_patches/tree/12L)|SAR|ARM 64|Sep 2023|
 
 
 
@@ -97,6 +95,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 12/12L
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Sep 2023|LeOS 19.1|Harvey186| [Downloads](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [Telegram](https://t.me/LeOS_Support)|[GitHub](https://github.com/LeOS-GSI/LeOS-S-patches)|SAR|ARM64 - Binder|Sep 2023|
 |Nov 2022|AOSP 12.1|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|[GitHub](https://github.com/phhusson/treble_experimentations)|SAR|ARM64 - Binder|July 2022|
 |Oct 2022|Corvus OS|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Downloads](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Unofficial/20221008/)|[GitLab](https://gitlab.com/TipzTeam/vendor_generify)|ARM64|July 2022|
 |Aug 2022|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/)/[Downloads](https://sourceforge.net/projects/ancientrom/files/gsi/V6.4/)|-|ARM64 - Binder|August 2022|
@@ -108,7 +107,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 12/12L	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Aug 2023|SuperiorOS 12|ChonDoe|[Download](https://github.com/ChonDoit/treble_superior_patches/releases/tag/A12L)|[GitHub](https://github.com/ChonDoit/treble_superior_patches/tree/12L)|-|ARM 64|July 2023|
+|Aug 2023|SuperiorOS|ChonDoe|[Download](https://github.com/ChonDoit/treble_superior_patches/releases/tag/A12L)|[GitHub](https://github.com/ChonDoit/treble_superior_patches/tree/12L)|-|ARM 64|July 2023|
 |Jun 2023|Pixel Experience 12 |MeowIce| [Download](https://sourceforge.net/projects/meowice-gsi/files/Pixel%20Experience%2012/) / [Telegram](https://t.me/meowicegsi)|-|SaR|ARM64|
 |Nov 2022|Pixel Experience 12|ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Base](https://github.com/ponces/treble_build_pe/releases/tag/v416) / [Plus](https://github.com/ponces/treble_build_pe/releases/tag/v416-plus) /[Telegram](https://t.me/poncesgsi)|[GitHub](https://github.com/ponces/treble_build_pe)|SAR|ARM64|Nov 2022|
 |Oct 2022|Stag OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/StagOS/)|-|ARM64|Jul 2022|
@@ -154,6 +153,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 11
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|Sep 2023|SuperiorOS|ChonDoe|[Download](https://github.com/ChonDoit/treble_superior_patches/releases/tag/A11)|[GitHub](https://github.com/ChonDoit/treble_superior_patches/tree/12L)|SAR|ARM 64|Sep 2023|
 |Jun 2023|LineageOS 18.1|MeowIce| [Download](https://sourceforge.net/projects/meowice-gsi/files/LineageOS/) / [Telegram](https://t.me/meowicegsi)|-|SaR|ARM64|
 |Jun 2023|LeOS (R)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp)|[GitHub](https://github.com/LeOS-GSI/aosp_patches_leaos)|non-SaR - SaR|ARM - ARM64 - Binder|
 |Oct 2022|FLOS (A11)|Chondoe|[Download](https://github.com/ChonDoit/treble_flos_patches/releases/tag/A11)/[Telegram](https://t.me/elranchodecornelio/187)|[GitHub](https://github.com/ChonDoit/treble_flos_patches/tree/11)|SaR|ARM64|
