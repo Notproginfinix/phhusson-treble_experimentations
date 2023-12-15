@@ -12,7 +12,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|10 Dec|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Dec 2023|
+|15 Dec|CRdroid|Braia|[Telegram](https://t.me/DroidZoneBR) / [Download](https://sourceforge.net/projects/braiagsi/files/Test/)
+|10 Dec|AOSP|ponces|[Telegram] (https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Dec 2023|
 |09 Dec|DerpFest|KoysX|[Download](https://github.com/KoysX/treble_DerpFest_GSI/releases)|[GitHub](https://github.com/KoysX/treble_DerpFest_GSI) |ARM64|Nov 2023|
 |01 Dec|Evolution X|KoysX|[Download](https://github.com/KoysX/treble_build_evo/releases)|[GitHub](https://github.com/KoysX/treble_build_evo) |ARM64|Nov 2023|
 |25 Nov|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Nov 2023|
