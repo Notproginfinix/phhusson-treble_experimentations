@@ -28,6 +28,7 @@
 |[[Nokia 8.1 (X7)]]|PNX|✓|A/B|arm64|
 |[Nokia 8.3 5G and 8V 5G UW](https://github.com/phhusson/treble_experimentations/wiki/Nokia-8.3-5G)|BabyGroot / BGT and RiseAgainst / RAV|✓|A/B|arm64|
 |[[Nokia 9 PureView]]|AOP|✓|A/B|arm64|
+|[[Nokia 2780 Flip]]|WND|✓|A/B|arm32-binder64|
 |[[Nokia C2 Tava / Tennen and 2V Tella]]|armstrong|✓|A/B|arm64|
 |[[Nokia C5 Endi]]|paramore / PMC|✓|A/B|arm64|
 |[[Nokia G10]]|rogue / ROG|✓|A/B|arm64|
