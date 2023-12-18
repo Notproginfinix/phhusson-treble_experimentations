@@ -47,7 +47,7 @@ Custom recovery - TWRP, OFOX etc...
 
 ### Running GSIs
 
-Any attempt in running a **secure or secure-on-demand**¹ GSIs that **hasn't been updated at June 2023 or later** will make the device hard reboot every 10-20 seconds after booting up. You might think that the GSI has booted properly but after some seconds, it will do it.
+Any attempt in running a **secure** or **secure-on-demand**¹ GSIs that **hasn't been updated at June 2023 or later** will make the device hard reboot every 10-20 seconds after booting up. You might think that the GSI has booted properly but after some seconds, it will do it.
 
 ¹Only when you **securize** or you turn on **Device Spoof Properties**(On secure-on-demand GSIs)
 
