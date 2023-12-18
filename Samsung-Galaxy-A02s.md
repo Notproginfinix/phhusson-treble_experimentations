@@ -9,7 +9,7 @@
 | SIM / Mobile Data / Voice Calls | WORKING ✅ /  WORKING ✅ / Partially works ✳️ |
 | VoLTE | Unknown ❔ |
 | Offline Charging | WORKING ✅ |
-| Normal / Fast Charging | Unknown ❔ / Unknown ❔ |
+| Normal / Fast Charging | WORKING ✅ / WORKING ✅ |
 | USB / USB OTG | WORKING ✅ / WORKING ✅ |
 
 ##### Terms used:
