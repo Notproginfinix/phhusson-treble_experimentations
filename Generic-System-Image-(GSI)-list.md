@@ -6,8 +6,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|20 Dec|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Dec 2023|
 |18 Dec|LeOS U|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Dec 2023|
-|08 Dec|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Nov 2023|
 
 
 ## Unofficial Android 14	
