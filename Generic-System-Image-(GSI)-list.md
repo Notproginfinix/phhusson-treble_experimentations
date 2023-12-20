@@ -40,7 +40,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |03 Nov|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Oct 2023|
 |28 Oct|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/ArrowOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Sep 2023|
 |22 Oct|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Sep 2023|
-|20 Oct|crDroid|Nazim|[Telegram](htt
 
 
 
@@ -69,7 +68,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-ps://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Oct 2023|
+|20 Oct|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Oct 2023|
 |15 Oct|SparkOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/SparkOS_gsi/releases/tag/v2023.10.15)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Sep 2023|
 |09 Oct|AlphaDroid|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_alphadroid_patches/releases/tag/A13-v20231009)|[GitHub](https://github.com/ChonDoit/treble_alphadroid_patches)|ARM64|Oct 2023|
 |09 Oct|DerpFest|KoysX| [Download](https://github.com/KoysX/treble_DerpFest_GSI/releases)|[GitHub](https://github.com/KoysX/treble_DerpFest_GSI)|ARM64|Oct 2023|
