@@ -13,6 +13,7 @@
 - ZArchiver on Google Play
 - Laptop that has Intel Core or AMD Athlon or Ryzen (Celeron, Pentium, and Intel N works, but ill label them unreliable to handle multitasks and processing)
 - GSI with VNDKLITE (for Zygisk)
+- Device with Physwizz Kernel (Enforce/Permissive) (if you want to install Android 14 GSI or Later, or else some features may break)
 
 ## Explaination
 
