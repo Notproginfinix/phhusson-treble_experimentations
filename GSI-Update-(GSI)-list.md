@@ -1,1 +1,0 @@
-- You can follow updates on [@GSIUpdate](https://t.me/GsiUpdate) Telegram channel.
