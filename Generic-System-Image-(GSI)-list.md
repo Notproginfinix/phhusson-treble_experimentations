@@ -8,7 +8,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |20 Dec|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Dec 2023|
-|18 Dec|LeOS U|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Dec 2023|
+|09 Dec|LeOS U|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Dec 2023|
 
 
 ## Unofficial Android 14	
@@ -29,7 +29,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|December|LeOS 20|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Dec 2023|
+|16 Dec|LeOS 20|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Dec 2023|
 |11 Dec|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android13-gsi/grid?) / [Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|-|ARM64 - X86|Dec 2023|
 |05 Nov|Project Elixir|KrutosX & Lynix|[XDA](https://forum.xda-developers.com/t/gsi-rom-project-elixir-3-5-android-13-0-aosp-official-13-01-2023.4541063/) / [Download](https://www.pling.com/p/1960767/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phhgsi_generic/)|ARM64|Oct 2023|
 
