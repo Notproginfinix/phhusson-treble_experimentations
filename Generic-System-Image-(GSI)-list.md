@@ -25,7 +25,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |01 Dec|Evolution X|KoysX|[Download](https://github.com/KoysX/treble_build_evo/releases)|[GitHub](https://github.com/KoysX/treble_build_evo) |ARM64|Nov 2023|
 |14 Nov|PixelOS|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Nov 2023|
 |12 Nov|Evolution X|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_evo/releases)|[GitHub](https://github.com/ahnet-69/treble_evo)|ARM64|Nov 2023|
-|31 Oct|Evolution X (Archived)|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_evo/releases)| [GitHub](https://github.com/boydaihungst/treble_build_evo/)|ARM64|Oct 2023|
 
 ## Official Android 13	
 	
@@ -62,6 +61,11 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 <details>
 <summary><i><b>Legacy GSIs (Discontinued)</b></i></summary>
 <br>
+
+## Unofficial Android 14
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|31 Oct|Evolution X (Archived)|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_evo/releases)| [GitHub](https://github.com/boydaihungst/treble_build_evo/)|ARM64|Oct 2023|
 
 ## Official Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
