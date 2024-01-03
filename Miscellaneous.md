@@ -36,6 +36,7 @@
 |[[Cubot Quest]]|Cubot QUEST|✓|AB|arm64|
 |[[Cubot P20]]|p20|✓|A|arm64|
 |[[Cubot X19]]|x19|✓|A/B|arm64|
+|[[Dali Smart Lamp T7]]|h2s|✓|A/B|arm64|
 |[[DEXP A140]]|a140|✓|A|arm|
 |[[DEXP A240]]|a240|✓|A|arm|
 |[[DEXP B260]]|b260|✓|A|arm|
