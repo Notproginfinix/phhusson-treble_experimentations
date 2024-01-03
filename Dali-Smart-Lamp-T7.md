@@ -1,6 +1,6 @@
 # [Dali Smart Lamp T7] - [h2s]
 
-Dali Smart Lamp T7 is an Android Lamp designed for monitoring kids doing homework. Please use [MTKClient](https://github.com/bkerler/mtkclient) to perform bootloader unlock.
+Dali Smart Lamp (大力智能学习灯) T7 is an Android Lamp designed for monitoring kids doing homework. Please use [MTKClient](https://github.com/bkerler/mtkclient) to perform bootloader unlock.
 
 ## Hardware Support
 
