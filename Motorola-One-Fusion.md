@@ -1,27 +1,30 @@
-# Summary.
-WiFi, Mobile Data, Bluetooth, Fingerprint, Adaptive Brightness, Sound, Microphone work perfectly.
+# Compatibility
+Most Generic System Images work flawlessly, keep in mind the official kernel is 4.9 so GSIs that require newer kernels (like DerpFest) won't boot.
 
-# Before you begin.
-You must NOT have magisk installed in your stock ROM, otherwise you'll get a beautiful bootloop, I don't know why... If your phone is rooted, flash the original boot.img before doing anything.
+# Device components
+- Wi-Fi: ✔ Working
+- Bluetooth: ✔ Working (some reported problems when using the Android 10 Bluetooth firmware)
+- GPS: ✔ Working
+- Fingerprint: ⚠ Degraded (authentication works, some gestures don't work - see below for more information)
+- FM Radio: ❓ Untested
+- Stock camera: ✔ Available (slightly older version), check [Syoker's module](https://github.com/syoker/moto-experience).
 
-# Steps to Install.
-1. Reboot to fastboot.
-2. Once you're there, enter fastbootd `fastboot reboot fastboot`
-3. Flash vbmeta `fastboot flash --disable-verification vbmeta vbmeta.img`
-4. Erase your system partition `fastboot erase system`
-5. You may need to delete the product partition as well `fastboot delete-logical-partition product`
-6. Flash the GSI `fastboot flash system <image-name.img>`
-7. While being on fastbootd, use the volume and power keys to enter recovery mode.
-8. Erase all user data (Factory reset.) From recovery... `fastboot -w` Didn't work for me.
-9. Use the volume and power keys to reboot the phone and you're good to go.
+## The fingerprint issue
+Some device owners reported different issues with the phone while running a GSI. They depend on your fingerprint module manufacturer. You can check which one you have with apps like [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw).
 
-Support?
+- **Goodix vendor:** The FPS module sends the volume down keycode whenever pressed (only when unlocked) and the system does so. "Swipe fingerprint for notifications" doesn't work at all.
+- **FPC vendor:** Works as expected all of the time, but the FPS module doesn't send different keycodes for "swipe left" and "swipe right", so "Swipe fingerprint for notifications" works normally when in portrait but doesn't rotate the gesture. So, when in landscape, you still need to swipe top to bottom (from where the cameras are to where the charging port is) to pull down the shade.
 
-* Camera - Yup.
-* Mobile Data - Yup.
-* Adaptive Brightness - Yup.
-* Fingerprint - It triggers the volume control when you use it but it works... So, yup.
-* WiFi - Yup.
-* Bluetooth - Yup (You need to use the Stock Android 11 firmware, the Android 10 firmware will get you Bluetooth errors.
+_Notice: I am working in a custom kernel for astro which will, among other things, boost the GPU clock speed and try to fix those fingerprint issues. A download link will be provided if the custom kernel is proved stable._
 
-Tested By: dpkg-i-foo-deb - XT2073-2 RETLA - RPL31.Q2-63-10-2 - 02/09/2021.
+## Stock applets
+The following apps and Moto-exclusive features are available for GSIs thanks to [Syoker](https://github.com/syoker)'s work:
+- Moto Gestures
+- Moto Camera
+- Moto Wallpapers
+- Moto Weather Widget
+- Moto Bootanimation
+
+Link to the Magisk module [here](https://github.com/syoker/moto-experience).
+_Notice: I am also working on a newer module to fix SELinux, update the Moto Camera, and more._
+
