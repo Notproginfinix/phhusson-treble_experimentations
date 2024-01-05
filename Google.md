@@ -12,3 +12,6 @@
 |[[Google Pixel 6A]]|bluejay|✓|A/B|arm64|
 |[[Google Pixel 7 and Pixel 7 Pro]]|panther and cheetah|✓|A/B|arm64|
 |[[Google Pixel 7A]]|lynx|✓|A/B|arm64|
+|[[Google Pixel 8 and Pixel 8 Pro]]|shiba and husky|✓|A/B|arm64|
+|[[Google Pixel Fold]]|felix|✓|A/B|arm64|
+|[[Google Pixel Tablet]]|tangorpro|✓|A/B|arm64|
