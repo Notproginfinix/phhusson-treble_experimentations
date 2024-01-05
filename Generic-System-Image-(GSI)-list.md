@@ -7,8 +7,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|20 Dec|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Dec 2023|
-|12 Dec|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android14-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Dec 2023
+|05 Jan|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Dec 2023|
+|05 Jan|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android14-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Dec 2023
 |09 Dec|LeOS U|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Dec 2023|
 
 
@@ -33,8 +33,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |16 Dec|LeOS 20|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Dec 2023|
 |11 Dec|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android13-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Dec 2023|
-|05 Nov|Project Elixir|KrutosX & Lynix|[XDA](https://forum.xda-developers.com/t/gsi-rom-project-elixir-3-5-android-13-0-aosp-official-13-01-2023.4541063/) / [Download](https://www.pling.com/p/1960767/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phhgsi_generic/)|ARM64|Oct 2023|
-
 
 ## Unofficial Android 13	
 	
@@ -42,9 +40,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |14 Dec|LineageOS<br>TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|Dec 2023|
 |12 Dec|LineageOS<br>"Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Dec 2023|
-|04 Nov|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Nov 2023|
-|03 Nov|BaikalOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_baikal_patches/releases)|[Github](https://github.com/ChonDoit/treble_baikal_patches)|ARM64|Oct 2023| 
-|03 Nov|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Oct 2023|
 
 
 
@@ -67,12 +62,16 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|05 Nov|Project Elixir|KrutosX & Lynix|[XDA](https://forum.xda-developers.com/t/gsi-rom-project-elixir-3-5-android-13-0-aosp-official-13-01-2023.4541063/) / [Download](https://www.pling.com/p/1960767/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phhgsi_generic/)|ARM64|Oct 2023|
 |06 Sep|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Aug 2023|
 |17 Jul|LeafOS BETA|Linux4|[DL](https://dl.leafos.org/beta/leaf_gsi_arm64/) / [Telegram](https://t.me/leafos)|[GitHub](https://github.com/LeafOS-Project/)|ARM64|July 2023|
 
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|04 Nov|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Nov 2023|
+|03 Nov|BaikalOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_baikal_patches/releases)|[Github](https://github.com/ChonDoit/treble_baikal_patches)|ARM64|Oct 2023| 
+|03 Nov|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Oct 2023|
 |28 Oct|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/ArrowOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Sep 2023|
 |22 Oct|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Sep 2023|
 |20 Oct|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Oct 2023|
