@@ -25,20 +25,20 @@ In `TWRP`
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Working                                                   |
-| Speaker / Mic             | Working                                                   |
-| Bluetooth                 | Working, needs some workarounds though.                                                    |
-| WiFi                      | Working                                                   |
-| SIM / Mobile Data / Voice | Working                                                   |
-| Dual SIM                  | Working  (No LTE on SIM 2, everything else works on SIM 2)                                                 |    
-| VoLTE                     | Not working                                               |
-| Fingerprint               | Working                                              |
-| Face Unlock  | Not working                                                   |
-| Offline charging  | Working                                               |
-| NFC                       | Probably working, OS shows NFC icon in statusbar                                                |
-| Hotspot / Usb tethering   | Working                                                   |
-| MTP                       | Working                                               |
-| 90 HZ                   | Working with workaround                                            |
+| Camera (front/main)       | Working ✅                                                  |
+| Speaker / Mic             | Working ✅                                                  |
+| Bluetooth                 | Working ⚠ (needs workarounds for full functionality)                |
+| WiFi                      | Working ✅                                                  |
+| SIM / Mobile Data / Voice | Working ✅                                                 |
+| Dual SIM                  | Working ⚠ (needs workarounds for full functionality)    
+| VoLTE                     | Not working ❌                                              |
+| Fingerprint               | Working ✅                                                  |
+| Face Unlock               | Not working           |
+| Offline charging          | Working ✅                                                  |
+| NFC                       | Probably working ❓ (untested but phone shows NFC in status bar)         |
+| Hotspot / Usb tethering   | Working ✅                                                  |
+| MTP                       | Working ✅                                                  |
+| 90 HZ                     | Working ✅                                                  |
 ---
 
 # Workarounds
