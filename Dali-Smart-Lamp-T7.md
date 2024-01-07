@@ -15,6 +15,7 @@ Dali Smart Lamp (大力智能学习灯) T7 is an Android Lamp designed for monit
 ## Additional Notes
 
 The lamp brightness and color temperature control is kernel level. Following commands are done under ADB Shell so "adb shell" is ignored.
+
 To turn on lamp:
 ```echo '1 0' > /sys/devices/platform/desklamp/driver/led_info```
 
