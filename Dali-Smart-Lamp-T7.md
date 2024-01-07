@@ -10,7 +10,7 @@ Dali Smart Lamp (大力智能学习灯) T7 is an Android Lamp designed for monit
 | Speaker / Mic             | ?                                                         |
 | Bluetooth                 | ?                                                         |
 | WiFi                      | ?                                                         |
-| Lamp                      | ?                                                         |
+| Lamp Control              | ?                                                         |
 
 ## Additional Notes
 
