@@ -23,7 +23,7 @@ To turn off lamp:
 ```echo '0 0' > /sys/devices/platform/desklamp/driver/led_info```
 
 To toggle color temperature and brightness:
-```echo '0 ${pwmA} ${pwmB}' > /sys/devices/platform/desklamp/driver/pwm_info```
+```echo '0 '${pwmA}' '${pwmB} > /sys/devices/platform/desklamp/driver/pwm_info```
 
 where pwmA (warm light LED) and pwmB (cold light LED) are values between 10 and 1000
 
