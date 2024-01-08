@@ -7,8 +7,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|05 Jan|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Dec 2023|
-|05 Jan|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android14-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Dec 2023
+|05 Jan|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Jan 2024|
+|05 Jan|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android14-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jan 2024
 |09 Dec|LeOS U|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Dec 2023|
 
 
@@ -17,7 +17,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |08 Jan|DerpFest|KoysX|[Download](https://github.com/KoysX/treble_DerpFest_GSI/releases)|[GitHub](https://github.com/KoysX/treble_DerpFest_GSI) |ARM64|Jan 2024|
-|05 Jan|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Dec 2023|
+|05 Jan|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Jan 2024|
 |01 Jan|VoltageOS|chrisaw|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/cawilliamson/treble_voltage/releases/)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64|Nov 2023|
 |23 Dec|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Dec 2023|
 |15 Dec|CRdroid|Braia|[Telegram](https://t.me/DroidZoneBR) / [Download](https://sourceforge.net/projects/braiagsi/files/Test/)|[GitHub](https://github.com/Antony-Braiano)|ARM64|Dec 2023|
