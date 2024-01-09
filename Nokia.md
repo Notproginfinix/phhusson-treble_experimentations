@@ -1,6 +1,6 @@
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|[[Nokia 1]]|FRT|✓|A|arm|
+|[[Nokia 1]]|FRT|✓|A/B|arm32-binder64|
 |[[Nokia 1 Plus]]|ANT|✓|A|arm|
 |[[Nokia 1.3]]|DRAX|✓|A/B|arm32-binder64|
 |[[Nokia 2.1 and 2 V]]|E2M and EVW|✓|A|arm|
