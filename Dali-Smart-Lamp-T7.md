@@ -8,7 +8,15 @@ Dali Smart Lamp (大力智能学习灯) T7 is an Android Lamp designed for monit
 * Tap the title "设备管理" 5 times continuously until you see a ladybug.
 * Tap the ladybug - SWITCH tab, turn on "打开ADB" (Open ADB) switch.
 * Tap the BUTTON tab, swipe up until you find "系统设置面板" (System Settings Panel). Tap "打开系统设置" to open System Settings.
-* Now follow the generic procedure to turn on OEM Unlocking.
+* Get to "关于平板" (About Tablet), and tap "版本号" (Build version) 8 times.
+* Tap the return button on top left corner, and tap "系统" (System) - "高级" (Advanced) - "开发者选项" (Developer Options).
+* You should be able to turn on "OEM 解锁" (OEM Unlocking) here.
+* Connect the lamp to PC and execute following commands to perform bootloader unlock:
+
+```
+adb reboot bootloader
+fastboot flashing unlock
+```
 
 ## Hardware Support
 
