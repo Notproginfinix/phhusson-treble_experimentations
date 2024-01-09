@@ -1,6 +1,14 @@
 # [Dali Smart Lamp T7] - [h2s]
 
-Dali Smart Lamp (大力智能学习灯) T7 is an Android Lamp designed for monitoring kids doing homework. To unlock the bootloader, please flash the engineering OS before you proceed.
+Dali Smart Lamp (大力智能学习灯) T7 is an Android Lamp designed for monitoring kids doing homework. 
+
+## How to access to System Settings Menu and Bootloader Unlock
+
+* Tap the gear button on right top corner, then choose "设备管理" (Device Management).
+* Tap the title "设备管理" 5 times continuously until you see a ladybug.
+* Tap the ladybug - SWITCH tab, turn on "打开ADB" (Open ADB) switch.
+* Tap the BUTTON tab, swipe up until you find "系统设置面板" (System Settings Panel). Tap "打开系统设置" to open System Settings.
+* Now follow the generic procedure to turn on OEM Unlocking.
 
 ## Hardware Support
 
