@@ -10,16 +10,17 @@ See [this](https://xdaforums.com/t/samsung-galaxy-a03-rooting-and-gsi-installati
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Partially works, 1080p video capture is only 24 fps       |
 | Speaker / Mic             | Works                                                     |
-| Bluetooth                 | Not yet tested                                            |
+| Bluetooth                 | On bluetooth headphones, the sound is laggy and high delay|
 | WiFi                      | Works                                                     |
 | Tethering                 | Works, with full WPA3 and 5GHz support                    |
 | SIM / Mobile Data / Voice | Partially works, incoming SMS need [this][1] module       |
-| VoLTE/VoWiFi              | Does not work                      |
-| Face recognition          | Does not work                                             |
+| VoLTE/VoWiFi              | Does not work                                             |
+| Face recognition          | Only works on Android 14 (except Evolution X)             |
 | Offline Charging          | Does not show percentage                                  |
 ---
 
 Tested by:
 - [@IverCoder](https://github.com/IverCoder), SM-A035F (XTC), A035FXXU4CWI1, on 2023-11-21
+- [@2imkanna](https://github.com/2imkanna), SM-A035F (XXV), A035FXXU4CWI1, on 2024-01-10
 
 [1]: https://github.com/IverCoder/a03nnxx-ril-rollback/releases/latest
