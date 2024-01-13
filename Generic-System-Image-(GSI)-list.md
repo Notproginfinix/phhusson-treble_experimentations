@@ -7,9 +7,9 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|12 Jan|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android14-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jan 2024
 |12 Jan |Project Elixir|KrutosX & Lynix|[XDA](https://xdaforums.com/t/gsi-14-0-gsi-project-elixir-official-stable-aosp.4650522/) / [Download](https://projectelixiros.com/download#DO-NOT-CHANGE-THIS-URL-IT-IS-HERE-FOR-A-REASON) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phh_treble/)|ARM64|Jan 2024|
 |05 Jan|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Jan 2024|
-|05 Jan|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android14-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jan 2024
 |09 Dec|LeOS U|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Dec 2023|
 
 
@@ -25,8 +25,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |14 Dec|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Dec 2023|
 |01 Dec|Evolution X|KoysX|[Download](https://github.com/KoysX/treble_build_evo/releases)|[GitHub](https://github.com/KoysX/treble_build_evo) |ARM64|Nov 2023|
 |14 Nov|PixelOS|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Nov 2023|
-|12 Nov|Evolution X|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_evo/releases)|[GitHub](https://github.com/ahnet-69/treble_evo)|ARM64|Nov 2023|
-|31 Oct|Evolution X (Archived)|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_evo/releases)| [GitHub](https://github.com/boydaihungst/treble_build_evo/)|ARM64|Oct 2023|
 
 ## Official Android 13	
 	
@@ -45,12 +43,11 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 
 
-## Latest Android 10, 11, 12 GSIs	
+## Latest Android 11, 12 GSIs	
 |Updated|Version|Image|Maintainer|Links|Sources|Partition Style|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |20 Dec|12|AOSP|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SAR|ARM64 - X86|Dec 2023|
 |13 Dec|11|AOSP|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|Dec 2023|
-|10 Nov|10|/e/ OS|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|[GitLab](https://gitlab.e.foundation/e)|non-SaR - SaR|ARM - ARM64 - Binder|Oct 2023|
 
 
 
@@ -59,6 +56,11 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 <summary><i><b>Legacy GSIs (Discontinued)</b></i></summary>
 <br>
 
+## Unofficial Android 14	
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|12 Nov|Evolution X|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_evo/releases)|[GitHub](https://github.com/ahnet-69/treble_evo)|ARM64|Nov 2023|
+|31 Oct|Evolution X (Archived)|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_evo/releases)| [GitHub](https://github.com/boydaihungst/treble_build_evo/)|ARM64|Oct 2023|
 
 ## Official Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|
@@ -176,6 +178,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 10
 |Last Updated |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|Nov 2023|/e/ OS|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|non-SaR - SaR|ARM - ARM64 - Binder|Oct 2023|
 |Mar 2023|AOSP 10| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)|non-SaR - SaR| ARM64 - X86|
 |Dec 2020|Havoc| skulshady, zenixxx|[Download](https://sourceforge.net/projects/havoc-os/files/) |non-SaR - SaR|arm - arm64 - binder|
 |Oct 2020|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-q-mod-caos.4137289/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|non-SaR - SaR|arm - arm64 - binder|
