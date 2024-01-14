@@ -1,12 +1,3 @@
-# Device Compatibility
-
-The AOSP is functional with the following features:
-
-- Boots successfully
-- WiFi functionality
-- Cellular data
-- Sound
-
 ## Installation Steps
 
 ### Disable VBMETA
@@ -22,23 +13,34 @@ You have two options for disabling VBMETA:
 2. **Using Recovery (TWRP/OrangeFox):**
     - Flash [FLASH_DISABLE_VBMETA.zip](https://t.me/infinixnote30indonesia/135864) in recovery.
 
-### Flash Generic System Image (GSI) in TWRP
+### Flashing Generic System Image (GSI)
 
-Follow these steps in the [TWRP terminal](https://telegra.ph/Terminal-TWRP-08-01):
+1. With [TWRP terminal](https://telegra.ph/Terminal-TWRP-08-01):
 
-- Ensure your current system is in slot _a.
-- Execute the following commands:
+    - Ensure your current system is in slot _a.
+    - Execute the following commands:
     ```bash
-    lptools remove product_a
-    lptools create product_a 335872 # Do not change this value
+    lptools resize product_a 335872 # Do not change this value
     lptools resize system_a 4617089843 # or 5368709120 (4.3GB or 5GB system)
     ```
 
-- Reboot to recovery.
-- Flash [product_gsi.img](https://t.me/UdgUpdates/46) to the [product partition](https://telegra.ph/Product-img-07-31).
-- Install GSI to the [system partition](https://telegra.ph/System-img-07-31).
-- Format DATA.
-- Reboot the system.
+    - Reboot to recovery.
+    - Flash [product_gsi.img](https://t.me/UdgUpdates/46) to the [product partition](https://telegra.ph/Product-img-07-31).
+    - Install GSI to the [system partition](https://telegra.ph/System-img-07-31).
+    - Format DATA.
+    - Reboot the system.
+
+2. Using latest custom recovery with logical partition flash fix
+
+    - Reboot to fastbootd
+    - Execute the following commands:
+    ```bash
+    fastboot flash product_a product_gsi.img
+    fastboot flash system_a GSI.img
+    fastboot erase userdata
+    fastboot erase metadata
+    ```
+    - Reboot the system.
 
 ### Hardware Support
 
@@ -71,8 +73,7 @@ Follow these steps in the [TWRP terminal](https://telegra.ph/Terminal-TWRP-08-01
 
 ### Tweaks and Fixes
 
-[Module Patch GSI Infinix Note 30/Pro v2.4](https://github.com/phhusson/treble_experimentations/files/13425550/patchgsi-infinixnote30all_2.4b.zip)
-
+[Module GSI Infinix Note 30/Pro v2.5](https://github.com/phhusson/treble_experimentations/files/13931320/modulegsi-infinixnote30all_v2.5.zip)
 1. Fix Smoothness
 2. Fix StatusBar
 3. Fix Brightness X6883B (Note 30)
