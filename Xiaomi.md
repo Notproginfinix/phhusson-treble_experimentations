@@ -51,6 +51,7 @@
 |[[Xiaomi 12t]]|plato|✓|A/B|arm64|
 |[[Xiaomi 13]]|fuxi|✓|A/B|arm64|
 |[[Xiaomi 13 Pro]]|nuwa|✓|A/B|arm64|
+|[[Xiaomi 13T]]|aristotle|✓|A/B|arm64|
 |[[Xiaomi Poco F1]]|beryllium|✓|A|arm64|
 |[[Xiaomi Poco M2]]|shiva|✓|A/B|arm64|
 |[[Xiaomi Poco M2 Pro]]|gram|✓|A/B|arm64|
