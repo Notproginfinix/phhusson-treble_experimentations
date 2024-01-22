@@ -7,7 +7,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|19 Jan|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android14-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jan 2024
+|22 Jan|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android14-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jan 2024
 |12 Jan |Project Elixir|KrutosX & Lynix|[XDA](https://xdaforums.com/t/gsi-14-0-gsi-project-elixir-official-stable-aosp.4650522/) / [Download](https://projectelixiros.com/download#DO-NOT-CHANGE-THIS-URL-IT-IS-HERE-FOR-A-REASON) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phh_treble/)|ARM64|Jan 2024|
 |09 Jan|LeOS U|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|[GitHub]()|ARM64 - Binder|Jan 2024|
 |05 Jan|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Jan 2024|
@@ -51,8 +51,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |21 Jan|11|LineageOS 18.1|AndyYan|[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-18.1)|non-SaR - SaR|ARM - ARM64 - Binder|Jan 2024|
 |20 Jan|12|LineageOS 19.1|AndyYan|[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-19.1)|SAR|ARM64 - Binder|Jan 2024|
-|Dec 2023|12|AOSP|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SAR|ARM64 - X86|Dec 2023|
-|Dec 2023|11|AOSP|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|Dec 2023|
+|18 Jan|12|AOSP|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SAR|ARM64 - X86|Jan 2024|
+|18 Jan|11|AOSP|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|Jan 2024|
 
 
 
