@@ -1,5 +1,7 @@
 # [Kyocera Basio 4] - [KYV47]
 
+This phone is also known as "Kantan Sumaho 2" (かんたんスマホ2) from Y Mobile.
+
 ## Hardware Support (AOSP 11)
 
 | Component                 |      Comment                                              |
