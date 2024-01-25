@@ -1,3 +1,5 @@
+This page covers all smartphones released by HMD Global Oy under either HMD or Nokia brand.
+
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |[[Nokia 1]]|FRT|✓|A/B|arm32-binder64|
