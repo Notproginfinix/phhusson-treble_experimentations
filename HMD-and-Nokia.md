@@ -1,4 +1,4 @@
-This page covers all smartphones released by HMD Global Oy under either HMD or Nokia brand.
+This page covers all smartphones released by HMD Global Oy under either HMD or Nokia brand. Phones released by Microsoft aren't covered here.
 
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
