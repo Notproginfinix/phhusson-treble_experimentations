@@ -11,5 +11,10 @@ vbmeta.img and vbmeta_system.img I used are extracted from stock rom.
 ### [Evolution X](https://github.com/KoysX/treble_build_evo)
 - I haven't found any issues so far.
 
-### [Project Elixer](https://github.com/projectelixir-devices/device_phh_treble/)
-- It doesn't boot, but this is expected, as mentioned [here.](https://github.com/ProjectElixir-Devices/Wiki/blob/UNO/gsi.md)
+### [PixelOS](https://github.com/MisterZtr/PixelOS_gsi)
+- Boots, but sluggish
+
+### [crDroid](https://github.com/naz664/crDroid_gsi)
+- same with PixelOS
+
+https://github.com/Antony-Braiano
