@@ -58,6 +58,11 @@ TBD
 Thanks to this [Telegram community](https://t.me/Samsung_f22_Community) for all these guides!
 
 ### Test Log
+Tested by [@Zears14](https://github.com/Zears14) - SM-A225F, phh AOSP 12.1 v416
+
+> Date tested - 2024-02-02
+
+
 Tested by [@devid7xw](https://github.com/devid7x) - SM-A225F, phh PixelOS 13
 
 > Date tested - 2023-09-29
