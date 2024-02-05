@@ -16,5 +16,3 @@ vbmeta.img and vbmeta_system.img I used are extracted from stock rom.
 
 ### [crDroid](https://github.com/naz664/crDroid_gsi)
 - same with PixelOS
-
-https://github.com/Antony-Braiano
