@@ -36,9 +36,11 @@ This page covers all smartphones released by HMD Global Oy under either HMD or N
 |[[Nokia C5 Endi]]|paramore / PMC|✓|A/B|arm64|
 |[[Nokia G10]]|rogue / ROG|✓|A/B|arm64|
 |[[Nokia G20]]|ronin / RNN|✓|A/B|arm64|
+|[[Nokia G22]]|sunfire / SFI|✓|A/B|arm64|
 |[[Nokia G42 and G310]]|Shadow / SDW and ShadowTMO|✓|A/B|arm64|
 |[[Nokia G50]]|punisher / PHR|✓|A/B|arm64|
 |[[Nokia G60]]|apollo / APO|✓|A/B|arm64|
+|[[Nokia T21]]|agent / AGT|✓|A/B|arm64|
 |[[Nokia X10]]|scarletwitch / SCW|✓|A/B|arm64|
 |[[Nokia X20]]|quicksilver / QKS|✓|A/B|arm64|
 |[[Nokia X30]]|falcon / FCN|✓|A/B|arm64|
