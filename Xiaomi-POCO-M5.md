@@ -1,49 +1,49 @@
-## `Xiaomi Poco M5 (Global)`
+# Xiaomi Poco M5 (Global)
 
 The [GSI](https://github.com/naz664/crDroid_gsi/releases/download/v2024.01.22/crDroid-10.1-arm64_bgN-Unofficial.img.xz) I used in question
-
-Steps to Install
-
 ***
 
 
- BACKUP EVERYTHING you can!
+**CAUTION : Backup all of your data before proceeding!**
 
- Unlock your `bootloader`
+## Precautions
 
- When it comes to this device,you **MUST** flash [Stock](https://miuirom.org/phones/poco-m5) ROM (Fastboot ROM variant) to return to A partion
+* Unlock your `bootloader` first, you can use [Mi Unlock](https://en.miui.com/unlock/index.html) for it.
 
-Before flashing Stock ROM you will need to follow [this](https://telegra.ph/Fix-Error-Flashing-please-read-carefully-06-26) guide.
+* When it comes to this device,you **MUST** flash [Stock ROM](https://miuirom.org/phones/poco-m5) (Fastboot ROM variant) if you found out your device active slot is on B, you can check your active slot simply using a Fastboot command: `fastboot getvar current-slot`
 
-Before flashing custom recovery please flash [product](https://t.me/UdgUpdates/46)
+* Before flashing Stock ROM you will need to follow [this](https://telegra.ph/Fix-Error-Flashing-please-read-carefully-06-26) guide.
 
- Download this [TWRP](https://sourceforge.net/projects/premiumprjktrom/files/Rock/Twrp_3.7.1-12.0_rock-Unofficial.img/download) 
+* Download this [TWRP](https://sourceforge.net/projects/premiumprjktrom/files/Rock/Twrp_3.7.1-12.0_rock-Unofficial.img/download) 
 
-# WARNING!!! #
+## Warning
 
-This Device uses vendor_boot for recovery so:
+This Device **uses vendor_boot as the recovery partition**, so flashing a custom recovery will be exactly like this:
 
-1. fastboot --disable-verification flash vbmeta vbmeta.img
-2. fastboot flash vendor_boot twrp.img
-3. fastboot reboot recovery
+> 1. `fastboot --disable-verification flash vbmeta vbmeta.img` _Disabling Verification for VBMeta to avoid dm-verity issue_
+> 2. `fastboot flash vendor_boot twrp.img` _Flashing the custom recovery_
+> 3. `fastboot reboot recovery` _Reboot phone to recovery_
 
 
 ***
 
-## In TWRP
+## Using Custom Recovery (Teamwin/OrangeFox/Pitchblack)
 
-> Download this [system resizer](https://t.me/PocoM5oprek/247076/368305) and flash through twrp
+> 1. Download this [system resizer](https://t.me/PocoM5oprek/247076/368305) and flash through twrp
 
-> REBOOT TO RECOVERY
+> 2. REBOOT TO RECOVERY
 
-> Pick Any [GSI](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list) from the list, Flash GSI to [system partition](https://telegra.ph/System-img-07-31). 
+> 3. Pick Any [GSI](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list) of your choice from the list, Flash GSI to the [system partition](https://telegra.ph/System-img-07-31). 
 
-> Format data
+> 4. Format data
 
-> Reboot system
+> 5. Reboot system
+
+**For changing GSI-to-GSI, you can simply skip step number 1**
 
 
 ***
+
 
 And, We are done! Hope you enjoy your new OS of choice!
 
