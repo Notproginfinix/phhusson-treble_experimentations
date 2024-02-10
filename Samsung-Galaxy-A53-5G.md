@@ -46,6 +46,8 @@ If your Samsung device already has fastbootd, boot into fastboot and skip straig
 
 17. You should get rebooted to your newly flashed GSI. Enjoy.
 
+This procedure should work for any Samsung device and was modified from [woffles_'s guide on XDA](https://xdaforums.com/t/full-definitive-guide-installing-custom-roms-gsis-without-twrp-on-samsung-phones.4551963/). Thank you so much.
+
 ### Legacy
 
 * Flash [TWRP](https://www.androidfilehost.com/?w=files&flid=335166) as AP and [VBMETA Disabler](https://forum.xda-developers.com/attachments/vbmeta-tar.5956063/) as USERDATA with Odin.
