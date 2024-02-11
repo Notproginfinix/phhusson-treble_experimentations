@@ -17,6 +17,7 @@ This page covers all smartphones released by HMD Global Oy under either HMD or N
 |[[Nokia 3.2]]|deadpool / DPL|✓|A/B|arm64|
 |[[Nokia 3.4 and 5.4]]|doctorstrange / DRS and doctordoom / DRD|✓|A/B|arm64|
 |[[Nokia 4.2]]|panther / PAN|✓|A/B|arm64|
+|[[Nokia 5 and 6]]|D1C||A/B|arm64|
 |[[Nokia 5.1 Plus (X5)]]|PDA|✓|A/B|arm64|
 |[[Nokia 5.3]]|captainamerica / CAP|✓|A/B|arm64|
 |[[Nokia 6.1 / 6 (2018)]]|PL2|✓|A/B|arm64|
