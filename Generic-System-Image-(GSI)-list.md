@@ -19,7 +19,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|11 Feb|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Feb 2024|
+|12 Feb|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Feb 2024|
 |07 Feb|Evolution X|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_evo/releases)|[GitHub](https://github.com/ahnet-69/treble_evo)|ARM64|Feb 2024|
 |06 Feb|VoltageOS|chrisaw|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/cawilliamson/treble_voltage/releases/)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64|Feb 2024|
 |06 Feb|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Feb 2024|
