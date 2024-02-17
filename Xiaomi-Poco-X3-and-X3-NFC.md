@@ -1,28 +1,33 @@
 # Poco X3 NFC
 
-Tested by [sadyqowl1560](https://github.com/sadyqowl1560).
+Tested by [sadyqowl1560](https://github.com/sadyqowl1560), and [Piotr Marendowski](https://github.com/piotr-marendowski).
 
-# - Arm64,AB (**stock vendor**) :
+# Arm64, AB with stock vendor:
 
-**Steps :**
+## Steps:
 
-1- Install last orangefox [here](https://t.me/PocoX3OfficialUpdates/557).
+1. Unlock your phone via [Mi Unlock](https://en.miui.com/unlock/download_en.html).
 
- better to extract recovery.img from zip and install it by fastboot.
+2. Install firmware via [MiFlash](https://github.com/droidfirmwares/miflashtool/releases) tool, which correspond to your target system e.g. MIUI 12.0 with Android 10 for Android 10 etc.
 
-2- Boot to recovery , backup super on usb. | for emergency
+3. Install recovery that will support your target system[1]. Install it via fastboot `fastboot flash recovery twrp.img`.
 
-3- Boot to fastbootd.
+4. Optional: Boot to recovery, backup what you can (specifically the `super` partition).
 
-4- Install system.img : fastboot flash system system.img.
+5. Boot to `fastbootd`, and install the system image: `fastboot flash system system.img`.
 
-5- Format data.
+6. Reboot to recovery, format data (otherwise it won't boot!).
 
-6- Reboot system.
+7. Reboot to the system.
 
-**Bugs :**
-- Some audio issues. (Fixed) | In phh settings , enable (disable audio effects & use alternate audio policy) 
-- Ghost Touch. (Fixed) | push [uinput-goodix.kl](https://del.dog/uinput-goodix.txt) to /system_root/system/usr/keylayout in recovery.
-- Sometimes Screen color looks yellow.
-- Screen flickering in some gsi.
+#### 1. For example, I installed vanilla AOSP 10 via TWRP 3.5.2 with stock MIUI 12.0 Android 10. (Piotr)
+
+## Bugs:
+
+- Some audio issues. In phh settings, enable `Disable audio effects`, and `Use alternate audio policy`.
+- Ghost touch. ~~Push [uinput-goodix.kl](https://del.dog/uinput-goodix.txt) to /system_root/system/usr/keylayout in recovery~~ (dead link). Fingerprint sensor is at fault here, there are solutions to this on the internet, but they require root.
+- Sometimes screen color looks yellow (can't reproduce).
+- Screen flickering in some gsi (can't reproduce).
+
+Otherwise everything works perfectely (AOSP 10 vanilla).
  
