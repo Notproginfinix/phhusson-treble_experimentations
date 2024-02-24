@@ -8,11 +8,17 @@ vbmeta.img and vbmeta_system.img I used are extracted from stock rom.
 
 ## Images Tested
 
-### [Evolution X](https://github.com/KoysX/treble_build_evo)
-- I haven't found any issues so far.
-
 ### [PixelOS](https://github.com/MisterZtr/PixelOS_gsi)
-- tested again, no issues
+- No Issues
 
 ### [crDroid](https://github.com/naz664/crDroid_gsi)
-- same
+- worked previously, haven't tested in newer HyperOS Version
+
+### [Evolution X](https://github.com/KoysX/treble_build_evo)
+- Base Rom: UMFMIXM OS1.0.2.0, doesn't boot, doesn't even reach 
+
+### [DerpFest](https://github.com/KoysX/treble_DerpFest_GSI)
+- same with EvoX
+
+### [Project Elixir](https://github.com/projectelixir-devices/device_phh_treble/)
+- It doesn't boot, but it's expected not to [here.](https://github.com/ProjectElixir-Devices/Wiki/blob/UNO/gsi.md)(Mediatek Device)
