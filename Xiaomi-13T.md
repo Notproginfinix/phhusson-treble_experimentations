@@ -15,7 +15,7 @@ vbmeta.img and vbmeta_system.img I used are extracted from stock rom.
 - worked previously, haven't tested in newer HyperOS Version
 
 ### [Evolution X](https://github.com/KoysX/treble_build_evo)
-- Base Rom: UMFMIXM OS1.0.2.0, doesn't boot, doesn't even reach 
+- Base Rom: UMFMIXM OS1.0.2.0, doesn't boot, doesn't even reach boot animation screen(just Xiaomi Logo, and turns off)
 
 ### [DerpFest](https://github.com/KoysX/treble_DerpFest_GSI)
 - same with EvoX
