@@ -12,7 +12,7 @@ vbmeta.img and vbmeta_system.img I used are extracted from stock rom.
 - I haven't found any issues so far.
 
 ### [PixelOS](https://github.com/MisterZtr/PixelOS_gsi)
-- Boots, but sluggish
+- tested again, no issues
 
 ### [crDroid](https://github.com/naz664/crDroid_gsi)
-- same with PixelOS
+- same
