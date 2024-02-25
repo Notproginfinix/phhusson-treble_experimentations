@@ -100,7 +100,7 @@ In case you encounter such an issue, you may want to downgrade to one Android 13
 The developers of TrebleDroid are currently working on this issue.
 
 ## GSI support
-Android 14 GSIs are supported (tested only VNDK, have no idea about VNDKlite, but probably doesn't work).
+Android 14 GSIs are supported (only VNDK). Bootloops while running on VNDKlite vendor.
 
 Android 13 GSIs are supported (only VNDK). Bootloops while running on VNDKlite vendor.
 
