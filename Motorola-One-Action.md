@@ -14,3 +14,5 @@ Now we will have to refresh the boot partiton and for that, you will have to reb
 5.Once you reboot to recovery, again head over to Reboot > System. This time you won't notice the NO OS message. The first time the device might reboot once or twice, that is completely normal.
 
 That's it. Enjoy the GSI on your troika.
+
+Some variants of Moto One Action (for instance the Android One) received only Android 10. The kernel in that Android 10 is too broken to boot GSI. However, you can upgrade it to Android 11 using another target. I've upgraded mine with: https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/troika/official/RETBR/ and now GSI boot fine.
