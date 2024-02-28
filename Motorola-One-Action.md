@@ -15,4 +15,4 @@ Now we will have to refresh the boot partiton and for that, you will have to reb
 
 That's it. Enjoy the GSI on your troika.
 
-Some variants of Moto One Action (for instance the Android One) received only Android 10. The kernel in that Android 10 is too broken to boot GSI. However, you can upgrade it to Android 11 using another target. I've upgraded mine with: https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/troika/official/RETBR/ and now GSI boot fine.
+It seems like the broken kernel of this device doesn't support Android more recent than Android 11, it will simply kernel panic every 2 minutes.
