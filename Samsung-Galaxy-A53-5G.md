@@ -82,22 +82,29 @@ This procedure should work for any Samsung device and was modified from [woffles
 | Speaker / Mic                    | Working                                                                                                      |
 | Bluetooth                        | Working                                                                                                      |
 | WiFi                             | Working                                                                                                      |
-| SMS                              | Not Working (as of SW rev. 8 firmware)                                                                   |
+| SMS                              | Working with mitigations                                                                                 |
 | SIM / Mobile Data / Voice        | Working (if not, try to reflash the GSI or wipe data from recovery)                                                                 |
 | VoLTE                            | Not Working                                                                                                  |
 | Fingerprint                      | Working                                                                                                      |
 | NFC                              | Working                                                                                                      |
-| Offline Charging                 | Working                                                                                                      |
+| Offline Charging                 | Not Working                                                                                                      |
 | 5G                               | Working (as of [TrebleDroid Android 14 release on 22. 2. 2024](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20240222))                                                                                                  |
 | 120Hz Refresh Rate               | Working                                                                                                      |
 | USB-C headphones and sound cards | Working with mitigations (Settings -> Phh Treble Settings -> Samsung features -> Use alternate audio policy) |
 
 ### Mitigations for non-working SMS
-If you've upgraded to one of Samsung's newer firmwares, most likely 7 and 8, you will encounter an issue where you won't be able to send any SMS messages (Error 0 is shown in Google Messages). You won't either be able to receive them. Calls and mobile data should operate normally.
 
-In case you encounter such an issue, you may want to downgrade to one Android 13 GSI. Per my testing, only receiving seems to be broken, SMS sending works on Android 13 GSIs.
+### Receiving
+If you've upgraded to one of Samsung's newer firmwares, most likely 7 and 8, you won't be able to receive any SMS messages.
 
-The developers of TrebleDroid are currently working on this issue.
+A temporary fix for it is a [RIL rollback Magisk/KernelSU module](https://xdaforums.com/t/sms-fix-for-exynos-devices-running-a-gsi.4658849/), although it needs a more permanent fix.
+
+### Sending
+As of 26th February 2024, this issue is resolved, although not yet in all GSIs. Check if your GSI has an update on 26th February or later.
+
+If you've upgraded to an Android 14 GSI, you will encounter an issue where you won't be able to send any SMS messages (Error 0 is shown in Google Messages).
+
+In case you encounter such an issue, you may want to downgrade to one Android 13 GSI. SMS sending works on Android 13 GSIs.
 
 ## GSI support
 Android 14 GSIs are supported (only VNDK). Bootloops while running on VNDKlite vendor.
