@@ -8,6 +8,8 @@ Mostly working fine (see Hardware support bellow)
 
 # Steps to install
 
+Download the [SDK Platform Tools](https://developer.android.com/tools/releases/platform-tools).
+
 ```
 unxz your_gsi_rom_of_choice.img.xz
 
