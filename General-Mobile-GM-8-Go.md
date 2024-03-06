@@ -3,7 +3,7 @@
 * 1GB RAM
 * 16GB ROM
 * Single 13MP camera
-* Fingerprint sensor
+* Fingerprint sensor (optional if you have GM 9 go which is basically GM 8 go with no fingerprint)
 
 
 # How to unlock the bootloader
@@ -26,4 +26,4 @@
 # Notes:
 GSI's are very buggy on this phone and not stable. System partition is also very small since this is an Android go device (1.29 GB to be precise).
 Android 11 aosp gsi's did not work for me. 
-Newer quack (android 10 builds) builds also don't work and bootloop
+Newer quack (android 10 builds) builds sometimes work (optional) but will bootloop at some times
