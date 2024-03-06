@@ -32,14 +32,13 @@
 * Vibration
 * WiFi and bluetooth
 * Speakers
-* Device encryption
 
 # Bugs
 * Bootlooping sometimes on GSI's
 * Whole UI literally dying 
 ![IMG20240307002508](https://github.com/phhusson/treble_experimentations/assets/114253931/37be40d3-4f2e-43c3-9f8c-c7fadbe7d312)
 ![IMG20240307002533](https://github.com/phhusson/treble_experimentations/assets/114253931/b766faa6-2cbf-421f-820b-3340b14bc3d0)
-* Device encryption is sometimes causing a bootloop
+* Device encryption is causing a bootloop (since general mobile didn't add an option to disable force encrypt)
 
 # Notes:
 GSI's are very buggy on this phone and not stable. System partition is also very small since this is an Android go device (1.29 GB to be precise).
