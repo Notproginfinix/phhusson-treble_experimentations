@@ -1,9 +1,10 @@
 # Specs
-MT6739 SoC
-1GB RAM
-16GB ROM
-Single 13MP camera
-Fingerprint sensor
+* MT6739 SoC
+* 1GB RAM
+* 16GB ROM
+* Single 13MP camera
+* Fingerprint sensor
+
 
 # How to unlock the bootloader
 ## Method 1
@@ -25,4 +26,4 @@ Fingerprint sensor
 # Notes:
 GSI's are very buggy on this phone and not stable. System partition is also very small since this is an Android go device (1.29 GB to be precise).
 Android 11 aosp gsi's did not work for me. 
- 
+Newer quack (android 10 builds) builds also don't work and bootloop
