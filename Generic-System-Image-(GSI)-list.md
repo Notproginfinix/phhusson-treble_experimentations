@@ -1,0 +1,1 @@
+Generic System Image (GSI) list
