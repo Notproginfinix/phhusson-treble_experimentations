@@ -1,1 +1,0 @@
-https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list
