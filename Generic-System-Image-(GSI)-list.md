@@ -22,7 +22,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |07 Mar|Flex UI|unstable_soil|[Telegram](https://t.me/bundows_dump) / [Download](https://github.com/BDump/Backups/releases)|[GitHub](https://github.com/BDump/Backups)|ARM64|Feb 2024|
 |04 Mar|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Feb 2024|
 |01 Mar|PixelOS|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Feb 2024|
-|29 Feb|DerpFest|boydaihungst|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/boydaihungst/treble_build_derpfest/releases)|[GitHub](https://github.com/boydaihungst)|ARM64|Feb 2024|
 |27 Feb|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Feb 2024|
 |17 Feb|LineageOS<br>TD-based|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-trebledroid-based.4654132//) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td//)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-td)|ARM64 - Binder|Feb 2024|
 |12 Feb|DerpFest|KoysX|[Download](https://github.com/KoysX/treble_DerpFest_GSI/releases)|[GitHub](https://github.com/KoysX/treble_DerpFest_GSI) |ARM64|Feb 2024|
