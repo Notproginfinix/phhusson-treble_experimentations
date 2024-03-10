@@ -31,6 +31,7 @@ Since the original device list is pretty long, all supported devices are now cat
 * [[Realme]]
 * [[Samsung]]
 * [[Sony]]
+* [[TCL, Alcatel, Blackberry and Palm]]
 * [[vivo]]
 * [[Voaq]]
 * [[Xiaomi]]
