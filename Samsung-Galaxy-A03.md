@@ -15,7 +15,7 @@ See [this](https://xdaforums.com/t/samsung-galaxy-a03-rooting-and-gsi-installati
 | Tethering                 | Works, with full WPA3 and 5GHz support                    |
 | SIM / Mobile Data / Voice | Partially works, incoming SMS need [this][1] module       |
 | VoLTE/VoWiFi              | Does not work                                             |
-| Face recognition          | Only works on Android 14 (except Evolution X)             |
+| Face recognition          | Only works on Android 14            |
 | Offline Charging          | Does not show percentage                                  |
 ---
 
