@@ -1,0 +1,1 @@
+Doing something on this device can be quite challenging, so this is a small guide for those who want to change something.
