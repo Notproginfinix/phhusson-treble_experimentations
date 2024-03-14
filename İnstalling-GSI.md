@@ -51,6 +51,7 @@ fastboot flash system <file>
 fastboot -w
 fastboot reboot
 ```
+If you are using Linux, execute the commands as root (sudo) and using `./`
 That's all there is to it. In the <file> section, if you are using Linux or Windows, you need to write the file name or path. If you are using Bugjaeger, you can select it by pressing the file selection button.
 
 ### Problems and solutions
