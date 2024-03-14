@@ -33,7 +33,7 @@ First, let's give the device information (same result for everyone);
 
 4. We need to download other necessary things. For example, like drivers (Windows). Installing MediaTek and Google drivers will be enough. In Linux, installing `libusb` is sufficient. And of course platform-tools. If you are using Bugjaeger, do not forget to install it.
 
-## Flashing
+### Flashing
 It would be best to use a Windows or Linux computer to do this. Or you can use Bugjaeger App using OTG.
 
 1. Enable developer settings on the tablet. And enable USB debugging. And change the default USB configuration to file transfer. (If you are going to use OTG, do these operations on the device where flashing will be done)
