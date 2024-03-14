@@ -56,6 +56,9 @@ fastboot reboot
 If you are using Linux, execute the commands as root (sudo) and using `./`
 That's all there is to it. In the <file> section, if you are using Linux or Windows, you need to write the file name or path. If you are using Bugjaeger, you can select it by pressing the file selection button.
 
+I will not talk about the installation with TWRP, I am currently interested in development.
+
 ### Problems and solutions
 - You tell us, let's think.
 - I will have answers to most of them, because I have tried almost all compatible GSI images on the list.
+- In case of DM-Verity problems, flash the `seccfg` image you have backed up.
