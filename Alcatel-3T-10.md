@@ -62,3 +62,4 @@ I will not talk about the installation with TWRP, I am currently interested in d
 - You tell us, let's think.
 - I will have answers to most of them, because I have tried almost all compatible GSI images on the list.
 - In case of DM-Verity problems, flash the `seccfg` image you have backed up.
+- Contact: @YZBruh
