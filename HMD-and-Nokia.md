@@ -41,6 +41,8 @@ This page covers all smartphones released by HMD Global Oy under either HMD or N
 |[[Nokia G42 and G310]]|Shadow / SDW and ShadowTMO|✓|A/B|arm64|
 |[[Nokia G50]]|punisher / PHR|✓|A/B|arm64|
 |[[Nokia G60]]|apollo / APO|✓|A/B|arm64|
+|[[Nokia G300]]|Aoki / AKT|✓|A/B|arm64|
+|[[Nokia G400]]|StylesTMO / STM|✓|A/B|arm64|
 |[[Nokia T21]]|agent / AGT|✓|A/B|arm64|
 |[[Nokia X10]]|scarletwitch / SCW|✓|A/B|arm64|
 |[[Nokia X20]]|quicksilver / QKS|✓|A/B|arm64|
