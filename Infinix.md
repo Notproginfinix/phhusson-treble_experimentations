@@ -14,3 +14,4 @@
 |[[Infinix Zero 6]]|X620|✓|A/B|arm64|
 |[[Infinix Zero 8]]|X687|✓|A/B|arm64|
 |[[Infinix Zero X Pro]]|X6811|✓|A/B|arm64|
+|[[Infinix SMART 8 Plus]]|X6526|?|A/B|arm_binder64
