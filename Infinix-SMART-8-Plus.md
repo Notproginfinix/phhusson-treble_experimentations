@@ -16,6 +16,7 @@ Works. Display brightness can be dimmed beyond visibility, control it with cauti
 * Flash Google's vbmeta.img
 * fastboot reboot fastboot
 * Remove unneeded dynamic partitions from super partition, you can list them with "fastboot getvar all" command. Keep system_* and vendor_* partitions.
+* fastboot erase system_a
 * Flash GSI image
 * With volume up, volume down and power buttons enter recovery
 * Perform factory reset
