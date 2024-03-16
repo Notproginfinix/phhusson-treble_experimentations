@@ -1,1 +1,0 @@
-infinix zero 30 5g x-6731
