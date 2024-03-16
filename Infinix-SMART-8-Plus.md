@@ -35,6 +35,6 @@ Works. Display brightness can be dimmed beyond visibility, control it with cauti
 | Fingerprint               | Works                                                    |
 | NFC                       | Not present                                                    |
 | Offline Charging          | Works                                                    |
-|GPS|Hasn't checked yet|
+|GPS|Works|
 |OTG|Does not work?|
 ---
