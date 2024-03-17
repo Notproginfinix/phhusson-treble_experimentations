@@ -18,9 +18,9 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|16 Mar|Flex UI|unstable_soil|[Telegram](https://t.me/bundows_dump) / [Download](https://github.com/BDump/Backups/releases)|[GitHub](https://github.com/BDump/Backups)|ARM64|Feb 2024|
+|16 Mar|VoltageOS|chrisaw|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/cawilliamson/treble_voltage/releases/)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Feb 2024|
+|14 Mar|Flex UI|unstable_soil|[Telegram](https://t.me/bundows_dump) / [Download](https://github.com/BDump/Backups/releases)|[GitHub](https://github.com/BDump/Backups)|ARM64|Feb 2024|
 |12 Mar|CherishOS|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_cherish/releases/)|[GitHub](https://github.com/YukiMetaa/treble_cherish)|ARM64|Feb 2024|
-|11 Mar|VoltageOS|chrisaw|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/cawilliamson/treble_voltage/releases/)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Feb 2024|
 |10 Mar|Evolution X|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_evolution/releases/)|[GitHub](https://github.com/YukiMetaa/treble_evolution)|ARM64|Feb 2024|
 |10 Mar|HorizonDroid|Braia|[Telegram](https://t.me/TrebleUniverseChat) / [Download](https://github.com/Papa-cu/treble_horizondroid/releases)|[GitHub](https://github.com/Papa-cu/treble_horizondroid)|ARM64|Feb 2024|
 |04 Mar|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Feb 2024|
@@ -44,11 +44,11 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|14 Mar|AfterLifeOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_afterlife_patches/releases)|[Github](https://github.com/ChonDoit/treble_afterlife_patches)|ARM64|Feb 2024|
 |17 Feb|LineageOS<br>TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|Feb 2024|
 |17 Feb|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Feb 2024|
 |15 Feb|LineageOS<br>"Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Feb 2024|
-|24 Jan|ColtOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_colt_patches/releases)|[Github](https://github.com/ChonDoit/treble_colt_patches)|ARM64|Jan 2024| 
-|19 Jan|AfterLifeOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_afterlife_patches/releases)|[Github](https://github.com/ChonDoit/treble_afterlife_patches)|ARM64|Dec 2023| 
+|24 Jan|ColtOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_colt_patches/releases)|[Github](https://github.com/ChonDoit/treble_colt_patches)|ARM64|Jan 2024|
 
 
 
