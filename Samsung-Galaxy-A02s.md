@@ -34,7 +34,7 @@ Custom recovery - TWRP, OFOX etc...
     
   - ARM64 vendor is a ported vendor from M02s. Lots of functions such as fast charging and other don't function properly and has lots of bugs so use it at your own risk.
     
-- [Stock recovery Patcher (Click to know more)](https://github.com/tangymc/Patch-Recovery)
+- [Stock recovery Patcher (Click to know more)](https://github.com/engineer4t/fastboot-patcher)
   
   - Note that this only adds fastbootd to the stock recovery. This allows you to only to flash images(.img) through fastboot and not .zip files. Use TWRP for that purpose.
     
