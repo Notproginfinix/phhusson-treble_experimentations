@@ -25,6 +25,8 @@ fastboot delete-logical-partition product_a
 fastboot delete-logical-partition system_ext_a
 ```
 
+This phone is carrier locked to T-Mobile USA, the telephony related functionalites cannot be tested.
+
 ## Tested By:
 
 @HikariCalyx @ Nokia X100 04US_1_65C @ 07/10/2021
