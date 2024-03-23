@@ -1,7 +1,13 @@
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |[[Tecno Camon X]]|CA7|✓|A|arm64|
+|[[Tecno Camon 11]]|CF7|✓|A|arm64|
 |[[Tecno Camon 20 Pro]]|CK7n|✓|A/B|arm64|
+|[[Tecno Pova 4 / 4 Pro]]|LG7n / LG8n|✓|A/B|arm64|
+|[[Tecno Pova 5 / 5 Pro]]|LH7n / LH8n|✓|A/B|arm64|
+|[[Tecno Spark 5]]|KD7|✓|A|arm64|
+|[[Tecno Spark 6]]|KE7|✓|A/B|arm64|
+|[[Tecno Spark 10 Pro]]|KI7|✓|A/B|arm64|
 |[[Infinix Hot 7 ]]|X624B|?|A only |arm32
 |[[Infinix Hot 8]]|X650|✓|A/B|arm_binder64|
 |[[Infinix Hot 11s ]]|X6812|✓|A/B|arm64|
