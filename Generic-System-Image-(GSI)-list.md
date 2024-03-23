@@ -1,6 +1,8 @@
 https://magiskzip.com/gsi-list-phhusson/
 THIS PAGE CONTAINS ALL THE CONTENTS PREVIOUSLY LISTED HERE.
 
+PLEASE DO NOT EDIT THIS PAGE. THIS IS MADE BY THE COMMUNITY, FOR THE COMMUNITY, AND STUFF LIKE THIS IS HONESTLY SADDENING TO SEE. PLEASE STOP.
+
 Here's a collection of available GSIs, in order to keep it easy to choose what you want.	
 
 - *Only use GSI images with an Android version that's higher or equal to the version of Android that came with your device.*
