@@ -1,6 +1,7 @@
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|[[Tecno Camon X]]|TECNO-CA7|✓|A|arm64|
+|[[Tecno Camon X]]|CA7|✓|A|arm64|
+|[[Tecno Camon 20 Pro]]|CK7n|✓|A/B|arm64|
 |[[Infinix Hot 7 ]]|X624B|?|A only |arm32
 |[[Infinix Hot 8]]|X650|✓|A/B|arm_binder64|
 |[[Infinix Hot 11s ]]|X6812|✓|A/B|arm64|
