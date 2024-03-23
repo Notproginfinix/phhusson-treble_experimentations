@@ -1,5 +1,6 @@
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
+|[[Tecno Camon X]]|TECNO-CA7|✓|A|arm64|
 |[[Infinix Hot 7 ]]|X624B|?|A only |arm32
 |[[Infinix Hot 8]]|X650|✓|A/B|arm_binder64|
 |[[Infinix Hot 11s ]]|X6812|✓|A/B|arm64|
@@ -15,3 +16,4 @@
 |[[Infinix Zero 8]]|X687|✓|A/B|arm64|
 |[[Infinix Zero X Pro]]|X6811|✓|A/B|arm64|
 |[[Infinix SMART 8 Plus]]|X6526|?|A/B|arm_binder64
+|[[Itel A32F]]|f8007|✓|A|arm|
