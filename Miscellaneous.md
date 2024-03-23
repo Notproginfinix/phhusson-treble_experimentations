@@ -68,7 +68,6 @@
 |[[Hot Pepper Serrano]]|HPP-L55B|not sure|A/B|arm_binder64|
 |[[HP Elite x3 and Pro x3]]|butler|✓|A|arm64|
 |[[INOI 2 Lite]]|n/a|✓|A|arm|
-|[[Itel A32F]]|f8007|✓|A|arm|
 |[[Jinga Start LTE]]|ji50ag1_169hp|✓|A|arm|
 |[[Koolnee Rainbow]]|rainbow|✓|A|arm|
 |[[Kyocera Basio 4]]|KYV47|✓|A/B|arm64|
@@ -96,7 +95,6 @@
 |[[Sharp Aquos Zero 2]]|n/a|✓|A/B|arm64|
 |[[Sharp Aquos Zero 5G Basic]]|OJ6|✓|A/B|arm64|
 |[[Skyworth TV Box E900V22C]]|p291_iptv|✓|A/B|arm|
-|[[Tecno Camon X]]|TECNO-CA7|✓|A|arm64|
 |[[Teracube One]]|v7101o|✓|A/B|arm64|
 |[[Timovi Insignia Delta 3]]|n/a|✓|A|arm|
 |[[Ulefone Armor 9]]|n/a|✓|A/B|arm64|
