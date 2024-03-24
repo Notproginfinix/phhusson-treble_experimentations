@@ -17,6 +17,12 @@ I successfully installed and tested the following ROMs, all of them work fine:
     ```
     fastboot flashing unlock
     ```
+* Disable Android Verified Boot 2.0
+
+    This requires `vbmeta.img` from the stock ROM (only needed once).
+    ```
+    fastboot flash --disable-verity --disable-verification vbmeta vbmeta.img
+    ```
 * Reboot to fastboot
     ```
     fastboot reboot fastboot
