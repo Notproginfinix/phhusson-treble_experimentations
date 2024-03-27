@@ -1,4 +1,4 @@
-# [Nokia X100] - [deadmau5 / DM5]
+# [Nokia G400] - [stylesTMO / STM]
 
 Bootloader Unlock : Not easily doable by average users.
 
