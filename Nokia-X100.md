@@ -29,7 +29,7 @@ This phone is carrier locked to T-Mobile USA, the telephony related functionalit
 
 ## Tested By:
 
-@HikariCalyx @ Nokia X100 04US_1_65C @ 07/10/2021
+@HikariCalyx @ Nokia X100 04US_1_65C @ 19/03/2024
 
 
 Template created by @zguithues
