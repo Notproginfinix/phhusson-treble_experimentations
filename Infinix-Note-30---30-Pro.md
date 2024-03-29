@@ -72,8 +72,7 @@ You have two options for disabling VBMETA:
 | Vibration                 | Works                                                    |
 
 ### Tweaks and Fixes
-
-[Module GSI Infinix Note 30/Pro v2.5](https://github.com/phhusson/treble_experimentations/files/13931320/modulegsi-infinixnote30all_v2.5.zip)
+[GSI Module for Infinix Note 30/Pro v2.6](https://github.com/phhusson/treble_experimentations/files/14802706/ramabp.gsioverlay.zip)
 1. Fix Smoothness
 2. Fix StatusBar
 3. Fix Brightness X6883B (Note 30)
