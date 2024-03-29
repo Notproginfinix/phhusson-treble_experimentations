@@ -1,6 +1,4 @@
-# [Infinix Note 8] - [x692]
-
-Helio G80 (MT6769)
+# Infinix Note 8 (X692)
 
 Overall excellent, things are working as expected.
 
