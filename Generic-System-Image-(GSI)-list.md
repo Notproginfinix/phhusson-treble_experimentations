@@ -18,7 +18,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|27 Mar|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Mar 2024|
+|28 Mar|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Mar 2024|
 |23 Mar|Flex UI|unstable_soil|[Telegram](https://t.me/ScrnDump) / [Download](https://www.mediafire.com/folder/lu463556xfj4n/FlexUI+GSI)|-|ARM64|Feb 2024|
 |21 Mar|Evolution X (Archived)|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_evolution/releases/)|[GitHub](https://github.com/YukiMetaa/treble_evolution)|ARM64|Feb 2024|
 |17 Mar|ApolloOS (Archived)|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_apollo/releases/)|[GitHub](https://github.com/YukiMetaa/treble_apollo)|ARM64|Feb 2024|
