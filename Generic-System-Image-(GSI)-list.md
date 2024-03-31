@@ -45,7 +45,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|27 Mar|Pixel Experience Plus|ChonDoit|[Telegram](https://t.me/elranchodecornelio/248) / [Download](https://github.com/ChonDoit/treble_peplus_patches/releases/tag/A13)|[GitHub](https://github.com/ChonDoit/treble_peplus_patches)|ARM64|Mar 2024|
+|30 Mar|Pixel Experience Plus|ChonDoit|[Telegram](https://t.me/elranchodecornelio/248) / [Download](https://github.com/ChonDoit/treble_peplus_patches/releases/tag/A13)|[GitHub](https://github.com/ChonDoit/treble_peplus_patches)|ARM64|Mar 2024|
 |17 Mar|LineageOS<br>TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|Mar 2024|
 |14 Mar|AfterLifeOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_afterlife_patches/releases)|[Github](https://github.com/ChonDoit/treble_afterlife_patches)|ARM64|Feb 2024|
 |17 Feb|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Feb 2024|
