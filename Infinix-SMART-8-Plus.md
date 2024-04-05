@@ -8,12 +8,12 @@ Works. Display brightness can be dimmed beyond visibility, control it with cauti
 * Turn "bootloader unlock" and "USB debugging" switches on
 * Unlogin Google and Infinix accounts, disable screen locking
 * adb reboot bootloader
-* fastboot flashing unlock
+* fastboot flashing unlock or fastboot oem unlock
 * Press "volume up" button
 * fastboot reboot
 * Check if bootloader actually unlocked
 * adb reboot bootloader
-* Flash Google's vbmeta.img
+* Flash Google's vbmeta.img . Add disable verification and disable verity flags.
 * fastboot reboot fastboot
 * Remove unneeded dynamic partitions from super partition, you can list them with "fastboot getvar all" command. Keep system_* and vendor_* partitions.
 * fastboot erase system_a
