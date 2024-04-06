@@ -8,6 +8,7 @@
 |[[Tecno Spark 5]]|KD7|✓|A|arm64|
 |[[Tecno Spark 6]]|KE7|✓|A/B|arm64|
 |[[Tecno Spark 10 Pro]]|KI7|✓|A/B|arm64|
+|[[Tecno Spark 7P]]|V8's KF7j|✓|A/B|arm64|
 |[[Infinix Hot 7 ]]|X624B|?|A only |arm32
 |[[Infinix Hot 8]]|X650|✓|A/B|arm_binder64|
 |[[Infinix Hot 11s ]]|X6812|✓|A/B|arm64|
