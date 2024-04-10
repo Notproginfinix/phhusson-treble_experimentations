@@ -18,6 +18,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|12 Feb|LineageOS<br>"Light"|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-light)|ARM64|Apr 2024|
 |04 Apr|Flex UI|unstable_soil|[Telegram](https://t.me/ScrnDump) / [Download](https://www.mediafire.com/folder/lu463556xfj4n/FlexUI+GSI)|-|ARM64|Mar 2024|
 |03 Apr|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Mar 2024|
 |21 Mar|Evolution X (Archived)|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_evolution/releases/)|[GitHub](https://github.com/YukiMetaa/treble_evolution)|ARM64|Feb 2024|
@@ -29,7 +30,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |01 Mar|PixelOS|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Feb 2024|
 |17 Feb|LineageOS<br>TD-based|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-trebledroid-based.4654132//) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td//)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-td)|ARM64 - Binder|Feb 2024|
 |12 Feb|DerpFest|KoysX|[Download](https://github.com/KoysX/treble_DerpFest_GSI/releases)|[GitHub](https://github.com/KoysX/treble_DerpFest_GSI) |ARM64|Feb 2024|
-|12 Feb|LineageOS<br>"Light"|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-light)|ARM64|Feb 2024|
 |07 Feb|Evolution X|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_evo/releases)|[GitHub](https://github.com/ahnet-69/treble_evo)|ARM64|Feb 2024|
 |22 Jan|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Jan 2024|
 
