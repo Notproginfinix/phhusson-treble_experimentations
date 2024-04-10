@@ -18,8 +18,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|09 Apr|Flex UI|unstable_soil|[Telegram](https://t.me/ScrnDump) / [Download](https://www.mediafire.com/folder/lu463556xfj4n/FlexUI+GSI)|-|ARM64|Mar 2024|
 |06 Apr|LineageOS<br>"Light"|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-light)|ARM64|Apr 2024|
-|04 Apr|Flex UI|unstable_soil|[Telegram](https://t.me/ScrnDump) / [Download](https://www.mediafire.com/folder/lu463556xfj4n/FlexUI+GSI)|-|ARM64|Mar 2024|
 |03 Apr|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Mar 2024|
 |21 Mar|Evolution X (Archived)|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_evolution/releases/)|[GitHub](https://github.com/YukiMetaa/treble_evolution)|ARM64|Feb 2024|
 |17 Mar|ApolloOS (Archived)|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_apollo/releases/)|[GitHub](https://github.com/YukiMetaa/treble_apollo)|ARM64|Feb 2024|
