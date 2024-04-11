@@ -18,6 +18,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|09 Apr|Project Sakura|ChonDoit|[Telegram](https://t.me/elranchodecornelio/251) / [Download](https://github.com/ChonDoit/treble_sakura_patches/releases)|[Github](https://github.com/ChonDoit/treble_sakura_patches)|ARM64|Mar 2024|
 |09 Apr|Flex UI|unstable_soil|[Telegram](https://t.me/ScrnDump) / [Download](https://www.mediafire.com/folder/lu463556xfj4n/FlexUI+GSI)|-|ARM64|Mar 2024|
 |06 Apr|LineageOS<br>"Light"|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-light)|ARM64|Apr 2024|
 |03 Apr|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Mar 2024|
