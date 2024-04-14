@@ -100,3 +100,8 @@
           ```
    6. Flash a `vbmeta` image (could be from the stock firmware, accessed via the Nokia OTA [Telegram channel](https://t.me/nokiarepoen). I personally used Google's official `vbmeta` image, however (can't find any links, sorry)) with the command: `fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img`
    7. Reboot with `fastboot reboot`.
+
+---
+
+**Tested by**:
+VNGamerGit (a.k.a cherries [fumo | gentoo] or entropyonline_001 on Discord) - TA-1332, Vietnam region - V3.40/00WW_3_400 @ far too many days, this page was created in 14/4/2024 (dd/mm/YYYY), so...
