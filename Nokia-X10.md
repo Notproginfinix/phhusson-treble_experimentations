@@ -40,9 +40,10 @@
 | VoLTE                     |           ❓             | Haven't thoroughly tested the function out.  |
 | Fingerprint               |           ✅            |                                  |
 | NFC                       |           ❓             | Don't know where to even test NFC, but it could be turned on. |
-| Offline Charging          |           ❓*            |  |
+| Offline Charging          |           ❓1            |  |
 | Other features            |           ❓            | wut                                |
-> * Since I tested the ROM on DSU Sideloader, if I turn the phone off then I'd reboot back to the firmware installed on my regular slot, so no idea if this works.
+> 1: Since I tested the ROM on DSU Sideloader, if I turn the phone off then I'd reboot back to the firmware installed on my regular slot, so no idea if this works.
+
 > Also, it's been a long time since I ran the ROM (all the way back to a few days after the upload date of the bootloader unlock guide), my memory is hazy.
 
 # Hardware support (LeOS U):
@@ -63,7 +64,7 @@
 # Hardware support (Evolution X 8.3):
 | Component                 | Working? (✅/❌/❓)   |              Comment             |
 |---------------------------|------------------------|----------------------------------|
-| Camera                    |            ✅*            |    Just don't use the pre-installed camera app.         |
+| Camera                    |            ✅1            |    Just don't use the pre-installed camera app.         |
 | Speaker / Mic             |            ✅            |               |
 | Bluetooth                 |            ✅            |               |
 | WiFi                      |            ✅            |               |
@@ -72,9 +73,11 @@
 | Fingerprint               |            ✅            |               |
 | NFC                       |            ❓            |               |
 | Offline Charging          |            ✅            |               |
-| Other features            |            ❓**            |             |
-> * If you do not want blurry pictures, use a Google Camera [port](https://www.celsoazevedo.com/files/android/google-camera/). There will still be blurry previews though, only one camera is usable, and all pictures will be taken at 8 MP instead of 12 MP.
-> ** Vibration motor/mechanism is a bit wacky. Some games/apps that support gradual increase/decrease of vibration strength (e.g: Gboard) will either not activate vibration at all, or ALWAYS use maximum vibration strength. Strangely enough, weaker strength is still available, though only for navigation methods like gestures.
+| Other features            |            ❓2            |             |
+> 1 If you do not want blurry pictures, use a Google Camera [port](https://www.celsoazevedo.com/files/android/google-camera/). There will still be blurry previews though, only one camera is usable, and all pictures will be taken at 8 MP instead of 12 MP.
+
+
+> 2 Vibration motor/mechanism is a bit wacky. Some games/apps that support gradual increase/decrease of vibration strength (e.g: Gboard) will either not activate vibration at all, or ALWAYS use maximum vibration strength. Strangely enough, weaker strength is still available, though only for navigation methods like gestures.
 
 # **Additional Notes before bare-metal installation**:
 * In order to install a GSI as a replacement to any existing firmware (be it stock or GSI), please do the following steps:
