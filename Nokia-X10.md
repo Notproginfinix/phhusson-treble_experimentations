@@ -74,7 +74,7 @@
 | NFC                       |            ❓            |               |
 | Offline Charging          |            ✅            |               |
 | Other features            |            ❓2            |             |
-> 1 If you do not want blurry pictures, use a Google Camera [port](https://www.celsoazevedo.com/files/android/google-camera/). There will still be blurry previews though, only one camera is usable, and all pictures will be taken at 8 MP instead of 12 MP.
+> 1 If you do not want blurry pictures, use a Google Camera [port](https://www.celsoazevedo.com/files/android/google-camera/). There will still be blurry previews though, only one camera is usable, and all pictures will be taken at 8 MP instead of 12/48 MP. Video mode is still all fine, though, you can record at 1080p@24/30/60fps just fine.
 
 
 > 2 Vibration motor/mechanism is a bit wacky. Some games/apps that support gradual increase/decrease of vibration strength (e.g: Gboard) will either not activate vibration at all, or ALWAYS use maximum vibration strength. Strangely enough, weaker strength is still available, though only for navigation methods like gestures.
