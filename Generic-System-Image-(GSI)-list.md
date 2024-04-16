@@ -19,7 +19,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |14 Apr|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Mar 2024|
-|13 Apr|Flex UI|unstable_soil|[Telegram](https://t.me/ScrnDump) / [Download](https://www.mediafire.com/folder/lu463556xfj4n/FlexUI+GSI)|-|ARM64|Apr 2024|
 |13 Apr|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Mar 2024|
 |11 Apr|PixelOS|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Apr 2024|
 |09 Apr|Project Sakura|ChonDoit|[Telegram](https://t.me/elranchodecornelio/251) / [Download](https://github.com/ChonDoit/treble_sakura_patches/releases)|[Github](https://github.com/ChonDoit/treble_sakura_patches)|ARM64|Mar 2024|
