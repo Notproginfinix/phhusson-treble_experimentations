@@ -46,6 +46,9 @@ Release Date | May 2018
 
 # Notes:
 GM 9 GO is identical to this device, with a lack of a fingerprint sensor (loongruige)
+
 GSI's are very buggy on this phone and not stable. (Tohru0920)
+
 Android 11 aosp gsi's did not work for me. (Tohru0920)
+
 Newer Android 10 builds sometimes work but will bootloop at some times (Tohru0920)
