@@ -1,26 +1,32 @@
-# Specs
-* MT6739 SoC
-* 1GB RAM
-* 16GB ROM
-* Single 13MP camera
-* Fingerprint sensor (optional if you have GM 9 go which is basically GM 8 go with no fingerprint)
+# General Mobile GM 8 Go
 
+Basic   | Spec Sheet
+-------:|:-------------------------
+CPU     | 4x 1.5 GHz ARM Cortex-A53
+SoC     | MediaTek MT6739
+GPU     | PowerVR GE8100
+Memory  | 1 GB
+Android Version | 8.1 GO
+Storage | 16 GB
+MicroSD | Up to 64 GB
+Battery | 3500 mAh (removable)
+Display | 720 x 1440 pixels, 5.5"
+Rear Camera  | 13.0 MP
+Front Camera | 5.0 MP
+Release Date | May 2018
 
 # How to unlock the bootloader
-## Method 1
-### Use fastboot to unlock your bootloader
-1. Update your phone to the latest available software version
+## Use fastboot to unlock your bootloader
 2. Enable developer options
 3. Enable OEM Unlocking
-4. Reboot into fastboot by either using the preboot menu (combo is volup + power) or using adb
-5. type in fastboot oem unlock
+4. Reboot into fastboot by either using volume up + power or using adb
+5. Type in `fastboot oem unlock`
 
-## Method 2
-### Use mtkclient to unlock your bootloader
+## Use mtkclient to unlock your bootloader
 1. After following the guide on how to install mtkclient (which is https://github.com/bkerler/mtkclient here)
 2. Open mtkgui
 3. Take a whole backup of everything other than userdata (you may need it later)
-4. Go into _flash tools_ 
+4. Go into "flash tools"
 5. Press unlock bootloader.
 
 # What is working?
@@ -35,12 +41,11 @@
 
 # Bugs
 * Bootlooping sometimes on GSI's
-* Whole UI literally dying 
-![IMG20240307002508](https://github.com/phhusson/treble_experimentations/assets/114253931/37be40d3-4f2e-43c3-9f8c-c7fadbe7d312)
-![IMG20240307002533](https://github.com/phhusson/treble_experimentations/assets/114253931/b766faa6-2cbf-421f-820b-3340b14bc3d0)
-* pasccodes cause a bootloop
+* UI glitches
+* Pasccodes cause a bootloop
 
 # Notes:
-GSI's are very buggy on this phone and not stable. System partition is also very small since this is an Android go device (1.29 GB to be precise).
-Android 11 aosp gsi's did not work for me. 
-Newer quack (android 10 builds) builds sometimes work (optional) but will bootloop at some times
+GM 9 GO is identical to this device, with a lack of a fingerprint sensor (loongruige)
+GSI's are very buggy on this phone and not stable. (Tohru0920)
+Android 11 aosp gsi's did not work for me. (Tohru0920)
+Newer Android 10 builds sometimes work but will bootloop at some times (Tohru0920)
