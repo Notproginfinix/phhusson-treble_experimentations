@@ -1,4 +1,4 @@
-# General Mobile GM 8 Go
+# General Mobile GM 8 Go / GM 9 Go
 
 Basic   | Spec Sheet
 -------:|:-------------------------
@@ -13,13 +13,13 @@ Battery | 3500 mAh (removable)
 Display | 720 x 1440 pixels, 5.5"
 Rear Camera  | 13.0 MP
 Front Camera | 5.0 MP
-Release Date | May 2018
+Release Date | May 2018 / Feb 2019
 
 # How to unlock the bootloader
 ## Use fastboot to unlock your bootloader
 2. Enable developer options
 3. Enable OEM Unlocking
-4. Reboot into fastboot by either using volume up + power or using adb
+4. Reboot into mtk preboot by pressing volume up + power and select fastboot via the volume buttons (instructions should be on the screen of the shiny black rectangle)  or boot into fastboot via the adb command `adb reboot fastboot`
 5. Type in `fastboot oem unlock`
 
 ## Use mtkclient to unlock your bootloader
@@ -30,7 +30,7 @@ Release Date | May 2018
 5. Press unlock bootloader.
 
 # What is working?
-* Fingerprint sensor
+* Fingerprint sensor (GM 8 Go only)
 * Calling (VOLTE is not tested)
 * Notification light
 * Cameras
@@ -45,10 +45,10 @@ Release Date | May 2018
 * Pasccodes cause a bootloop
 
 # Notes:
-GM 9 GO is identical to this device, with a lack of a fingerprint sensor (loongruige)
+GM 9 GO is identical to this device, with a lack of a fingerprint sensor (loongruige - GM 9 Go)
 
-GSI's are very buggy on this phone and not stable. (Tohru0920)
+GSI's are very buggy on this phone and not stable. (Tohru - GM 8 Go)
 
-Android 11 aosp gsi's did not work for me. (Tohru0920)
+Android 11 aosp gsi's did not work for me. (Tohru - GM 8 Go)
 
-Newer Android 10 builds sometimes work but will bootloop at some times (Tohru0920)
+Newer Android 10 builds sometimes work but will bootloop at some times (Tohru - GM 8 Go)
