@@ -93,6 +93,7 @@
 |[[Samsung Galaxy Tab S6 Lite]]|gta4xl and gta4xlwifi|✓|A/B|arm64|
 |[[Samsung Galaxy Tab S7]]|gts7l and gts7lwifi|✓|A/B|arm64|
 |[[Samsung Galaxy Tab S7 Plus]]|gts7xl and gts7xlwifi|✓|A/B|arm64|
+|[[Samsung Galaxy Tab S8 5G]]|gts8|✓|A/B|arm64|
 |[[Samsung Galaxy Z Flip]]|bloom|✓|A/B|arm64|
 |[[Samsung Galaxy Z Fold 2]]|f2|✓|A/B|arm64|
 |[[Samsung Galaxy A12s (Exynos 850)]]|a127f|x|A/B|arm64|
