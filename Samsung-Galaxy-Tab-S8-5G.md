@@ -1,7 +1,7 @@
 # Samsung Galaxy Tab S8 5G (gts8)
 
 * 2024/04/25
-> * ROM used for testing 
+> * ROM used for testing: [PixelOS_treble_arm64_bN-14.0-20240229](https://sourceforge.net/projects/misterztr-gsi/files/PixelOS/Android%2014/PixelOS_treble_arm64_bN-14.0-20240229.img.xz/download)
 > * Auto brightness works (overlay under pull request approval)
 > * Speaker Left/Right stuck on portrait mode (in landscape, bottom speaker plays left, top speaker plays right)
 
@@ -31,4 +31,6 @@
 | S-Pen             | Working                                                    |
 ---
 
-Tested By: medkintos - gts8(XID), X706BXXS6CXB5 - Date tested 24/04/2024- Template created by @zguithues and @hackintosh5
+Tested By: medkintos - SM-X706 [gts8] (XID), X706BXXS6CXB5 20240221165220 - Date tested 24/04/2024
+
+- Template created by @zguithues and @hackintosh5
