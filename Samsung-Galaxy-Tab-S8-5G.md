@@ -6,7 +6,7 @@
 > * Auto brightness works (overlay under pull request approval)
 > * Speaker Left/Right stuck on portrait mode (in landscape, bottom speaker plays left, top speaker plays right)
 
-* 2024/04/25
+* 2024/04/28
 > * Overlay have been merged!
 > * Add partial fix for the speaker orientation (credit phhusson himself!)
 
