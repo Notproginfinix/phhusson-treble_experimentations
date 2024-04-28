@@ -28,6 +28,7 @@ Tested by [sadyqowl1560](https://github.com/sadyqowl1560) and [Piotr Marendowski
 
 - Audio issues. In phh settings, enable `Disable audio effects`, and `Use alternate audio policy`.
 - Ghost touch. ~~Push [uinput-goodix.kl](https://del.dog/uinput-goodix.txt) to /system_root/system/usr/keylayout in recovery~~ (dead link). Fingerprint sensor is at fault here, there are solutions to this on the internet, but they require root. If you're not using fingerprint sensor, then you can seal it with a tape, which will almost fix this problem.
+- Screen casting doesn't work - device reboots after connecting to TV.
 - Sometimes screen color looks yellow (can't reproduce).
 - Screen flickering in some gsi (can't reproduce).
 
