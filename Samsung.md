@@ -97,4 +97,4 @@
 |[[Samsung Galaxy Z Flip]]|bloom|✓|A/B|arm64|
 |[[Samsung Galaxy Z Fold 2]]|f2|✓|A/B|arm64|
 |[[Samsung Galaxy A12s (Exynos 850)]]|a127f|x|A/B|arm64|
-|[[Samsung Galaxy A13 (Media Tek Helio G80)]]|A137f|✓|A/B|arm_binder64|
+|[[Samsung Galaxy A13 (Media Tek Helio G80)]]|A137f|x|A/B|arm_binder64|
