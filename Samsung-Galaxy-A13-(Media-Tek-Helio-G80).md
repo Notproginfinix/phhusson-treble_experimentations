@@ -40,5 +40,5 @@ Most of featuers works instead of:
 * Promixy sensor (if screen goes black you need to wake up the phone.
 * Camera Quality not the best i think.
 
-Tested By: Sarah Vandomelen (@MinecraftPlayer44 on Telegram) - SM-A137f (Egypt), firmware A137FXXU3CWE1 - Android 13, OneUI 5.1 - May 04, 2024 - Template created by @mohammed-saleh2007 
+Tested By: Mohammed Saleh (@MinecraftPlayer44 on Telegram) - SM-A137f (Egypt), firmware A137FXXU3CWE1 - Android 13, OneUI 5.1 - May 04, 2024 - Template created by @mohammed-saleh2007 
 
