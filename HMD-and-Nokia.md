@@ -2,6 +2,7 @@ This page covers all smartphones released by HMD Global Oy under either HMD or N
 
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
+|[[HMD Pulse, Pulse Plus and Pulse Pro|legend, legendplus and legendpro|✓|A/B|arm64|
 |[[Nokia 1]]|FRT|✓|A/B|arm32-binder64|
 |[[Nokia 1 Plus]]|ANT|✓|A|arm|
 |[[Nokia 1.3]]|DRAX|✓|A/B|arm32-binder64|
