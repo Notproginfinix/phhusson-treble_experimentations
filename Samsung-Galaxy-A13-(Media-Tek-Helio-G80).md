@@ -2,8 +2,6 @@
 
 Seems to work fine with many AOSP builds 12, 13, 14 image, vanilla and gapps!
 
-Occasionally a reboot will go silly and just not want to work right; in that case, another reboot usually fixes it.
-
 ## Steps to install
 
 * You need to flash a Custom recovery (TWRP or OFRP)
