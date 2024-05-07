@@ -2,7 +2,7 @@
 
 | Components | Status |
 | --- | --- |
-| Camera (FRONT/BACK) | WORKING ✅/ One works but idk if the other 2 does. |
+| Camera (FRONT/BACK) | WORKING ✅ / WORKING ✅ |
 | Speaker/Mic (TOP/BOTTOM) | WORKING ✅ / WORKING ✅ |
 | Bluetooth | WORKING ✅ |
 | Wi-Fi | WORKING ✅ |
@@ -14,34 +14,32 @@
 
 ##### Terms used:
 
-Patched recovery - Stock recovery patched with the tool.
+Patched recovery - Patched recovery made with the stock recovery patcher.
 
 Custom recovery - TWRP, OFOX etc...
 
 ## Custom recoveries/kernels/vendors
 
-- [TeamWin Recovery Project (Unofficial)(Discontinued)](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a02s-snapdragon.4294377/)
+- [TeamWin Recovery Project (Unofficial)(Discontinued)](https://t.me/galaxy_a02s/13051)
   
   - The developer has stopped updating it or abandoned it. However, It still functions as expected and has no bugs.
-    
-- [OrangeFox Recovery (Unofficial)(Non-functional/Discontinued)](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a02s-snapdragon.4294377/)
-  
-  - The developer has stopped updating it or abandoned it. Doesn't function anymore. **USE TWRP!**
-    
-- [Smiley's ARM32(Binder)/ARM64 Custom vendor](https://t.me/samsung_galaxy_m01_a01_m11_a11)
-  
-  - Each vendor has watchdog completely disabled and **allows GSIs that hasn't been updated at June 2023 or later**(or has been abandoned) to work on the device. See notes for Running GSIs below.
-    
-  - ARM64 vendor is a ported vendor from M02s. Lots of functions such as fast charging and other don't function properly and has lots of bugs so use it at your own risk.
-    
+  - You can flash it through Odin, Heimdall or if you already have a custom recovery installed on the device, you can just flash the recovery.img file found inside of the .tar file as a recovery image.
 - [Stock recovery Patcher (Click to know more)](https://github.com/engineer4t/fastboot-patcher)
   
-  - Note that this only adds fastbootd to the stock recovery. This allows you to only to flash images(.img) through fastboot and not .zip files. Use TWRP for that purpose.
-    
-  - This should be enough for flashing GSIs.
-    
-- [Physwizz's Kernel](https://t.me/physwizz2)
+  - You can use this to patch your stock recovery and add fastbootd to it. This will allow you to flash **only .img** files on it and should be enough for installing GSIs.
+  - The patched recovery obtained can be flashed through Odin, Heimdall or if you already have a custom recovery installed on the device, you can just flash the recovery.img found inside the .tar file as a recovery image.
+- [vbmeta-disabler](https://t.me/galaxy_a02s/13058) ****REQUIRED!****
   
+  - This needs to be flashed through ODIN before installing a custom recovery and a patched recovery in order for the recovery to be able to run and also, to be able to run custom roms on your phone.
+  - You can flash it only through Odin or Heimdall.
+- [Smiley's ARM32(Binder)/ARM64 Custom vendor](https://t.me/samsung_galaxy_m01_a01_m11_a11)
+  
+  - The vendors have watchdog completely disabled and **allows GSIs that hasn't been updated at June 2023 or later**(or has been abandoned) to work on the device. See notes for Running GSIs below for more info.
+    
+  - ARM64 vendor is a ported vendor from M02s. Some things do not function properly on it and it has lots of bugs. However if you intend to use it only to run ARM64 games on the phone, then you can use it but do note that you might experience minor glitches and bugs on games.
+    
+  - This can be flashed only through a custom recovery such as TWRP or OFOX.
+    
 
 ## Important notes
 
@@ -49,15 +47,15 @@ Custom recovery - TWRP, OFOX etc...
 
 Any attempt in running a **secure** or **secure-on-demand**¹ GSIs that **hasn't been updated at June 2023 or later** will make the device hard reboot every 10-20 seconds after booting up. You might think that the GSI has booted properly but after some seconds, it will do it.
 
-¹Only when you **securize** or you turn on **Device Spoof Properties**(On secure-on-demand GSIs)
+¹Only when you **securize** or you turn on **Device Spoof Properties.**
 
 Same applies for when you try to use any Magisk module to fix SafetyNet such as Universal SafetyNet Fix. Basically, any method used to fix SafetyNet will cause the above issue. Properties are always spoofed on Secure GSIs so that's why the above issue happens.
 
-Phh has fixed the above issue by changing the way how Watchdog and Watchdogd is handled by GSIs. You can apply these fixes on old GSIs using appropriate tools to unpack and repack the GSI or by using root. However, I would recommend you to use a newer GSI or just wait for your developer to implement the fix on their GSI.
+Phh has fixed the above issue by changing the way how Watchdog and Watchdogd is handled by GSIs. You can apply these fixes on old GSIs using appropriate tools to unpack and repack the GSI or by using root. However, I would recommend you to use a newer GSI or just wait for developers to implement the fixes in their GSI.
 
 No need to and you shouldn't turn on any **Alternate audio policy** option or any audio-related options in phh Treble options. This will break the audio system. However, disabling **sound effects in Qualcomm settings** or disabling **audio effect in Misc Settings** won't break it.
 
-Not sure how the above option works. -- @tangymc
+Not sure how the above option works. -- @mrugtangy
 
 ### How to GSI
 
@@ -77,16 +75,14 @@ Not sure how the above option works. -- @tangymc
   
 - After rebooting, complete the setup process, connect to a network, check for updates, enable developer settings again and if you see the OEM Unlocking option greyed out, it means that you have successfully unlocked the bootloader!
   
-
-#### Flashing a patched vbmeta/disabling vbmeta
-
-The TWRP recovery mentioned above has a file that has been mentioned called **vbmeta_disabler.tar**. You should flash this before installing a custom recovery.
-
-The above file should be also flashed after installing the patched recovery.
+- After rebooting, boot back to download mode and flash the vbmeta disabler so that you're able to flash a custom or patched recovery and be able to flash GSIs
+  
 
 #### Choosing the right GSI and other stuff
 
-A02s only supports **a64/arm32_binder64** and **A/B** GSIs. So, make sure to only choose them.
+A02s only supports **a64/arm32_binder64 - A/B** GSIs. So, make sure to only choose them.
+
+If you're going to use the **ARM64 Vendor**, you should only use **ARM64 - A/B** GSIs.
 
 If you're going to install Magisk, make sure to choose a GSI that **doesn't contain phh SU**.
 
@@ -94,7 +90,7 @@ SGSIs(Semi-GSIs) are not guaranteed to work perfectly on it. So, use them at you
 
 #### Installing a GSI
 
-Before installing a GSI, make sure you have a **custom recovery** or have installed a **patched recovery**(tool found above). The fastboot option that's found on the stock recovery (basically the one that says reboot to bootloader in recovery) is completely useless.
+Before installing a GSI, make sure you have a **custom recovery** or have installed a **patched recovery**(tool found above). The fastboot option that's found on the stock recovery (basically the one that says reboot to bootloader in stock recovery) is completely useless so you shouldn't be using that.
 
 After installing any of them, you'll be able to flash a GSI by either:
 
@@ -102,9 +98,9 @@ After installing any of them, you'll be able to flash a GSI by either:
   
   or
   
-- By flashing it through fastboot on a **custom recovery** or a **patched recovery** (Recommended) using the following commands:
+- By flashing it through fastboot on a **custom recovery** or a **patched recovery**(recommended) using the following commands:
   
-  To flash a GSI:
+  To flash a GSI :
   
   ```bash
   fastboot erase system # To erase the system partition
@@ -114,7 +110,7 @@ After installing any of them, you'll be able to flash a GSI by either:
   fastboot flash system <your gsi img> # To flash your GSI
   ```
   
-  To empty out the product partition (Optional):
+  To empty out the product partition (Optional) :
   
   ```bash
   fastboot erase product # To erase the product partition
@@ -124,8 +120,7 @@ After installing any of them, you'll be able to flash a GSI by either:
   fastboot flash product product_gsi.img # To flash an empty product image
   ```
   
-  [product_gsi.img](https://forum.xda-developers.com/attachments/product_gsi-img.5371179/) - click to download 
-  Note that you should have ADB/Platform tools installed on your PC along with **Samsung's or Google's USB Driver**. Both works fine.
+  [product_gsi.img](https://forum.xda-developers.com/attachments/product_gsi-img.5371179/) - click to download
   
   However, if you're using another phone to do that (through OTG) then the above drivers won't be required.
   
