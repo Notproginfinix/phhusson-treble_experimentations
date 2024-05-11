@@ -35,13 +35,14 @@ Release Date | Feb 2019
 * Cameras
 * Touch
 * Vibration
-* WiFi and bluetooth
+* WiFi
 * Speakers
 
 # Bugs
 * Bootlooping sometimes on GSI's
 * UI glitches
 * Pasccodes cause a bootloop
+* Bluetooth doesn't work at all
 
 # Notes:
 This device is almost identical to GM 8 Go and 9 Go, with a lack of a fingerprint sensor and more RAM
