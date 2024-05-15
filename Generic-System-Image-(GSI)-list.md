@@ -4,6 +4,12 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 - *If your device uses VNDKLite, only use VNDKLite GSIs. To verify what image is right for your device, check the "Required Image" section of the [Treble Info](https://github.com/phhusson/treble_experimentations/wiki/Frequently-Asked-Questions-(FAQ)#how-can-i-check-if-my-device-is-treble-enabled) app.*
 - *All images here require a System-as-Root ("A/B") partition style, unless otherwise specified through a column.*
 
+## Official Android 15
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|15 May|Google GSI|Google|[Download](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-AP31.240426.022-11822335-6573af84.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|May 2024
+
+
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
