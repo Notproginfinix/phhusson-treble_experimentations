@@ -73,6 +73,7 @@
 |[[Xiaomi Redmi 10C / 10 - India]]|fog|✓|A/B|arm64|
 |[[Xiaomi Redmi 10X 5G]]|atom|✓|A/B|arm64|
 |[[Xiaomi Redmi 10X Pro]]|bomb|✓|A/B|arm64|
+|[[Xiaomi Redmi 12]]|fire|✓|A/B|arm64|
 |[[Xiaomi Redmi 12C]]|earth|✓|A/B|arm64|
 |[[Xiaomi Redmi Go]]|tiare|✓|A|arm|
 |[[Xiaomi Redmi K20 / Mi 9T]]|davinci|✓|A/B|arm64|
