@@ -18,6 +18,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|15 May|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|May 2024|
 |12 May|PixelOS|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|May 2024|
 |09 May|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Mar 2024|
 |08 May|VoltageOS|chrisaw|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/cawilliamson/treble_voltage/releases/)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Apr 2024|
@@ -32,7 +33,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |04 Mar|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Feb 2024|
 |12 Feb|DerpFest|KoysX|[Download](https://github.com/KoysX/treble_DerpFest_GSI/releases)|[GitHub](https://github.com/KoysX/treble_DerpFest_GSI) |ARM64|Feb 2024|
 |07 Feb|Evolution X|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_evo/releases)|[GitHub](https://github.com/ahnet-69/treble_evo)|ARM64|Feb 2024|
-|22 Jan|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Jan 2024|
 
 
 ## Official Android 13	
