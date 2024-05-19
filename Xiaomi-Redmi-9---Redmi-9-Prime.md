@@ -1,3 +1,5 @@
+# Xiaomi Redmi 9 / Redmi 9 Prime
+
 ## Requirements
 * PC with ADB/Fastboot drivers installed.
 * Unlock bootloader with https://en.miui.com/unlock/index.html or using https://github.com/bkerler/mtkclient
