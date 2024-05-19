@@ -1,4 +1,4 @@
-# Xiaomi Redmi 9 / Redmi 9 Prime
+# Xiaomi Redmi 9
 
 ## Requirements
 * PC with ADB/Fastboot drivers installed.
