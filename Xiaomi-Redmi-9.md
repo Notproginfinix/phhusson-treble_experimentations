@@ -13,10 +13,15 @@
 ## Install a GSI
 * From the command-line, type `adb reboot bootloader` to boot into Fastboot mode.
 * From the command-line, type `fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img` to disable verified boot.
-* From the command-line, type `fastboot reboot fastboot` to move Fastboot from bootloader to userspace.
+* From the command-line, type `fastboot reboot fastboot` to move Fastboot from bootloader to userspace (FastbootD)
 * From the command-line, type `fastboot flash system system.img` to flash the GSI (_system.img_ is the extracted GSI e.g _system-td-arm64-ab-vanilla.img_).
 * From the command-line, type `fastboot reboot recovery` to wipe data from MIUI recovery.
 * Reboot.
+
+## Update a GSI
+* From the command-line, type `adb reboot fastboot` to enter Fastboot in userspace (FastbootD).
+* From the command-line, type `fastboot flash system system.img` to flash the GSI (_system.img_ is the extracted GSI e.g _system-td-arm64-ab-vanilla.img_).
+* From the command-line, type `fastboot reboot` to reboot (no need to wipe data).
 
 ## Hardware support
 |Component                 |Comment |
