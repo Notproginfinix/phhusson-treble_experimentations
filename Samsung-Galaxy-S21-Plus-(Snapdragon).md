@@ -53,7 +53,7 @@ and adjust the screen brightness on your phone
 | Bluetooth                 | √ |
 | WiFi                      | √ |
 | SIM / Mobile Data / Voice | √ |
-| Brightness                | [*](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-S21-Plus-(Snapdragon)#Brightness) |
+| Brightness                | [*](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-S21-Plus-(Snapdragon)#Brightness)(Display is dimmed; Fix provided here) |
 ---
 
 @litszwaiboris - 2024/05/20
