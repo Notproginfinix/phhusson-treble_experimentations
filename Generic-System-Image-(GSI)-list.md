@@ -78,7 +78,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|15 Apr|Project Elixir|Ahnet|[XDA](https://xdaforums.com/t/gsi-14-0-gsi-project-elixir-official-stable-aosp.4650522/) / [Download](https://projectelixiros.com/device/gsi) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phh_treble/)|ARM64|Apr 2024|
+|15 Apr|Project Elixir|UniversalX|[XDA](https://xdaforums.com/t/gsi-14-0-gsi-project-elixir-official-stable-aosp.4650522/) / [Download](https://projectelixiros.com/device/gsi) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phh_treble/)|ARM64|Apr 2024|
 
 ## Unofficial Android 14	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
