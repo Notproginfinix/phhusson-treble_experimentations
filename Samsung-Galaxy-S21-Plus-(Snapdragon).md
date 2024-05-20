@@ -1,5 +1,7 @@
 ## Steps to install
 **THIS WILL ERASE ALL YOUR DATA**
+**AND VOID YOUR WARRENTY**
+**AND OBVIOUSLY TRIP KNOX (NO SECURE FOLDER, NO SAMSUNG PASS)**
 
 ### Unlock Bootloader
 - Enable OEM unlocking and USB Debugging in developer settings
