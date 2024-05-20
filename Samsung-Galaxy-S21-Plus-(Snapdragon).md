@@ -34,7 +34,7 @@
 - Flash it as a `System Image`
 - Reboot
 
-### Brightness Fix
+### Brightness
 - Connect to a computer
 - `adb shell` into the device
 - `su` to use shell as superuser
