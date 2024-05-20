@@ -76,7 +76,6 @@
 |[[Samsung Galaxy S20 FE (Exynos)]]|r8s|✓|A/B|arm64|
 |[[Samsung Galaxy S20 FE (Snapdragon)]]|r8q|✓|A/B|arm64|
 |[[Samsung Galaxy S21 (Exynos)]]|o1s|✓|A/B|arm64|
-|[[Samsung Galaxy S21 (Snapdragon)]]|o1q|✓|A/B|arm64|
 |[[Samsung Galaxy S21 Plus (Exynos)]]|t2s|✓|A/B|arm64|
 |[[Samsung Galaxy S21 Plus (Snapdragon)]]|t2q|✓|A/B|arm64|
 |[[Samsung Galaxy S21 Ultra (Exynos)]]|p3s|✓|A/B|arm64|
