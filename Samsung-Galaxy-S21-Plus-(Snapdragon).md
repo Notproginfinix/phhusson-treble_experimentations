@@ -18,6 +18,7 @@
 - Boot into Download Mode Again
 - Open Odin3 (If you don't have Odin, get it from [OdinDownload](https://odindownload.com)) (Recommend v13)
 - Put TWRP tar into AP, and VBmeta tar into USERDATA
+- Press Start
 - Boot back into One UI and Reboot into Recovery with `adb reboot recovery`
   - [ADB](https://developer.android.com/studio#downloads); install latest command-line tools for your system
   - [Samsung Android USB Driver](https://developer.samsung.com/android-usb-driver)
@@ -52,7 +53,7 @@ and adjust the screen brightness on your phone
 | Bluetooth                 | √ |
 | WiFi                      | √ |
 | SIM / Mobile Data / Voice | √ |
-| Brightness                | [*](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-S21-%28Snapdragon%29/#Fix%20Brightness%20%28Requires%20Root%29) |
+| Brightness                | [*](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-S21-Plus%20%28Snapdragon%29/#Fix%20Brightness%20%28Requires%20Root%29) |
 ---
 
 @litszwaiboris - 2024/05/20
