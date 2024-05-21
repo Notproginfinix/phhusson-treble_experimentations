@@ -17,6 +17,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|21 May|Evolution X|ngankbka|[Download](https://github.com/ngankbka/treble_evolution/releases/)|[GitHub](https://github.com/ngankbka/treble_evolution)|ARM64|May 2024|
 |19 May|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|May 2024|
 |18 May|LineageOS<br>"Light"|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-light)|ARM64|May 2024|
 |15 May|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|May 2024|
@@ -25,7 +26,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |08 May|VoltageOS|chrisaw|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/cawilliamson/treble_voltage/releases/)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Apr 2024|
 |24 Apr|LineageOS<br>TD-based|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-trebledroid-based.4654132//) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td//)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-td)|ARM64 - Binder|Apr 2024|
 |19 Apr|Project Sakura|ChonDoit|[Telegram](https://t.me/elranchodecornelio/252) / [Download](https://github.com/ChonDoit/treble_sakura_patches/releases)|[Github](https://github.com/ChonDoit/treble_sakura_patches)|ARM64|Apr 2024|
-|21 Mar|Evolution X (Archived)|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_evolution/releases/)|[GitHub](https://github.com/YukiMetaa/treble_evolution)|ARM64|Feb 2024|
 |17 Mar|ApolloOS (Archived)|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_apollo/releases/)|[GitHub](https://github.com/YukiMetaa/treble_apollo)|ARM64|Feb 2024|
 |12 Mar|CherishOS (Archived)|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_cherish/releases/)|[GitHub](https://github.com/YukiMetaa/treble_cherish)|ARM64|Feb 2024|
 |10 Mar|HorizonDroid|Braia|[Telegram](https://t.me/TrebleUniverseChat) / [Download](https://sourceforge.net/projects/braiagsi/files/HorizonDroid/)|-|ARM64|Feb 2024|
