@@ -17,7 +17,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|21 May|Evolution X|ngankbka|[Download](https://github.com/ngankbka/treble_evolution/releases/)|[GitHub](https://github.com/ngankbka/treble_evolution)|ARM64|May 2024|
+|21 May|Evolution XYZ|ngankbka|[Download](https://github.com/ngankbka/treble_evolution/releases/)|[GitHub](https://github.com/ngankbka/treble_evolution)|ARM64|May 2024|
 |19 May|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|May 2024|
 |18 May|LineageOS<br>"Light"|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-light)|ARM64|May 2024|
 |15 May|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|May 2024|
