@@ -1,6 +1,6 @@
 Samsung Galaxy M11
 
-
+![](https://www.tuexperto.com/wp-content/uploads/2021/01/samsung-galaxy-m11-e1611315415604.jpg)
 Summary: This device uses a64 GSI variants. GSI images should work, so long as they're based on [v413](https://github.com/phhusson/treble_experimentations/releases/tag/v413) or later.
 Please note the following:
 Android 11-based GSI images (ie. dotOS 5.2) may suffer from watchdog issues related to /dev/watchdog0. Android 12.1-based GSI images do not have this issue.
