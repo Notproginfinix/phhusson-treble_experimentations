@@ -35,7 +35,7 @@
 | Speaker / Mic             | OK                                                        |
 | Bluetooth                 | OK                                                        |
 | WiFi                      | OK                                                        |
-| SIM / Mobile Data / Voice | SIM/Data OK, but VoLTE is required for calls. Working on stock vendor Android 12 in [A115FXXS6CWK2] (VoLte not)             | working on stock vendor Android 12 in [A115FXXS6CWK2] (VoLte not)
+| SIM / Mobile Data / Voice | SIM/Data OK, but VoLTE is required for calls. Working on stock vendor Android 12 in [A115FXXS6CWK2] (VoLte not)             | working on stock vendor Android 12 on version [A115FXXS6CWK2] (VoLte not)
 | VoLTE                     | Not available on Samsung devices with Qualcomm processors. See [this message](https://t.me/phhtreble/570295) from the official Telegram group.|
 | Fingerprint               | OK                                                        |
 | NFC                       | Not applicable for this device.                           |
