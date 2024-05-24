@@ -3,17 +3,17 @@ Samsung Galaxy M11
 ![](https://www.tuexperto.com/wp-content/uploads/2021/01/samsung-galaxy-m11-e1611315415604.jpg)
 Summary: This device uses a64 GSI variants. GSI images should work, so long as they're based on [v413](https://github.com/phhusson/treble_experimentations/releases/tag/v413) or later.
 Please note the following:
-Android 11-based GSI images (ie. dotOS 5.2) may suffer from watchdog issues related to /dev/watchdog0. Android 12.1-based GSI images do not have this issue.
-This device has multiple variants, but this doc only applies to the North American version of the Galaxy M11.
-Other variants (ie. SM-M115F/DS) may have different OEM unlock instructions and methods, but the rest of the information here should still apply.
+* Android 11-based GSI images (ie. dotOS 5.2) may suffer from watchdog issues related to /dev/watchdog0. Android 12.1-based GSI images do not have this issue.
+* This device has multiple variants, but this doc only applies to the North American version of the Galaxy M11.
+* Other variants (ie. SM-M115F/DS) may have different OEM unlock instructions and methods, but the rest of the information here should still apply.
 
-Android 12-based GSI images may suffer from watchdog issues related to /dev/watchdog0. Android 12.1-based GSI images do not have this issue.
+* Android 12-based GSI images may suffer from watchdog issues related to /dev/watchdog0. Android 12.1-based GSI images do not have this issue.
 This device has multiple variants, but this doc only applies to the North American version of the Galaxy M11.
 Other variants (ie. SM-A115F/DS) may have different OEM unlock instructions and methods, but the rest of the information here should still apply.
 
 Flashing Quirks
 This device will require cross-flashing to enable the OEM Unlock toggle.
-Currently the SM-M115F and SM-M115F/DSN models are common, but the A115U variant has no unlock toggle. Both variants have interchangeable firmware, luckily, and will need to be switched to continue. Please check XDA if you don't know how to do this, as the Telegram group may not provide reliable support.
+Currently the SM-M115F and SM-M115F/DSN models are common, but the M115F variant has no unlock toggle. Both variants have interchangeable firmware, luckily, and will need to be switched to continue. Please check XDA if you don't know how to do this, as the Telegram group may not provide reliable support.
 
 You will need to install GSI images using TWRP or OrangeFox's Flash as System Image option.
 Some ROMs may need to be resized using resize2fs before they'll fit on /system_root. See below for hardware and partition support information.
@@ -22,7 +22,7 @@ Camera | OK
 Speaker / Mic | OK
 Bluetooth | OK
 WiFi | OK
-SIM / Mobile Data / Voice | SIM/Data OK, but VoLTE is required for calls. Working on stock vendor Android 12 in [A115FXXS6CWK2] (VoLte not)
+SIM / Mobile Data / Voice | SIM/Data OK, but VoLTE is required for calls. Working on stock vendor Android 12 in [M115FXXS6CWK2] (VoLte not)
 VoLTE | Not available on Samsung devices with Qualcomm processors. See this message from the official Telegram group.
 Fingerprint | OK
 NFC | Not applicable for this device.
