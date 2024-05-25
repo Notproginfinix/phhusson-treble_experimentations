@@ -3,7 +3,8 @@ Seems to behave the same as its non-LTE counterpart. VoLTE/SIM not tested.
 
 # Lenovo Tab K10 (TB-X6C6F)
 
-Android 11 firmware is the only firmware that seems to work currently. If the device has Android 12 already, you will need to downgrade it.
+Android 11 firmware is the only firmware that seems to currently work, anything later kernel panics to recovery or bootloops.  
+If the device has Android 12 already, you will need to downgrade it - you can try using [this firmware mirror](https://mirrors.lolinet.com/firmware/lenowow/Tab_K10/TB-X6C6F/), if it still works at the time you're reading this.
 
 Make sure to disable dm-verity, and use fastbootd to flash the image.
 
@@ -31,12 +32,9 @@ Tested By:
    - Date: 2022-02-11
 1. C0rn3j
    - Model: Lenovo TB-X6C6X
-   - Firmware: S000043_210430
-   - Date: 2022-02-11
-2. C0rn3j
-   - Model: Lenovo TB-X6C6F
-   - Firmware: S000080_220410_ROW
-   - Date: 2022-02-23
+   - Firmware: `S000080_220410_ROW`, `S000043_210430` - A12 `TB-X6C6F_S100038_240307_ROW` was also tested, but could not get the GSI to work
+   - GSI: [Andi Yan's td](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/) - `lineage-20.0-20240516-UNOFFICIAL-arm64_bgN.img` - LineageOS 21.0 seems to not work, supposedly because older Android 14 releases are not friendly with 4.19 kernel the device uses
+   - Last updated: 2024-05-25
 
 
 ## Flashing Android 11 stock firmware
@@ -62,6 +60,8 @@ fastboot flash userdata userdata.img
 fastboot flash vbmeta vbmeta.img
 fastboot flash vbmeta_system vbmeta_system.img
 fastboot flash vbmeta_vendor vbmeta_vendor.img
+fastboot flash preloader preloader_*.bin
+fastboot -w
 fastboot reboot bootloader
 ```
 
