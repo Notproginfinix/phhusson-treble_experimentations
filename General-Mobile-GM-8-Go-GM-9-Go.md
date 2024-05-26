@@ -19,7 +19,7 @@ Release Date | May 2018 / Feb 2019
 ## Use fastboot to unlock your bootloader
 2. Enable developer options
 3. Enable OEM Unlocking
-4. Reboot into mtk preboot by pressing volume up + power and select fastboot via the volume buttons (instructions should be on the screen of the shiny black rectangle)  or boot into fastboot via the adb command `adb reboot bootloader`
+4. Reboot into mtk preboot by pressing volume up + power and select fastboot via the volume buttons (instructions should be on the screen)  or boot into fastboot via the adb command `adb reboot bootloader`
 5. Type in `fastboot oem unlock`
 
 ## Use mtkclient to unlock your bootloader
