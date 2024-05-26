@@ -65,6 +65,8 @@
 |[[General Mobile GM 10]]|G300|✓|A/B|arm64|
 |[[General Mobile GM 20]]|G301|✓|A/B|arm64|
 |[[General Mobile GM 20 Pro]]|G501|✓|A/B|arm64|
+|[[General Mobile GM 22 Plus]]|G512|✓|A/B|arm64|
+|[[General Mobile GM 24 Pro]]|G514|✓|A/B|arm64|
 |[[GOME U9]]|n/a|✓|A|arm64|
 |[[Hot Pepper Serrano]]|HPP-L55B|not sure|A/B|arm_binder64|
 |[[HP Elite x3 and Pro x3]]|butler|✓|A|arm64|
