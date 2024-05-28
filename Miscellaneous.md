@@ -28,6 +28,10 @@
 |[[Cherry Mobile Agua S9 Max]]|Aqua_S9_Max|√|A/B|arm64|
 |[[Cherry Mobile Aqua S9]]|Aqua_S9|√|A/B|arm64|
 |[[Cherry Mobile Aqua S10 Pro]]|S10_Pro|√|A/B|arm64|
+|[[China Telecom Bodun 10]]|TYH232U|✓|A/B|arm64|
+|[[China Telecom eSurfing No. 1 (2020)]]|TYH201H|✓|A/B|arm64|
+|[[China Telecom eSurfing No. 1 (2021)]]|TYH211H|✓|A/B|arm64|
+|[[China Telecom eSurfing No. 1 (2022) / Zhenqing]]|TYH212U|✓|A/B|arm64|
 |[[Chuwi Hi9 Air]]|Hi9Air|✓|A|arm64|
 |[[Coolpad C558]]|k39tv1|✓|A|arm|
 |[[Cubot King Kong 5 Pro]]|n/a|✓|A/B|arm64|
@@ -52,10 +56,6 @@
 |[[Elephone Soldier]]|n/a|✓|A|arm64|
 |[[Elephone U Pro]]|U_Pro|✓|A/B|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
-|[[China Telecom eSurfing No. 1 (2020)]]|TYH201H|✓|A/B|arm64|
-|[[China Telecom eSurfing No. 1 (2021)]]|TYH211H|✓|A/B|arm64|
-|[[China Telecom eSurfing No. 1 (2022) / Zhenqing]]|TYH212U|✓|A/B|arm64|
-|[[China Telecom Bodun 10]]|TYH232U|✓|A/B|arm64|
 |[[Fairphone 3]]|FP3|✓|A/B|arm64|
 |[[F(x)tec Pro1]]|QX1000|✓|A/B|arm64|
 |[[General Mobile GM 8]]|GM8_sprout|✓|A/B (VNDKLITE)|arm64|
