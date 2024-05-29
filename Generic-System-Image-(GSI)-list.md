@@ -7,6 +7,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|29 May|RisingOS|UniversalX|[Download](https://sourceforge.net/projects/risingos-official/files/3.x/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/ItsLynix/RisingTreble)|ARM64|May 2024|
 |24 May|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android14-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Mar 2024
 |08 May|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Mar 2024|
 
@@ -15,7 +16,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |26 May|LineageOS<br>TD-based|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-trebledroid-based.4654132//) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td//)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-td)|ARM64 - Binder|May 2024|
-|24 May|RisingOS|UniversalX|[Download](https://sourceforge.net/projects/lynixgsiprojects/files/A14/RisingOS/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/ItsLynix/RisingTreble)|ARM64|May 2024|
 |21 May|Evolution XYZ|ngankbka|[Download](https://github.com/ngankbka/treble_evolution/releases/)|[GitHub](https://github.com/ngankbka/treble_evolution)|ARM64|May 2024|
 |19 May|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|May 2024|
 |18 May|LineageOS<br>"Light"|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-light)|ARM64|May 2024|
