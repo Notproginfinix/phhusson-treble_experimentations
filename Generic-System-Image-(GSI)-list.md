@@ -24,7 +24,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |09 May|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|May 2024|
 |08 May|VoltageOS (archived) |chrisaw|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/cawilliamson/treble_voltage/releases/)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Apr 2024|
 |19 Apr|Project Sakura|ChonDoit|[Telegram](https://t.me/elranchodecornelio/252) / [Download](https://github.com/ChonDoit/treble_sakura_patches/releases)|[Github](https://github.com/ChonDoit/treble_sakura_patches)|ARM64|Apr 2024|
-|17 Mar|ApolloOS (Archived)|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_apollo/releases/)|[GitHub](https://github.com/YukiMetaa/treble_apollo)|ARM64|Feb 2024|
 |12 Mar|CherishOS (Archived)|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_cherish/releases/)|[GitHub](https://github.com/YukiMetaa/treble_cherish)|ARM64|Feb 2024|
 |10 Mar|HorizonDroid|Braia|[Telegram](https://t.me/TrebleUniverseChat) / [Download](https://sourceforge.net/projects/braiagsi/files/HorizonDroid/)|-|ARM64|Feb 2024|
 |04 Mar|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Feb 2024|
@@ -81,6 +80,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 14	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|17 Mar|ApolloOS (Archived)|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_apollo/releases/)|[GitHub](https://github.com/YukiMetaa/treble_apollo)|ARM64|Feb 2024|
 |Dec 2023|CRdroid|Braia|[Telegram](https://t.me/DroidZoneBR) / [Download](https://sourceforge.net/projects/braiagsi/files/Test/)|[GitHub](https://github.com/Antony-Braiano)|ARM64|Dec 2023|
 |Dec 2023|Evolution X|KoysX|[Download](https://github.com/KoysX/treble_build_evo/releases)|[GitHub](https://github.com/KoysX/treble_build_evo) |ARM64|Nov 2023|
 |Oct 2023|Evolution X (Archived)|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_evo/releases)| [GitHub](https://github.com/boydaihungst/treble_build_evo/)|ARM64|Oct 2023|
