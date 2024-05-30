@@ -13,7 +13,8 @@
 * Click to install and select install image, select the GSI and flash in system partition
 
 ### Flash 
-[boot_repack.zip](https://xdaforums.com/attachments/boot_repack-zip.5848071/?hash=2d10d9951d7d44c38d90d7b7d9d7fda9) (To fix stock recovery restoration) Fist Before Do Next Step.
+[boot_repack.zip](https://xdaforums.com/attachments/boot_repack-zip.5848071/?hash=2d10d9951d7d44c38d90d7b7d9d7fda9) (To fix stock recovery restoration) 
+After Format Data
 
 ### ADB & Fastboot Driver
 * Driver Not working ? > Go to PC > Open Device Manager > Other Driver > Right Click > Update driver > Browse my computer for drivers > Let pick from a list > Adb Interface > Samsung android Adb interface version : xxx > Next > Yes > Done (if have installed samsung driver)
