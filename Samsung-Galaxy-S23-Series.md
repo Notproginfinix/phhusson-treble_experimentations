@@ -3,16 +3,17 @@
 * Reboot to recovery via recovery key combo (Vol up + power + USB connected).
 
 ### Fastboot Method
-* go to Wipe > Format Data > Yes > reboot to Fastbootd.
+* go to Wipe > Format Data > Yes > flash boot_repack.zip > reboot to Fastbootd.
 * Open Terminal of Minimal adb or platform-tools
 * run command fastboot flash system then drag gsi.img to terminal then enter
 
 ### Recovery Method
-* Open TWRP Terminal, go to Wipe > Format Data > Yes and reboot recovery.
+* Open TWRP Terminal, go to Wipe > Format Data > Yes > flash boot_repack.zip > and reboot recovery.
 * Then Copy in a USB-OTG the GSI, in my case is the LineageOS 21 by Andy Yan 
 * Click to install and select install image, select the GSI and flash in system partition
 
-### Flash 
+### Boot_Repack File
+
 [boot_repack.zip](https://xdaforums.com/attachments/boot_repack-zip.5848071/?hash=2d10d9951d7d44c38d90d7b7d9d7fda9) (To fix stock recovery restoration) 
 After Format Data
 
