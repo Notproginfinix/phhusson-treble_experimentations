@@ -15,7 +15,7 @@
 
 ### ADB & Fastboot Driver
 
-* Driver Show Other Driver ? > Go to PC > Open Device Manager > Other Driver > Right Click > Update driver > Browse my computer for drivers > Let pick from a list > Adb Interface > Samsung android Adb interface version : xxx > Next > Yes > Done (if have installed samsung driver)
+* Driver Not working ? > Go to PC > Open Device Manager > Other Driver > Right Click > Update driver > Browse my computer for drivers > Let pick from a list > Adb Interface > Samsung android Adb interface version : xxx > Next > Yes > Done (if have installed samsung driver)
 
 ### Samsung Driver Link
 
