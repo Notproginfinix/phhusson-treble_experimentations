@@ -6,7 +6,7 @@
 ### Fastboot Method
 * go to Wipe > Format Data > Yes > reboot to Fastbootd.
 * Open Terminal of Minimal adb or platform-tools
-* run command fastboot flash system then drag gsi.img to terminal then enter to flash
+* run command fastboot flash system then drag gsi.img to terminal then enter
 
 ### Recovery Method
 * Open TWRP Terminal, go to Wipe > Format Data > Yes and reboot recovery.
@@ -20,6 +20,7 @@
 ### Samsung Driver Link
 
 - [Download Driver](https://developer.samsung.com/sdp/file/de97d0ea-da03-46a4-b35d-346d37a878e0)
+* Can be used with Non-samsung devices also.
 
 ### TWRP File Link
 
@@ -42,6 +43,6 @@
 | Fingerprint                      | Not Working                                                                                                  |
 | NFC                              | Working                                                                                                      |
 | Offline Charging                 | Not tested                                                                                                   |
-| 5G                               | Working Depends on GSI                                                                                       |
+| 5G                               | Working maybe some gsi                                                                                      |
 | 120Hz Refresh Rate               | Working                                                                                                      |
 | USB-C headphones and sound cards | Working with mitigations (Settings -> Phh Treble Settings -> Samsung features -> Use alternate audio policy) |
