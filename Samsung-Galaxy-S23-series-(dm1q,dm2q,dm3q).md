@@ -18,6 +18,6 @@
 | Fingerprint                      | Not Working                                                                                                      |
 | NFC                              | Working                                                                                                      |
 | Offline Charging                 | Not tested                                                                                                 |
-| 5G                               | Not Working                                                                                                  |
+| 5G                               | Working                                                                                                  |
 | 120Hz Refresh Rate               | Working                                                                                                      |
 | USB-C headphones and sound cards | Working with mitigations (Settings -> Phh Treble Settings -> Samsung features -> Use alternate audio policy) |
