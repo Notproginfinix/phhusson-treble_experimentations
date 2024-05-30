@@ -35,7 +35,7 @@ adb shell settings put system min_refresh_rate 120
 adb shell settings put system peak_refresh_rate 120
 ```
 
-*Settings Method
+* Settings Method
 ```
 Settings -> Phh Treble Settings -> Misc -> Force FPS
 ```
