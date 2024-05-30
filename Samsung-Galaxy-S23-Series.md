@@ -38,10 +38,10 @@
 | Bluetooth                        | Working                                                                                                      |
 | WiFi                             | Working                                                                                                      |
 | SIM / Mobile Data / Voice        | Depends on GSI                                                                                               |
-| VoLTE                            | Not Working                                                                                                  |
-| Fingerprint                      | Not Working                                                                                                      |
+| VoLTE / VoNR                     | Not Working                                                                                                  |
+| Fingerprint                      | Not Working                                                                                                  |
 | NFC                              | Working                                                                                                      |
-| Offline Charging                 | Not tested                                                                                                 |
-| 5G                               | Working                                                                                                |
+| Offline Charging                 | Not tested                                                                                                   |
+| 5G                               | Working Depends on GSI                                                                                       |
 | 120Hz Refresh Rate               | Working                                                                                                      |
 | USB-C headphones and sound cards | Working with mitigations (Settings -> Phh Treble Settings -> Samsung features -> Use alternate audio policy) |
