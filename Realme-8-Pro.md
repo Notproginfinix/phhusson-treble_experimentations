@@ -2,7 +2,7 @@
 
 **System-as-root | Full VNDK | ARM64**
 
-Most basic features work perfectly, but some hardware/software components are broken. Most minor issues can be automatically fixed by: 
+Most basic features work perfectly, but some hardware/software components are broken. Most minor issues can be automatically fixed by connecting to the internet and doing: 
 
 * Treble Settings → My Device → Apply Presets.
 * Treble Settings → IMS → Install APK for Qualcomm Vendor.
