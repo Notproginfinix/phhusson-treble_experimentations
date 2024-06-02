@@ -1,5 +1,7 @@
 # 📱 Realme 8 Pro - RMX3081
 
+**System-as-root | Full VNDK | ARM64**
+
 Most basic features work perfectly, but some hardware/software components are broken. Most minor issues can be automatically fixed by: 
 
 * Treble Settings → My Device → Apply Presets.
@@ -11,8 +13,6 @@ RMX3081 comes with the 4.14 kernel version, so don't expect most initial A14 QPR
 ## 📃 Steps to install
 
 **Back up `super` before proceeding!**
-
-Realme 8 Pro is System-as-root, Full VNDK, ARM64.
 
 Flash your image with the `fastboot` utility from `platform-tools`:
 
