@@ -34,8 +34,15 @@ This page covers all smartphones released by HMD Global Oy under either HMD or N
 |[Nokia 8.3 5G and 8V 5G UW](https://github.com/phhusson/treble_experimentations/wiki/Nokia-8.3-5G)|BabyGroot / BGT and RiseAgainst / RAV|✓|A/B|arm64|
 |[[Nokia 9 PureView]]|AOP|✓|A/B|arm64|
 |[[Nokia 2780 Flip]]|WND|✓|A/B|arm32-binder64|
+|[[Nokia C1]]|rocket / RKU|✓|A/B|arm|
+|[[Nokia C1 2nd Edition]]|irisumts / IRU|✓|A/B|arm|
+|[[Nokia C2]]|nebula / NBL|✓|A/B|arm|
+|[[Nokia C3]]|gamoraplus / GMR|✓|A/B|arm|
 |[[Nokia C2 Tava / Tennen and 2V Tella]]|armstrong|✓|A/B|arm64|
 |[[Nokia C5 Endi]]|paramore / PMC|✓|A/B|arm64|
+|[[Nokia C30]]|monster / MNR|✓|A/B|arm|
+|[[Nokia C31]]|vision / VSI|✓|A/B|arm64|
+|[[Nokia C32]]|mockingbird / MKD|✓|A/B|arm64|
 |[[Nokia G10]]|rogue / ROG|✓|A/B|arm64|
 |[[Nokia G20]]|ronin / RNN|✓|A/B|arm64|
 |[[Nokia G22]]|sunfire / SFI|✓|A/B|arm64|
@@ -44,7 +51,9 @@ This page covers all smartphones released by HMD Global Oy under either HMD or N
 |[[Nokia G60]]|apollo / APO|✓|A/B|arm64|
 |[[Nokia G300]]|Aoki / AKT|✓|A/B|arm64|
 |[[Nokia G400]]|StylesTMO / STM|✓|A/B|arm64|
-|[[Nokia T21]]|agent / AGT|✓|A/B|arm64|
+|[[Nokia T10]]|penguin / PGN|✓|A/B|arm64|
+|[[Nokia T20]]|riddler / RDD|✓|A/B|arm64|
+|[[Nokia/HMD T21]]|agent / AGT|✓|A/B|arm64|
 |[[Nokia X10]]|scarletwitch / SCW|✓|A/B|arm64|
 |[[Nokia X20]]|quicksilver / QKS|✓|A/B|arm64|
 |[[Nokia X30]]|falcon / FCN|✓|A/B|arm64|
