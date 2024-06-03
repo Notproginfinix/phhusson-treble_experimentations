@@ -1,4 +1,4 @@
-# [China Telecom eSurfing No. 1 (2022) / Zhenqing] - [TYH212U]
+# [China Telecom eSurfing No. 1 (2022) / Zhenqing] - [ARES]
 
 Bootloader Unlock : Generic Unisoc Bootloader method involves SpreadtrumTools can be used.
 ## Hardware Support (Android 14)
