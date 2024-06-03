@@ -31,7 +31,7 @@
 |[[China Telecom Bodun 10]]|TYH232U|✓|A/B|arm64|
 |[[China Telecom eSurfing No. 1 (2020)]]|TYH201H|✓|A/B|arm64|
 |[[China Telecom eSurfing No. 1 (2021)]]|TYH211H|✓|A/B|arm64|
-|[[China Telecom eSurfing No. 1 (2022) / Zhenqing]]|TYH212U|✓|A/B|arm64|
+|[[China Telecom eSurfing No. 1 (2022) / Zhenqing]]|ARES|✓|A/B|arm64|
 |[[Chuwi Hi9 Air]]|Hi9Air|✓|A|arm64|
 |[[Coolpad C558]]|k39tv1|✓|A|arm|
 |[[Cubot King Kong 5 Pro]]|n/a|✓|A/B|arm64|
