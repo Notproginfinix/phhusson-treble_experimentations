@@ -1,10 +1,10 @@
-# Xiaomi Redmi 9
+# Xiaomi Redmi 9 (lancelot/galahad)
 
 ## Requirements
 * PC with ADB/Fastboot drivers installed.
-* Unlock bootloader with https://en.miui.com/unlock/index.html or using https://github.com/bkerler/mtkclient
-* Flash latest MIUI firmware https://xiaomifirmwareupdater.com/miui/lancelot/stable/V13.0.4.0.SJCMIXM/ (fastboot version is recommended).
-* vbmeta.img (can be obtained from the extracted MIUI firmware).
+* Unlock bootloader with [Mi Unlock](https://en.miui.com/unlock/index.html) or using [MTKClient](https://github.com/bkerler/mtkclient).
+* Flash the latest MIUI firmware: [mirror 1](https://cdnorg.d.miui.com/V13.0.4.0.SJCMIXM/lancelot_global_images_V13.0.4.0.SJCMIXM_20230111.0000.00_12.0_global_06d1b1156a.tgz), [mirror 2](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V13.0.4.0.SJCMIXM/lancelot_global_images_V13.0.4.0.SJCMIXM_20230111.0000.00_12.0_global_06d1b1156a.tgz), [mirror 3](https://bn.d.miui.com/V13.0.4.0.SJCMIXM/lancelot_global_images_V13.0.4.0.SJCMIXM_20230111.0000.00_12.0_global_06d1b1156a.tgz), [mirror 4](https://bigota.d.miui.com/V13.0.4.0.SJCMIXM/lancelot_global_images_V13.0.4.0.SJCMIXM_20230111.0000.00_12.0_global_06d1b1156a.tgz), [mirror 5](https://hugeota.d.miui.com/V13.0.4.0.SJCMIXM/lancelot_global_images_V13.0.4.0.SJCMIXM_20230111.0000.00_12.0_global_06d1b1156a.tgz).
+* `vbmeta.img` (can be obtained from the extracted MIUI firmware).
 
 ## Download GSIs
 * Download from [Generic System Image (GSI) list](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list) .
