@@ -65,7 +65,7 @@
 |[[Xiaomi Redmi 7A]]|pine|✓|A/B|arm_binder64|
 |[[Xiaomi Redmi 8]]|olive|✓|A/B|arm64|
 |[[Xiaomi Redmi 8A]]|olivelite|✓|A/B|arm_binder64|
-|[[Xiaomi Redmi 9]]|lancelot / galahad|✓|A/B|arm64|
+|[[Xiaomi Redmi 9]]|lancelot/galahad|✓|A/B|arm64|
 |[[Xiaomi Redmi 9A / 9i / 9AT / 10A]]|dandelion|✓|A/B|arm_binder64|
 |[[Xiaomi Redmi 9C]]|angelica|✓|A/B|arm_binder64|
 |[[Xiaomi Redmi 9C NFC]]|angelican|✓|A/B|arm_binder64|
