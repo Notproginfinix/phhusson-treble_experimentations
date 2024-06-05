@@ -78,7 +78,7 @@ fastboot flash system system.img
 fastboot reboot
 ``````
 
-> Note: no need to delete data as long as the image is the same e.g ```AOSP to AOSP``` or ```LineageOS TD-based to LineageOS TD-based``` ******NOT****** ```AOSP to LineageOS TD-based``` or vice versa.
+> Note: No need to wipe data as long as the image is the same e.g ```AOSP to AOSP``` or ```LineageOS TD-based to LineageOS TD-based``` ******NOT****** ```AOSP to LineageOS TD-based``` or vice versa.
 
 ## Hardware support
 
@@ -102,6 +102,7 @@ fastboot reboot
 I've done `3DMark` & `Geekbench 6` benchmarks, here are the results:
 
 **3DMark (Vulkan)**
+
 |Preferences                                       |Enabled|Scores|
 |--------------------------------------------------|-------|------|
 |Rotation perf hint instead of touch               |Yes    |671   |
@@ -110,6 +111,7 @@ I've done `3DMark` & `Geekbench 6` benchmarks, here are the results:
 |The 3 options above                               |No     |674   |
 
 **Geekbench CPU**
+
 |Preferences                                       |Enabled|Single-Core Scores|Multi-Core Scores|
 |--------------------------------------------------|-------|------------------|-----------------|
 |Rotation perf hint instead of touch               |Yes    |415               |1365             |
@@ -118,6 +120,7 @@ I've done `3DMark` & `Geekbench 6` benchmarks, here are the results:
 |The 3 options above                               |No     |414               |1379             |
 
 **Geekbench GPU (OpenCL)**
+
 |Preferences                                       |Enabled|Scores|
 |--------------------------------------------------|-------|------|
 |Rotation perf hint instead of touch               |Yes    |1110  |
@@ -126,6 +129,7 @@ I've done `3DMark` & `Geekbench 6` benchmarks, here are the results:
 |The 3 options above                               |No     |1116  |
 
 **Geekbench GPU (Vulkan)**
+
 |Preferences                                       |Enabled|Scores|
 |--------------------------------------------------|-------|------|
 |Rotation perf hint instead of touch               |Yes    |1080  |
