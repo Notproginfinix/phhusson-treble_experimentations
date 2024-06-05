@@ -140,5 +140,6 @@ I've done `3DMark` & `Geekbench 6` benchmarks, here are the results:
 _Note: Reboot is performed before benchmarking in each session_
 
 ## Credits
+
 * TrebleDroid developer team for all their hard work.
 * All contributors for their respective contributions.
