@@ -6,7 +6,7 @@ Works fine as expected, however, there are some flaws when using custom ROMs:
 - After installing Android 14 you may not be able to use the pasts versions of Android and even STOCK so proceed with caution. ⚠️
 
 
-Tested with Derpfest, EvoX, LineageOS, and RisingOs (Android 14)
+Tested with Derpfest (QPR1 works fine feb patch) (recommended), EvoX (buggy), LineageOS, and RisingOs (buggy) (Android 14)
 
 ## Steps to install
 
