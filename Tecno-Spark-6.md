@@ -2,6 +2,7 @@
 ###### also known as TECNO KE7
 
 Works fine as expected, however, there are some flaws when using custom ROMs:
+
 -After installing Android 14 you may not be able to use the pasts versions of Android and even STOCK so proceed with caution. ⚠️
 
 Tested with Derpfest, EvoX, LineageOS, and RisingOs (Android 14)
