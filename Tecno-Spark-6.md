@@ -5,6 +5,7 @@ Works fine as expected, however, there are some flaws when using custom ROMs:
 
 - After installing Android 14 you may not be able to use the pasts versions of Android and even STOCK so proceed with caution. ⚠️
 
+
 Tested with Derpfest, EvoX, LineageOS, and RisingOs (Android 14)
 
 ## Steps to install
@@ -20,8 +21,8 @@ Tested with Derpfest, EvoX, LineageOS, and RisingOs (Android 14)
     ```
 * Delete logical partitions used by the stock ROM to free some space:
     ```
-    $ fastboot delete-logical-partition product_a
-    $ fastboot delete-logical-partition system_ext_a
+    $ fastboot delete-logical-partition product
+    $ fastboot delete-logical-partition system
     ```
 * Flash the system image with the GSI build you want to put on:
     ```
