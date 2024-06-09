@@ -31,7 +31,7 @@ Tested By: User8395 - X6512, Android 11 @ 6/9/2024
 
 - Newer Android versions work too, but Android 11 is the only way to get Google apps as this phone only supports Google Go apps and has a small system partition that won't fit the standard Google apps.
 - TWRP is unavailable, and zip flashing is unavailable if they are not signed.
-- Internet does not work in Android 14. Any attempts to access a website will be met with the error `ERR_NAME_NOT_RESOLVED`. Older versions work fine.
+- Internet does not work in Android 14 and 13. Any attempts to access a website will be met with the error `ERR_NAME_NOT_RESOLVED`. Older versions work fine.
 - If you install the Google apps image, you will get a notification from Google Play Services complaining about Play Protect Certification. Follow the instructions [here](https://www.google.com/android/uncertified/) to eliminate it. You will have to do this after every factory reset.
 - You must use fastbootd to flash the GSI instead of standard fastboot (bootloader). If you try to flash the GSI from standard fastboot, the phone will give the error "This partition does not exist".
 - During my testing, Chrome was unable to download APK, and capped out at 100% without finishing.
