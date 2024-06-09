@@ -1,4 +1,4 @@
-# 📱 Infinix SMART 6 HD - N/A
+# 📱 Infinix SMART 6 HD - codename n/a
 - CPU arch: ARM32
 - Binder arch: 64-bit
 - System-as-root, Seamless upgrades: yes
@@ -36,3 +36,4 @@ Tested By: User8395 - X6512, Android 11 @ 6/9/2024
 - You must use fastbootd to flash the GSI instead of standard fastboot (bootloader). If you try to flash the GSI from standard fastboot, the phone will give the error "This partition does not exist".
 - During my testing, Chrome was unable to download APK, and capped out at 100% without finishing.
 - Downloading bvS, boS, or bgS versions of the GSIs will give you phhusson's superuser. Use bgN or bvN if you don't want it.
+- This is not an extensive test, you are free to test some other stuff and ping me in a discussion with the results.
