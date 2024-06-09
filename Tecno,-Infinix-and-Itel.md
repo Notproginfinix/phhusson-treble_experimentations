@@ -25,4 +25,5 @@
 |[[Infinix Zero 8]]|X687|✓|A/B|arm64|
 |[[Infinix Zero X Pro]]|X6811|✓|A/B|arm64|
 |[[Infinix SMART 8 Plus]]|X6526|?|A/B|arm_binder64
+|[[Infinix SMART 6 HD]]|X6512|?|A/B|arm_binder64
 |[[Itel A32F]]|f8007|✓|A|arm|
