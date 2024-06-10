@@ -1,10 +1,10 @@
 # Infinix Note 30/30 Pro (X6883B/X678B)
 
-Most of the stuff works, except the lagginess issue which seems to be fixed by toggling some settings in PHH settings or using the module below. 
+Works as expected.
 
 ## Steps to install
 
-WARNING: This guide assumes that you are using the A slot instead of the B slot. To move to the A slot, use `fastboot set_active a`, flash super.img from firmware and reboot, or you can use the B slot by replacing all the "_a" suffix to "_b" suffix. Do note that some users reported problems when using the B slot, although I had never encountered any problems with it myself. -ryenyuku
+WARNING: This guide assumes that you are using the A slot instead of the B slot. To move to the A slot, use `fastboot set_active a`, flash super.img from firmware and reboot, or you can use the B slot by replacing all the "_a" suffix to "_b" suffix.
 
 * Unlock bootloader
 * Disable VBMETA
@@ -93,6 +93,7 @@ With [TWRP terminal](https://telegra.ph/Terminal-TWRP-08-01):
 | Offline Charging          | Works                                                    |
 | Fast Charging             | Works                                                    |
 | Display Refreshing Rate   | Supports 60/90/120Hz with "Misc features / Force FPS"    |
+|                           | Enable "Dynamic FPS" for dynamic switching               |
 | Double Tap To Wake        | Works                                                    |
 | Vibration                 | Works                                                    |
 
