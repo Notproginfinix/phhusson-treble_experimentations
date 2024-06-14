@@ -1,4 +1,4 @@
-# [Nokia X100] - [aoki / AKT]
+# [Nokia G300] - [aoki / AKT]
 
 Bootloader Unlock : 
 First it cannot be easily done by average person. 
