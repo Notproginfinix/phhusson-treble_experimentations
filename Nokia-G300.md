@@ -2,7 +2,9 @@
 
 Bootloader Unlock : 
 First it cannot be easily done by average person. 
+
 Then, bootloader unlock is only possible with firmware 02US_1_10M or older, where "AntiRollback" returned from "fastboot oem get_devinfo" should be 2.
+
 If newer than 02US_1_10M, then the "AntiRollback" is 3, which bootloader unlock will not be possible.
 
 ## Hardware Support (Android 14)
