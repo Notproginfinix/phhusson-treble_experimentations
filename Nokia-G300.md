@@ -5,7 +5,7 @@ First it cannot be easily done by average person.
 
 Then, bootloader unlock is only possible with firmware 02US_1_10M or older. Most importantly, the value of AntiRollback returned from "fastboot oem get_devinfo" should be 2.
 
-If newer than 02US_1_10M, then the value of AntiRollback is 3, which bootloader unlock will not be possible. Attempting bootloader unlock on such device will hard brick the phone.
+If newer than 02US_1_10M, then the value of AntiRollback is 3, which bootloader unlock will not be possible. Attempting bootloader unlock on such device will hard brick the phone. After bootloader unlocked, you should never upgrade OS to 02US_1_160 or newer.
 
 ## Hardware Support (Android 14)
 
