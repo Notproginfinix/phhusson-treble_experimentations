@@ -82,62 +82,20 @@ fastboot reboot
 
 ## Hardware support
 
-|Component                 |Comment |
-|--------------------------|--------|
-|Audio                     |Working |                                         
-|Display                   |Working |
-|Backlight                 |Working → Enable ```Force alternative backlight scale``` to fix brightness slider|
-|Camera                    |Working → Auxiliary cameras doesn't work |
-|Bluetooth                 |Working → Choose ```Bluetooth workarounds``` → ```Mediatek```|
-|Telephony                 |Working |
-|Fingerprint               |Working |
-|VoLTE                     |Working → Enable IMS features|
+|Component      |Comment   |
+|---------------|----------|
+|Audio          |Working   |                             
+|Display        |Working   |
+|Backlight      |Working   |
+|Camera         |Working but auxiliary cameras doesn't work|
+|Bluetooth      |Working   |
+|Telephony      |Working   |
+|Fingerprint    |Working   |
+|VoLTE          |Working → Enable IMS features|
 
-
-## Additional information
-
-* Q: Do you have to enable `Rotation perf hint instead of touch`, `Mediatek GED KPI support` and/or `Disable SF GL backpressure` ?
-* A: No
-
-I've done `3DMark` & `Geekbench 6` benchmarks, here are the results:
-
-**3DMark (Vulkan)**
-
-|Preferences                                       |Enabled|Scores|
-|--------------------------------------------------|-------|------|
-|Rotation perf hint instead of touch               |Yes    |671   |
-|Mediatek GED KPI support                          |Yes    |672   |
-|Disable SF GL backpressure                        |Yes    |668   |
-|The 3 options above                               |No     |674   |
-
-**Geekbench CPU**
-
-|Preferences                                       |Enabled|Single-Core Scores|Multi-Core Scores|
-|--------------------------------------------------|-------|------------------|-----------------|
-|Rotation perf hint instead of touch               |Yes    |415               |1365             |
-|Mediatek GED KPI support                          |Yes    |416               |1363             |
-|Disable SF GL backpressure                        |Yes    |414               |1374             |
-|The 3 options above                               |No     |414               |1379             |
-
-**Geekbench GPU (OpenCL)**
-
-|Preferences                                       |Enabled|Scores|
-|--------------------------------------------------|-------|------|
-|Rotation perf hint instead of touch               |Yes    |1110  |
-|Mediatek GED KPI support                          |Yes    |1112  |
-|Disable SF GL backpressure                        |Yes    |1109  |
-|The 3 options above                               |No     |1116  |
-
-**Geekbench GPU (Vulkan)**
-
-|Preferences                                       |Enabled|Scores|
-|--------------------------------------------------|-------|------|
-|Rotation perf hint instead of touch               |Yes    |1080  |
-|Mediatek GED KPI support                          |Yes    |1084  |
-|Disable SF GL backpressure                        |Yes    |1076  |
-|The 3 options above                               |No     |1090  |
-
-_Note: Reboot is performed before benchmarking in each session_
+## General recommendations
+1. Install vanilla version, GApps version is a bit heavy.
+2. Disable auto brightness, set brightness manually because when the screen brightness is high the system becomes a bit heavy.
 
 ## Credits
 
