@@ -95,7 +95,7 @@ fastboot reboot
 
 ## General recommendations
 1. Install vanilla version, GApps version is a bit heavy.
-2. Disable auto brightness, set brightness manually because when the screen brightness is high the system becomes a bit heavy.
+2. Disable auto brightness, set brightness manually because when screen brightness is high system becomes a bit heavy.
 
 ## Credits
 
