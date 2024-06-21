@@ -69,4 +69,4 @@
 |[[Huawei Y5 / Y5 Prime (2018)]]|DRA / DUA / dura|✓|A|arm64|
 |[Huawei Y6 / Y6 Prime (2018)](https://github.com/phhusson/treble_experimentations/wiki/Huawei-Y6-and-Y6-Prime-(2018))|ATU / Atomu|✓|A|arm64|
 |[[Huawei Y9 (2018)]]|FLA / florida|✓|A (A/B when updated to EMUI 9)|arm64|
-|[[Huawei Y9s / Y9 Prime]]|STK / stark|✓|A|arm64|
+|[[Huawei Y9s / Y9 Prime]]|STK / stark|✓|A/B|arm64|
