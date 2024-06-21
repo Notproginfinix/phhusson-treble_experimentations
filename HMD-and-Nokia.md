@@ -48,10 +48,9 @@ This page covers all smartphones released by HMD Global Oy under either HMD or N
 |[[Nokia C20 Plus]]|sirius / SUS|✓|A/B|arm32-binder64|
 |[[Nokia C21]]|cosmorefresh / COR|✓|A/B|arm32-binder64|
 |[[Nokia C21 Plus]]|hope / HPE|✓|A/B|arm32-binder64|
-|[[Nokia C22]]|hawkeye / HKE|✓|A/B|arm32-binder64|
+|[[Nokia C22 and C32]]|hawkeye / HKE and mockingbird / MKD|✓|A/B|arm32-binder64 (HKE) and arm64 (MKD)|
 |[[Nokia C30]]|monster / MNR|✓|A/B|arm32-binder64|
 |[[Nokia C31]]|vision / VSI|✓|A/B|arm64|
-|[[Nokia C32]]|mockingbird / MKD|✓|A/B|arm64|
 |[[Nokia G10]]|rogue / ROG|✓|A/B|arm64|
 |[[Nokia G20]]|ronin / RNN|✓|A/B|arm64|
 |[[Nokia G22]]|sunfire / SFI|✓|A/B|arm64|
