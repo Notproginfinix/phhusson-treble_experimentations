@@ -22,5 +22,6 @@ See [this](https://xdaforums.com/t/samsung-galaxy-a03-rooting-and-gsi-installati
 Tested by:
 - [@IverCoder](https://github.com/IverCoder), SM-A035F (XTC), A035FXXU4CWI1, on 2023-11-21
 - [@2imkanna](https://github.com/2imkanna), SM-A035F (XXV), A035FXXU4CWI1, on 2024-01-10
+- [@Xplshn](https://github.com/xplshn), SM-A035M (ARO), A035MUBS6CXC1, on 2024-06-25
 
 [1]: https://github.com/IverCoder/a03nnxx-ril-rollback/releases/latest
