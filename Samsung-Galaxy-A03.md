@@ -15,7 +15,7 @@ See [this](https://xdaforums.com/t/samsung-galaxy-a03-rooting-and-gsi-installati
 | Tethering                 | Works, with full WPA3 and 5GHz support                    |
 | SIM / Mobile Data / Voice | Partially works, incoming SMS need [this][1] module       |
 | VoLTE/VoWiFi              | Does not work                                             |
-| Face recognition          | Works (For Android 13, requires enable "Set BIOMETRIC_STRONG" in Settings -> Phh Treble Setting -> Misc features)            |
+| Face recognition          | Works (For Android 13, requires enable "Set BIOMETRIC_STRONG" in Settings -> Phh Treble Setting -> Misc features)                                                                               |
 | Offline Charging          | Does not show percentage                                  |
 ---
 
