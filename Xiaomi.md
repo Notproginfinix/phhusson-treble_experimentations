@@ -8,6 +8,7 @@
 |[[Xiaomi Black Shark 3 Pro]]|n/a|✓|A/B|arm64|
 |[[Xiaomi Black Shark 3S]]|n/a|✓|A/B|arm64|
 |[[Xiaomi Civi]]|mona|✓|A/B|arm64|
+|[[Xiaomi Civi 2]]|ziyi|✓|A/B|arm64|
 |[[Xiaomi Mi 6X]]|wayne|✓|A（A/B when using MoKee)|arm64|
 |[[Xiaomi Mi 8]]|dipper|✓|A|arm64|
 |[[Xiaomi Mi 8 EE]]|ursa|✓|A|arm64|
@@ -40,18 +41,40 @@
 |[[Xiaomi Mi MIX 2s]]|polaris|✓|A|arm64|
 |[[Xiaomi Mi MIX 3]]|perseus|✓|A/B|arm64|
 |[[Xiaomi Mi MIX 3 5G]]|andromeda|✓|A/B|arm64|
-|[[Xiaomi Mi MIX Fold]]|cetus|✓|A/B|arm64|
+|[[Xiaomi MIX Alpha]]|draco / avenger|✓|A/B|arm64|
+|[[Xiaomi MIX Fold]]|cetus|✓|A/B|arm64|
+|[[Xiaomi MIX Fold 2]]|zizhan|✓|A/B|arm64|
+|[[Xiaomi MIX Fold 3]]|babylon|✓|A/B|arm64|
 |[[Xiaomi Mi Note 10 / CC9 Pro]]|tucana|✓|A/B|arm64|
 |[[Xiaomi Mi Note 10 Lite]]|toco|✓|A/B|arm64|
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
+|[[Xiaomi Pad 5]]|nabu|✓|A|arm64|
+|[[Xiaomi Pad 5 Pro]]|elish|✓|A|arm64|
+|[[Xiaomi Pad 5 Pro 5G]]|enuma|✓|A|arm64|
+|[[Xiaomi Pad 5 Pro 12.4]]|dagu|✓|A|arm64|
+|[[Xiaomi Pad 6]]|pipa|✓|A|arm64|
+|[[Xiaomi Pad 6 Pro]]|liuqin|✓|A|arm64|
+|[[Xiaomi Pad 6 Max]]|yudi|✓|A|arm64|
+|[[Xiaomi Pad 6S Pro]]|sheng|✓|A|arm64|
 |[[Xiaomi Mi Play]]|lotus|✓|A|arm64|
 |[[Xiaomi Mi Smart Clock and Xiao Ai Smart Speaker]]|X04G and LX04|✓|A|arm64|
 |[[Xiaomi 11T Pro]]|vili|✓|A/B|arm64|
+|[[Xiaomi 12X]]|psyche|✓|A/B|arm64|
+|[[Xiaomi 12]]|cupid|✓|A/B|arm64|
 |[[Xiaomi 12 Pro]]|zeus|✓|A/B|arm64|
 |[[Xiaomi 12t]]|plato|✓|A/B|arm64|
+|[[Xiaomi 12S]]|mayfly|✓|A/B|arm64|
+|[[Xiaomi 12S Pro]]|unicorn|✓|A/B|arm64|
+|[[Xiaomi 12S Ultra]]|thor|✓|A/B|arm64|
 |[[Xiaomi 13]]|fuxi|✓|A/B|arm64|
 |[[Xiaomi 13 Pro]]|nuwa|✓|A/B|arm64|
+|[[Xiaomi 13 Ultra]]|ishtar|✓|A/B|arm64|
 |[[Xiaomi 13T]]|aristotle|✓|A/B|arm64|
+|[[Xiaomi 13T Pro / Redmi K60 至尊版]]|corot|✓|A/B|arm64|
+|[[Xiaomi 14]]|houji|✓|A/B|arm64|
+|[[Xiaomi 14 Pro]]|shennong|✓|A/B|arm64|
+|[[Xiaomi 14 Ultra]]|aurora|✓|A/B|arm64|
+|[[Xiaomi 14 Civi / Civi 4 Pro]]|chenfeng|✓|A/B|arm64|
 |[[Xiaomi Poco F1]]|beryllium|✓|A|arm64|
 |[[Xiaomi Poco M2]]|shiva|✓|A/B|arm64|
 |[[Xiaomi Poco M2 Pro]]|gram|✓|A/B|arm64|
