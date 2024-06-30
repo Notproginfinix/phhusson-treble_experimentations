@@ -7,7 +7,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|14 Jun|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android14-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|June 2024
+|22 Jun|LeafOS|LeafOS Project|[Download](https://dl.leafos.org/leaf_gsi_arm64/20240622_1511/)| - |ARM64|Jun 2024|
+|14 Jun|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android14-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jun 2024|
 |02 Jun|RisingOS|UniversalX|[Download](https://sourceforge.net/projects/risingos-official/files/3.x/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/ItsLynix/RisingTreble)|ARM64|May 2024|
 |08 May|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Mar 2024|
 
@@ -42,10 +43,10 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|29 Jun|Pixel Experience Plus|ChonDoit|[Telegram](https://t.me/elranchodecornelio/250) / [Download](https://github.com/ChonDoit/treble_peplus_patches/releases/tag/A13)|[GitHub](https://github.com/ChonDoit/treble_peplus_patches)|ARM64|Jun 2024|
 |16 May|LineageOS<br>TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|May 2024|
 |02 Apr|crDroid|ChonDoit|[Telegram](https://t.me/elranchodecornelio/250) / [Download](https://github.com/ChonDoit/treble_crdroid_patches/releases/tag/A13)|[GitHub](https://github.com/ChonDoit/treble_crdroid_patches)|ARM64|Mar 2024|
 |01 Apr|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/250) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Mar 2024|
-|30 Mar|Pixel Experience Plus|ChonDoit|[Telegram](https://t.me/elranchodecornelio/250) / [Download](https://github.com/ChonDoit/treble_peplus_patches/releases/tag/A13)|[GitHub](https://github.com/ChonDoit/treble_peplus_patches)|ARM64|Mar 2024|
 |14 Mar|AfterLifeOS (Archived)|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_afterlife_patches/releases)|[Github](https://github.com/ChonDoit/treble_afterlife_patches)|ARM64|Feb 2024|
 |24 Jan|ColtOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_colt_patches/releases)|[Github](https://github.com/ChonDoit/treble_colt_patches)|ARM64|Jan 2024|
 
