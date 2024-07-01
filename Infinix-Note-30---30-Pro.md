@@ -101,7 +101,8 @@ With [TWRP terminal](https://telegra.ph/Terminal-TWRP-08-01):
 
 If you happen to use older GSI builds or experienced stuttering, you can try installing the module below:
 
-[GSI Module for Infinix Note 30/Pro v2.6](https://github.com/phhusson/treble_experimentations/files/14802706/ramabp.gsioverlay.zip)
+[GSI Module for Infinix Note 30/Pro v2.7](https://github.com/user-attachments/files/16059929/ramabp.gsioverlay.zip)
+
 
 This module will fix stuttering, status bar, brightness for base Note 30, auto brightness, clock position in status bar, and enable OTG.
 
