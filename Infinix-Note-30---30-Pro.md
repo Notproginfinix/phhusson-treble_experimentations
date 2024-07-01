@@ -103,7 +103,6 @@ If you happen to use older GSI builds or experienced stuttering, you can try ins
 
 [GSI Module for Infinix Note 30/Pro v2.7](https://github.com/user-attachments/files/16059929/ramabp.gsioverlay.zip)
 
-
 This module will fix stuttering, status bar, brightness for base Note 30, auto brightness, clock position in status bar, and enable OTG.
 
 Use as a Magisk/KSU module.
