@@ -18,7 +18,7 @@ Patched recovery - Patched recovery made with the stock recovery patcher.
 
 Custom recovery - TWRP, OFOX etc...
 
-## Custom recoveries/kernels/vendors
+## Tools, custom recoveries, kernels & other
 
 - [TeamWin Recovery Project (Unofficial)(Discontinued)](https://t.me/galaxy_a02s/13051)
   
@@ -40,10 +40,16 @@ Custom recovery - TWRP, OFOX etc...
     
   - This can be flashed only through a custom recovery such as TWRP or OFOX.
     
+- [Samsung Android USB Driver](https://developer.samsung.com/android-usb-driver) **REQUIRED!**
+  
+  - Required for Odin.
+    
+  - If you're going to use another Android device to do so, through OTG, you don't need this driver.
+    
 
-## Important notes
+## Important notes
 
-### Running GSIs
+### Running GSIs
 
 Any attempt in running a **secure** or **secure-on-demand**¹ GSIs that **hasn't been updated at June 2023 or later** will make the device hard reboot every 10-20 seconds after booting up. You might think that the GSI has booted properly but after some seconds, it will do it.
 
@@ -57,9 +63,19 @@ No need to and you shouldn't turn on any **Alternate audio policy** option or an
 
 Not sure how the above option works. -- @mrugtangy
 
-### How to GSI
+### Choosing the right GSI and other stuff
 
-#### Unlocking the bootloader.
+A02s only supports **a64/arm32_binder64 - A/B** GSIs. So, make sure to only choose them.
+
+If you're going to use the **ARM64 Vendor**, you should only use **ARM64 - A/B** GSIs.
+
+If you're going to install Magisk, make sure to choose a GSI that **doesn't contain phh SU**.
+
+SGSIs(Semi-GSIs) are not guaranteed to work perfectly on it. So, use them at your own risk!
+
+## How to GSI
+
+### Unlocking the bootloader.
 
 - To be able to install GSIs and a custom ROM, you should first **unlock the bootloader**. **Do note that you can't unlock bootloader on some variants**!
   
@@ -78,17 +94,7 @@ Not sure how the above option works. -- @mrugtangy
 - After rebooting, boot back to download mode and flash the vbmeta disabler so that you're able to flash a custom or patched recovery and be able to flash GSIs
   
 
-#### Choosing the right GSI and other stuff
-
-A02s only supports **a64/arm32_binder64 - A/B** GSIs. So, make sure to only choose them.
-
-If you're going to use the **ARM64 Vendor**, you should only use **ARM64 - A/B** GSIs.
-
-If you're going to install Magisk, make sure to choose a GSI that **doesn't contain phh SU**.
-
-SGSIs(Semi-GSIs) are not guaranteed to work perfectly on it. So, use them at your own risk!
-
-#### Installing a GSI
+### Installing a GSI
 
 Before installing a GSI, make sure you have a **custom recovery** or have installed a **patched recovery**(tool found above). The fastboot option that's found on the stock recovery (basically the one that says reboot to bootloader in stock recovery) is completely useless so you shouldn't be using that.
 
@@ -121,8 +127,6 @@ After installing any of them, you'll be able to flash a GSI by either:
   ```
   
   [product_gsi.img](https://forum.xda-developers.com/attachments/product_gsi-img.5371179/) - click to download
-  
-  However, if you're using another phone to do that (through OTG) then the above drivers won't be required.
   
   Then, reboot to the recovery by either pressing on reboot system if you use a **custom recovery** or just select the option to go back to the recovery if you're on a **patched recovery**.
   
