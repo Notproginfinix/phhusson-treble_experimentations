@@ -47,9 +47,9 @@ Custom recovery - TWRP, OFOX etc...
   - If you're going to use another Android device to do so, through OTG, you don't need this driver.
     
 
-## Important notes
+## Important notes
 
-### Running GSIs
+### Running GSIs
 
 Any attempt in running a **secure** or **secure-on-demand**¹ GSIs that **hasn't been updated at June 2023 or later** will make the device hard reboot every 10-20 seconds after booting up. You might think that the GSI has booted properly but after some seconds, it will do it.
 
@@ -63,7 +63,7 @@ No need to and you shouldn't turn on any **Alternate audio policy** option or an
 
 Not sure how the above option works. -- @mrugtangy
 
-### Choosing the right GSI and other stuff
+### Choosing the right GSI and other stuff
 
 A02s only supports **a64/arm32_binder64 - A/B** GSIs. So, make sure to only choose them.
 
@@ -73,9 +73,9 @@ If you're going to install Magisk, make sure to choose a GSI that **doesn't cont
 
 SGSIs(Semi-GSIs) are not guaranteed to work perfectly on it. So, use them at your own risk!
 
-## How to GSI
+## How to GSI
 
-### Unlocking the bootloader.
+### Unlocking the bootloader.
 
 - To be able to install GSIs and a custom ROM, you should first **unlock the bootloader**. **Do note that you can't unlock bootloader on some variants**!
   
@@ -94,7 +94,7 @@ SGSIs(Semi-GSIs) are not guaranteed to work perfectly on it. So, use them at you
 - After rebooting, boot back to download mode and flash the vbmeta disabler so that you're able to flash a custom or patched recovery and be able to flash GSIs
   
 
-### Installing a GSI
+### Installing a GSI
 
 Before installing a GSI, make sure you have a **custom recovery** or have installed a **patched recovery**(tool found above). The fastboot option that's found on the stock recovery (basically the one that says reboot to bootloader in stock recovery) is completely useless so you shouldn't be using that.
 
