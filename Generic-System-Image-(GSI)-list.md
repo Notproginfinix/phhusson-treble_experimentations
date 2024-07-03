@@ -43,7 +43,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|01 Jul|crDroid|ChonDoit|[Telegram](https://t.me/elranchodecornelio/250) / [Download](https://github.com/ChonDoit/treble_crdroid_patches/releases/tag/A13-Signed)|[GitHub](https://github.com/ChonDoit/treble_crdroid_patches)|ARM64|Jun 2024|
+|01 Jul|crDroid|ChonDoit|[Telegram](https://t.me/elranchodecornelio/250) / [Download](https://github.com/ChonDoit/treble_crdroid_patches/releases/tag/A13-Signed)|[GitHub](https://github.com/ChonDoit/treble_crdroid_patches)|ARM64|May 2024|
 |29 Jun|Pixel Experience Plus|ChonDoit|[Telegram](https://t.me/elranchodecornelio/250) / [Download](https://github.com/ChonDoit/treble_peplus_patches/releases/tag/A13)|[GitHub](https://github.com/ChonDoit/treble_peplus_patches)|ARM64|Jun 2024|
 |16 May|LineageOS<br>TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|May 2024|
 |01 Apr|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/250) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Mar 2024|
