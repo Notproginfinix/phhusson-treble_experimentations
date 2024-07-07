@@ -7,7 +7,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|22 Jun|LeafOS|LeafOS Project|[Download](https://dl.leafos.org/leaf_gsi_arm64/20240622_1511/)| - |ARM64|Jun 2024|
+|07 Jul|LeafOS|LeafOS Project|[Download](https://leafos.org/wiki/device/leaf_gsi_arm64)| [Gerrit](https://review.leafos.org/) / [Git](https://git.leafos.org/LeafOS-Project/leaf_build) - [Mirror](https://github.com/LeafOS-Project/leaf_build) |ARM64|Jul 2024|
 |14 Jun|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android14-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jun 2024|
 |02 Jun|RisingOS|UniversalX|[Download](https://sourceforge.net/projects/risingos-official/files/3.x/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/ItsLynix/RisingTreble)|ARM64|May 2024|
 |08 May|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Mar 2024|
