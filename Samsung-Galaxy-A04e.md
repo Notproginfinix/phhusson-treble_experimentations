@@ -13,7 +13,7 @@ See [this](https://xdaforums.com/t/custom-recovery-gsi-how-to-install-twrp-and-g
 | Bluetooth                 | On bluetooth headphones, the sound is laggy and high delay|
 | WiFi                      | Works                                                     |
 | Tethering                 | Works, with full WPA3 and 5GHz support                    |
-| SIM / Mobile Data / Voice | works      |
+| SIM / Mobile Data / Voice | Works      |
 | VoLTE/VoWiFi              | Does not work                                             |
 | Face recognition          | Works                                                                             |
 | Offline Charging          | Does not show percentage                                  |
