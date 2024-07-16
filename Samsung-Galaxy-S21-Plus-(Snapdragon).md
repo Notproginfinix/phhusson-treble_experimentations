@@ -37,14 +37,23 @@
 - Reboot
 
 ### Brightness
-- Connect to a computer
-- `adb shell` into the device
-- `su` to use shell as superuser
-- Type either \
-`setprop persist.sys.qcom-brightness -1` \
-`setprop persist.sys.qcom-brightness 255` \
-`setprop persist.sys.qcom-brightness 4095` \
+- Go to Phh Treble Settings
+- Select Samsung Features
+- Press Set backlight scale/max backlight level
+- Type `-1` in the dialog and press OK
 and adjust the screen brightness on your phone
+
+### Screen flickers
+- Go to Phh Treble Settings
+- Select Samsung features
+- Enable option `Enable workaround for white-ish screen`
+- Go back and select Misc features
+- Enable option `Disable HW overlays`
+
+### Enable Always-on-display
+- Go to Phh Treble Settings
+- Select Misc features
+- Enable option `Force allow Always-On-Display`
 
 ## Hardware support
 
