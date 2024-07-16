@@ -18,7 +18,7 @@
   - VBmeta Verification Disabler \
     [All varients](https://www.mediafire.com/file/zuco6wfd9d8qldm/vbmeta_disabled_R.tar/file)
 - Boot into Download Mode Again
-- Open Odin3 (If you don't have Odin, get it from [OdinDownload](https://odindownload.com)) (Recommend v13)
+- Open Odin3 (If you don't have Odin, get it from [OdinDownload](https://odindownload.com)) (Recommend v3.13)
 - Put TWRP tar into AP, and VBmeta tar into USERDATA
 - Press Start
 - Boot back into One UI and Reboot into Recovery with `adb reboot recovery`
