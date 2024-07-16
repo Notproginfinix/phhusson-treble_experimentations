@@ -67,4 +67,4 @@ and adjust the screen brightness on your phone
 | Brightness                | [*](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-S21-Plus-(Snapdragon)#Brightness)(Display is dimmed; Fix provided here) |
 ---
 
-@litszwaiboris - 2024/05/20
+@litszwaiboris - 2024/05/20 (Updated:2024/07/16)
