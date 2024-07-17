@@ -2,7 +2,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |[[Samsung Galaxy A6 (2018)]]|a6lte|✓|A/B|arm_binder64|
 |[Samsung Galaxy A01Core](https://github.com/phhusson/treble_experimentations/wiki/Galaxy-A01Core-SM%E2%80%90A013G)|a013|✓|A/B|arm_binder64|
-|[Samsung Galaxy A04e](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-A04e)|a042x|✓|A/B|arm64|
+|[Samsung Galaxy A04e](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-A04e)|a042x|✓|A|arm64|
 |[Samsung Galaxy A03](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-A03)|a03nnxx|✓|A/B|arm64|
 |[[Samsung Galaxy A6 Plus (2018)]]|a6plte|✓|A (A/B after updated to One UI 2.0)|arm_binder64|
 |[[Samsung Galaxy A7 (2018)]]|a7y18lte|✓|A (A/B after updated to One UI 2.0)|arm64|
