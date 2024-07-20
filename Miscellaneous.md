@@ -67,9 +67,10 @@
 |[[General Mobile GM 20]]|G301|✓|A/B|arm64|
 |[[General Mobile GM 20 Pro]]|G501|✓|A/B|arm64|
 |[[General Mobile GM 22 Plus]]|G512|✓|A/B|arm64|
-|[[General Mobile GM 24 Pro](https://github.com/phhusson/treble_experimentations/wiki/General-Mobile-GM-24-Pro)]|G514|✓|A/B|arm64|
+|[General Mobile GM 24 Pro](https://github.com/phhusson/treble_experimentations/wiki/General-Mobile-GM-24-Pro)|G514|✓|A/B|arm64|
 |[[GOME U9]]|n/a|✓|A|arm64|
 |[[Hot Pepper Serrano]]|HPP-L55B|not sure|A/B|arm_binder64|
+|[[HP Bridge]]|HSP|✓|A|arm64|
 |[[HP Elite x3 and Pro x3]]|butler|✓|A|arm64|
 |[[INOI 2 Lite]]|n/a|✓|A|arm|
 |[[Jinga Start LTE]]|ji50ag1_169hp|✓|A|arm|
