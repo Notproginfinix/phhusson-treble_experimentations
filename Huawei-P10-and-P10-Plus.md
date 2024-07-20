@@ -24,6 +24,8 @@
 Europe or Global Version Tested List:  
 ***
 Before Android 13:  
+Android 10: i have tested Havoc-OS-v3.12-20201230-Official-arm64-ab.img in Huawei P10 VTR-L09 with EMUI 9.1
+the phone app and the media keeps crashing, no sim detected. 
 * Tested LineageOS on Huawei P10 Plus (VKY-L29)  
 * Tested AOSP 10/11/12 on Huawei P10 (VTR-L29 9.0.1.201)  
 ***
@@ -40,10 +42,6 @@ Before Android 13:
 ***    
 Android 13+：
 * Tested **[Pixel Experience (Based Android 13)](https://github.com/ponces/treble_build_pe/tree/thirteen)**.Version 2022.11.13.Work and fine.SIM Card,NFC,WLAN,Audio is work fine.
-
-Android 10:
-i have tested Havoc-OS-v3.12-20201230-Official-arm64-ab.img in Huawei P10 VTR-L09 with EMUI 9.1
-the phone app and the media keeps crashing, no sim detected. 
 
 Tips:  
 **Recommended Android GSI version:Android Q(Android 10).**  For Kirin 960, this version of Android can be used daily and is the most fluent.Some errors can be corrected in **Known issues**.  
