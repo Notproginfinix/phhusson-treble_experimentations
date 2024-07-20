@@ -127,6 +127,7 @@ There is a way to run [stock camera app (XDA)](https://forum.xda-developers.com/
 
 * Stock EMUI 8.0/EMUI 9.0 by Huawei (tested from VKY-L29C10B362/VKY-AL00C00 8.0.0.358/VTR-L29C185E3R1P9T8)
 * Unlocked bootloader
+* you may need to resize the system partition to intall some GSI, you can use: Huawei GSI Partition kit - Version 0.62.
 
 ### Installation steps:
 
