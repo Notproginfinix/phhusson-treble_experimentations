@@ -5,7 +5,7 @@
 * VTR-L09 -- Europe Version  
 * VTR-L29 -- For Global Market Version  
   
-## VKY(P10 Plus)  
+## VKY(P10 Plus)  SuperiorOS_A13-arm64-bgS-slim_20240401.img
 * VKY-AL00 -- CN Version(No SIM card restriction) 
 * VKY-TL00 -- CN Version(China Mobile Company Customized version)  
 * VKY-L09 -- Europe Version
@@ -24,14 +24,14 @@
 Europe or Global Version Tested List:  
 ***
 Before Android 13:  
-Android 10: i have tested Havoc-OS-v3.12-20201230-Official-arm64-ab.img in Huawei P10 VTR-L09 with EMUI 9.1
+* Android 10: i have tested Havoc-OS-v3.12-20201230-Official-arm64-ab.img in Huawei P10 VTR-L09 with EMUI 9.1
 the phone app and the media keeps crashing, no sim detected. 
 * Tested LineageOS on Huawei P10 Plus (VKY-L29)  
 * Tested AOSP 10/11/12 on Huawei P10 (VTR-L29 9.0.1.201)  
 ***
 Andriod 13+:
 * Tested **[Pixel Experience (Android 13)](https://sourceforge.net/projects/altairfr-huawei/files/PixelExp/PixelExperience-13.0-20220930-iceows-ane.7z/download)** (VTR-L29 9.0.1.190)  
- 
+* tested: SuperiorOS_A13-arm64-bgS-slim_20240401.img.
 ***
  
 CN Version Tested List:  
