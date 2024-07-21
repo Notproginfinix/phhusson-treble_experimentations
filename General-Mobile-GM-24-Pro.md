@@ -48,12 +48,12 @@ Release Date | August 2023
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Working                                                   |
 | Speaker / Mic             | Working                                                   |
-| Bluetooth                 | Not tested                                                |
+| Bluetooth                 | Working                                                   |
 | WiFi                      | Working                                                   |
 | SIM / Mobile Data / Voice | Working                                                   |
 | VoLTE                     | Working                                                   |
 | Fingerprint               | Not working                                               |
-| NFC                       | Not tested                                                |
+| NFC                       | Unstable                                                  |
 | Offline Charging          | Working                                                   |
 ---
 
