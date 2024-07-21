@@ -28,8 +28,8 @@ Release Date | August 2023
 
 * Flash stock (or empty) vbmeta using this command:
     ```
-    $ fastboot --disable-verity --disable-verification vbmeta_a vbmeta.img
-    $ fastboot --disable-verity --disable-verification vbmeta_b vbmeta.img
+    $ fastboot --disable-verity --disable-verification flash vbmeta_a vbmeta.img
+    $ fastboot --disable-verity --disable-verification flash vbmeta_b vbmeta.img
     ```
 
 * Reboot to fastbootd
