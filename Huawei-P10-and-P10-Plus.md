@@ -31,7 +31,9 @@ the phone app and the media keeps crashing, no sim detected.
 ***
 Andriod 13+:
 * Tested **[Pixel Experience (Android 13)](https://sourceforge.net/projects/altairfr-huawei/files/PixelExp/PixelExperience-13.0-20220930-iceows-ane.7z/download)** (VTR-L29 9.0.1.190)  
-* tested: SuperiorOS_A13-arm64-bgS-slim_20240401.img.
+* tested: SuperiorOS_A13-arm64-bgS-slim_20240401.img. working well.
+* lineage-21.0-20240526-UNOFFICIAL-arm64_bvS.img: bootloop. the system cant start.
+* ProjectSakura_A14-arm64-bvS_20240718.img: bootloop: the system cant start
 ***
  
 CN Version Tested List:  
