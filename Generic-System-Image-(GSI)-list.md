@@ -9,10 +9,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |18 Jul|Google GSI|Google|[Download](https://developer.android.com/topic/generic-system-image/releases#android-gsi-15) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jul 2024|
 
-## Unofficial Android 15 Beta
-|Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-
 
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
