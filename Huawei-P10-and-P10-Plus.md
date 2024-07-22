@@ -186,6 +186,8 @@ Or using `adb shell`:
 ### decrypt fstab for Huawei kirin 960
 In order for you to decrypt you need to use emui 9.0 base stock not 9.1(9.1 is erofs which it's read only filesystem that can't be mounted), find the fstab.hi3660 in vendor/etc, then edit the fstab just remove the "encrypxxxxxxxxxxxxxxxxxxxxxxxx20m" after do a factory reset from stock recovery 
 
+Edit: you can use this tool to decrypt it even it is erofs: https://github.com/leegarchat/dfe-neo-v2
+
 ### Magisk Support 
 You can install Magsik v25+ for Based EMUI 9 or EMUI 8 Devices,Even you Use GSI.      
 You need download Magsik APP in **[Github releases](https://github.com/topjohnwu/Magisk/releases).**  
