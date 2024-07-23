@@ -24,6 +24,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |22 Jul|ImbrogliOS|imbroglius|[Telegram](https://t.me/imbroglios_gsi) / [XDA](https://xdaforums.com/t/gsi-14-imbroglios-v2024-07-12-aosp-android-14-0-0_r54.4681055//) / [Download](https://github.com/imbroglius/imbroglios_gsi/releases/tag/v2024.07.22//)|[Github](https://github.com/imbroglius/imbroglios_gsi)|ARM64|Jul 2024|
 |22 Jul|LineageOS<br>TD-based|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-trebledroid-based.4654132//) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td//)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-td)|ARM64 - Binder|Jul 2024|
+|22 Jul|LineageOS<br>"Light"|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-light)|ARM64|Jul 2024|
 |21 Jul|OZODroid Project|Maremotrix|[Telegram](https://t.me/OZODroidProject) / [Download](https://www.mediafire.com/folder/mzau97kyrbauc/OZODroid+Project)| - |ARM64|Jul 2024|
 |03 Jul|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Jul 2024|
 |30 Jun|PixelOS|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases) / [Download(mirror)](https://t.me/PixelExperienceGsi/114079)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Jun 2024|
@@ -31,7 +32,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |26 May|Project Sakura|ChonDoit|[Telegram](https://t.me/elranchodecornelio/252) / [Download](https://github.com/ChonDoit/treble_sakura_patches/releases)|[Github](https://github.com/ChonDoit/treble_sakura_patches)|ARM64|May 2024|
 |21 May|Evolution XYZ|ngankbka|[Download](https://github.com/ngankbka/treble_evolution/releases/)|[GitHub](https://github.com/ngankbka/treble_evolution)|ARM64|May 2024|
 |19 May|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|May 2024|
-|18 May|LineageOS<br>"Light"|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-light)|ARM64|May 2024|
 |15 May|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/crDroid_gsi)|ARM64 - Binder|May 2024|
 |08 May|VoltageOS (archived) |chrisaw|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/cawilliamson/treble_voltage/releases/)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Apr 2024|
 |10 Mar|HorizonDroid|Braia|[Telegram](https://t.me/TrebleUniverseChat) / [Download](https://sourceforge.net/projects/braiagsi/files/HorizonDroid/)|-|ARM64|Feb 2024|
