@@ -2,7 +2,7 @@
 
 ## Steps to install
 
-* Fastboot installation via custom recovery (has not been tested)
+* Fastboot installation via custom fastbootd recovery (has not been tested)
     ```
     $ fastboot flash system <system.img>
     ```
