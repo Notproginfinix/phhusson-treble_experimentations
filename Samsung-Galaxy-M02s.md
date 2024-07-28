@@ -18,7 +18,7 @@
 ### Tested GSIs
 
 - Crdroid A13 (whatsapp audio calls work for voice, but for normal voice calls might need some treble settings to be changed)
-- Crdroid A14 (calls work and data also works)
+- Crdroid A14 (calls work and data also works, default camera and keyboard should be replaced other ones, tested: [simple keyboard](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/) and [open camera](https://f-droid.org/en/packages/net.sourceforge.opencamera/))
 - Other ones are also mentioned in [this](https://xdaforums.com/t/guide-m025f-flashing-a-gsi-with-and-without-twrp.4643733/) xda post
 
 ## Hardware support
