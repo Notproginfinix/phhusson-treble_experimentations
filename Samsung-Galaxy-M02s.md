@@ -15,6 +15,12 @@
 
   -> Reboot to system (or flash gapps by rebooting to recovery again)
 
+### Tested GSIs
+
+- Crdroid A13 (whatsapp audio calls work for voice, but for normal voice calls might need some treble settings to be changed)
+- Crdroid A14 (calls work and data also works)
+- Other ones are also mentioned in [this](https://xdaforums.com/t/guide-m025f-flashing-a-gsi-with-and-without-twrp.4643733/) xda post
+
 ## Hardware support
 
 | Component                 |      Comment                                              |
@@ -23,7 +29,7 @@
 | Speaker / Mic             | Works                                                     |
 | Bluetooth                 | Works                                                     |
 | WiFi                      | Works                                                     |
-| SIM / Mobile Data / Voice | Maybe                                                     |
+| SIM / Mobile Data / Voice | Works with/without modifications in treble settings       |
 | VoLTE                     | Not Working                                               |
 | VoWiFi                    | Not Working.                                              |
 | Fingerprint               | Has no scanner                                            |
