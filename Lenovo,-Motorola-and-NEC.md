@@ -51,6 +51,7 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Moto G9]]|guamp|✓|A/B|arm64|
 |[[Moto G22]]|hawaiip|✓|A/B|arm64|
 |[[Moto G31]]|cofud|✓|A/B|arm64|
+|[[Moto G41]]|corfu|✓|A/B|arm64|
 |[[Moto G52]]|rhode|✓|A/B|arm64|
 |[[Moto G62 5G]]|rhodei|✓|A/B|arm64|
 |[[Moto G71s / G82]]|rhodep|✓|A/B|arm64|
