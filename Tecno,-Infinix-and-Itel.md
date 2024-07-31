@@ -3,6 +3,7 @@
 |[[Tecno Camon X]]|CA7|✓|A|arm64|
 |[[Tecno Camon 11]]|CF7|✓|A|arm64|
 |[[Tecno Camon 20 Pro]]|CK7n|✓|A/B|arm64|
+|[[Tecno Camon 20 Premier 5G]]|CK9n|✓|A/B|arm64|
 |[[Tecno Pova 4 / 4 Pro]]|LG7n / LG8n|✓|A/B|arm64|
 |[[Tecno Pova 5 / 5 Pro]]|LH7n / LH8n|✓|A/B|arm64|
 |[[Tecno Spark 5]]|KD7|✓|A|arm64|
