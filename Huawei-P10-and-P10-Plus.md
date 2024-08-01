@@ -195,6 +195,11 @@ Then you cna use adb to install.
 Please note that,**EMUI 9 don't have RAMDISK**.    
 So,you need extract **RECOVERY_RAMDIS.img in UPDATA.APP**.You need this page to find your firmware.**[HUAWEI FIRM FINDER V2.0](https://professorjtj.github.io/v2/)**   
 Then,follow the guide.Full install guide in here:**[Installation](https://topjohnwu.github.io/Magisk/install.html)**
-
+  
+### KernelSU Support  
+Huawei Device not support v0.9.5, Only Support v0.9.2.  
+So here is KernelSU kernel list:  
+For P10/P10 Plus system runs on EMUI 9.0 : [Kirin Pangu Kernel with KSU EMUI 9](https://github.com/Coconutat/android_kernel_huawei_vtr_emui9_KernelSU)  
+For P10/Plus system runs on HarmonyOS 2.0(Fake Version,Based EMUI 9.1.0) : [HUAWEI-VKY-Kernel-Project](https://github.com/Blank118/HUAWEI-VKY-Kernel-Project)  
 
 
