@@ -5,7 +5,7 @@
 * VTR-L09 -- Europe Version  
 * VTR-L29 -- For Global Market Version  
   
-## VKY(P10 Plus)  SuperiorOS_A13-arm64-bgS-slim_20240401.img
+## VKY(P10 Plus)  
 * VKY-AL00 -- CN Version(No SIM card restriction) 
 * VKY-TL00 -- CN Version(China Mobile Company Customized version)  
 * VKY-L09 -- Europe Version
