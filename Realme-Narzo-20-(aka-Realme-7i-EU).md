@@ -1,4 +1,6 @@
+Updated guide for >=A12 will be available [here](https://github.com/realKarthikNair/phone-configs/blob/master/GSI/A13_GSI.md)
 
+> Below guide was written for Android 11 and is NOT relevant for installing >=A12 GSIs
 
 ## Instructions to install GSI on Narzo 20:
 
