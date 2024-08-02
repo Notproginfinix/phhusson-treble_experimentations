@@ -33,7 +33,7 @@ Assuming that you've already installed [Platform tools](https://developer.androi
 `fastboot erase userdata`  
 `fastboot reboot`  
 
-Now in 99% of cases, if you didn't mess up anything, gsi will boot normally, Incase it doesn't,  you can either flash stock ROM using [this guide](https://www.mediafire.com/view/d7ygdwkqs46zw4b) or message me (who published this guide here) at [Instagram](http://instagr.am/harry_kris) or [telegram](https://t.me/realkarthiknair) . I'll try to help out if you've the basic common sense(s)
+Now in 99% of cases, if you didn't mess up anything, gsi will boot normally, Incase it doesn't,  you can either flash stock ROM using [this guide](https://www.mediafire.com/view/d7ygdwkqs46zw4b).
 
 For extended support, join the narzo 20 community at telegram [here](https://t.me/realme_narzo_20_group)
 
