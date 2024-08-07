@@ -8,6 +8,7 @@ This page covers all smartphones released by HMD Global Oy under either HMD or N
 |[[Nokia 1 Plus]]|ANT|✓|A|arm|
 |[[Nokia 1.3]]|DRAX|✓|A/B|arm32-binder64|
 |[[Nokia 1.4]]|cable / CBL|✓|A/B|arm32-binder64|
+|[[Nokia 2]]|E1M||A|arm|
 |[[Nokia 2.1 and 2 V]]|E2M and EVW|✓|A|arm|
 |[[Nokia 2.2]]|wasp / WSP|✓|A/B|arm64|
 |[[Nokia 2.3]]|ironman / IRM|✓|A/B|arm32-binder64|
