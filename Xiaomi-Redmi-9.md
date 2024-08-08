@@ -93,10 +93,6 @@ fastboot reboot
 |Fingerprint    |Working   |
 |VoLTE          |Working → Enable IMS features|
 
-## General recommendations
-1. Install vanilla version, GApps version is a bit heavy.
-2. Disable auto brightness, set brightness manually because when screen brightness is high system becomes a bit heavy.
-
 ## Credits
 
 * TrebleDroid developer team for all their hard work.
