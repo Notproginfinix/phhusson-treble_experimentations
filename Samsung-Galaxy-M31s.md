@@ -49,3 +49,8 @@ Updated Date: 27 July 2022
 
 Temporary Update - 
 TrebleDroid Based ROM have working Bluetooth as well as hotspot for 2.4GHz, not for 5Ghz, tested on Dec 08, 2022, SM-M317F(INS) M317FXXU3DVH2
+
+Warning - 
+Flash stock AP from odin or restore backed up stock images before trying out any gsis or specific roms which flash only the system.img after flashing ported roms as they often contain modified vendors from the original device
+
+Rebooting to recovery - connect a wire and hold the power and vol. up button, when the device vibrates, release the power button.
