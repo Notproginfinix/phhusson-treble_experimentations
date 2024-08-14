@@ -3,7 +3,7 @@ Infinix Hot 10. Announced Sep 2020. Features 6.78″ display, MT6769V chipset, 5
 
 Important device info most people should know.
 
-Device Info: ARM64, VNDK (Not Lite), A-only, Systen-as-root, No seamless Update
+Device Info: ARM64, VNDK (Not Lite), A-only, System-as-root, No seamless Update
 
 Hardware status summary or important caveats:
 
@@ -28,12 +28,12 @@ Hardware status summary or important caveats:
 | Camera                    | ✅    | ✓                                                         |
 | Wifi                      | ✅    | ✓                                                         |
 | Speaker                   | ✅    | ✓                                                         |
-| Mic                       | ❔    | Untested                                                   |
+| Mic                       | ❔    | Untested, Most likely Works                               |
 | SIM / Mobile Data / Voice | ✅    | ✓                                                         |
 | Bluetooth                 | ✅    | ✓                                                         |
 | Offline Charging          | ⚠️    | Most likely Broken                                         |
-| Speaker                   | ✅    | ✓                                                         |
-| Speaker                   | ✅    | ✓                                                         |
+| Front Camera              | ✅    | ✓                                                         |
+| MTP                       | ✅    | ✓                                                         |
 
 <!-- 
 It's best to include as many components as you can, especially device-specific features like flip-cameras, fans, folding, etc. 
@@ -49,8 +49,6 @@ Page Created by: @baguubaguu
 ## ℹ️ Additional Notes
 
 - System-as-root requires you to get an AB gsi, however since seamless-update is not present. The actual slots are actually a-only. Thus you can wipe `product` and `system_ext` rather than `product_a`, `product_b`, system_ext_a`, `system_ext_a`, `system_ext_b`, and the other system's slot. This limits us quite heavily.
-- Note 2
-- Note 3
 
 ### Tested GSIs
 - [Android 11 AOSP](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)
