@@ -12,6 +12,7 @@
 |[[Tecno Spark 7P]]|V8's KF7j|✓|A/B|arm64|
 |[[Infinix Hot 7 ]]|X624B|?|A only |arm32
 |[[Infinix Hot 8]]|X650|✓|A/B|arm_binder64|
+|[[Infinix Hot 10]]|x682b|✓|A|arm64|
 |[[Infinix Hot 11s ]]|X6812|✓|A/B|arm64|
 |[[Infinix Note 5]]|X604|✓|A/B|arm64|
 |[[Infinix Note 6]]|X610|✓|A/B|arm64|
