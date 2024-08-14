@@ -19,7 +19,7 @@ Hardware status summary or important caveats:
 * Disable verity and verification via `fastboot flash vbmeta vbmeta.img --disable-verity --disable-verification`
 * Reboot to fastbootd via `fastboot reboot fastboot`
 * If your GSI unzipped size is 1.4gb or lower, you can immediately flash it as system via `fastboot flash system example_arm64_gsi.img`
-* If your GSI unzipped size is higher (1.6-2.6gb) and you get *Not enough space to resize partition* while flashing it, try `fastboot resize-logical-partition product 33500` (you can probably delete the logical partition it but I just resize it just to be safe)
+* If your GSI unzipped size is higher (1.6-2.6gb) and you get *Not enough space to resize partition* while flashing it, try `fastboot resize-logical-partition product 33500` (you can probably delete the logical partition it but I just resize it just to be safe) and then flash system via `fastboot flash system example_arm64_gsi.img`
 
 ## ⚙️ Hardware support
 
@@ -34,14 +34,6 @@ Hardware status summary or important caveats:
 | Offline Charging          | ⚠️    | Most likely Broken                                         |
 | Front Camera              | ✅    | ✓                                                         |
 | MTP                       | ✅    | ✓                                                         |
-
-<!-- 
-It's best to include as many components as you can, especially device-specific features like flip-cameras, fans, folding, etc. 
-
-Common components may include: Camera, SIM / Mobile Data / Voice, Speaker / Mic, Bluetooth, NFC, VoLTE, Auxiliary Cameras, Wi-Fi, Sensors.
-
-People are not interested in what works, so put what doesn't work first.
--->
 
 Tested By: @rubberhosehuman - x682b - Ver. 358
 
