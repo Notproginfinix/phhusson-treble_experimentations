@@ -27,7 +27,8 @@ Hardware status summary or important caveats:
 |---------------------------|--------|-----------------------------------------------------------|
 | Camera                    | ✅    | ✓                                                         |
 | Wifi                      | ✅    | ✓                                                         |
-| Speaker / Mic             | ❔    | Untested                                                   |
+| Speaker                   | ✅    | ✓                                                         |
+| Mic                       | ❔    | Untested                                                   |
 | SIM / Mobile Data / Voice | ✅    | ✓                                                         |
 | Bluetooth                 | ✅    | ✓                                                         |
 | Offline Charging          | ⚠️    | Most likely Broken                                         |
