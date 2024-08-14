@@ -44,11 +44,12 @@ People are not interested in what works, so put what doesn't work first.
 -->
 
 Tested By: @rubberhosehuman - x682b - Ver. 358
+
 Page Created by: @baguubaguu
 
 ## ℹ️ Additional Notes
 
-- System-as-root requires you to get an AB gsi, however since seamless-update is not present. The actual slots are actually a-only. Thus you can wipe `product` and `system_ext` rather than `product_a`, `product_b`, system_ext_a`, `system_ext_a`, `system_ext_b`, and the other system's slot. This limits us quite heavily.
+- System-as-root requires you to get an AB gsi, however since seamless-update is not present. The actual slots are actually a-only. Thus you can wipe `product` and `system_ext` rather than `product_a`, `product_b`, `system_ext_a`, `system_ext_a`, `system_ext_b`, and the other system's slot. This limits us quite heavily.
 
 ### Tested GSIs
 - [Android 11 AOSP](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)
