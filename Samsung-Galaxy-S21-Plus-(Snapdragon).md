@@ -1,3 +1,6 @@
+### USA S21+ varient not supported. [Go cry about it ig.](https://xdaforums.com/t/is-there-literally-no-way-to-unlock-the-bootloader-on-the-us-edition.4613667/)
+
+
 ## Steps to install
 **THIS WILL ERASE ALL YOUR DATA**\
 **AND VOID YOUR WARRENTY**\
@@ -65,6 +68,7 @@ and adjust the screen brightness on your phone
 | WiFi                      | √ |
 | SIM / Mobile Data / Voice | √ |
 | Brightness                | [*](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-S21-Plus-(Snapdragon)#Brightness)(Display is dimmed; Fix provided here) |
+| Screen Flickers.          | [*] Go to "Screen flickers" for fix method |
 ---
 
 @litszwaiboris - 2024/05/20 (Updated:2024/07/16)
