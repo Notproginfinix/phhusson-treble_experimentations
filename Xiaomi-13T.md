@@ -2,7 +2,7 @@
 
 ## Install Procedure
 
-Followed Xiaomi 12T(https://github.com/phhusson/treble_experimentations/wiki/Xiaomi-12t) install procedure.
+Followed [Xiaomi 12T](https://github.com/phhusson/treble_experimentations/wiki/Xiaomi-12t) install procedure.
 
 vbmeta.img and vbmeta_system.img I used are extracted from stock rom.
 
