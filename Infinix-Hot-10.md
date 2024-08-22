@@ -8,7 +8,7 @@ Device Info: ARM64, VNDK (Not Lite), A-only, System-as-root, No seamless Update
 Hardware status summary or important caveats:
 
 - Make a full dump as a backup beforehand via SoC (mtkclient works), this phone is really fragile and you'll most likely need to use BROM to recover every now and then
-- You only can install a GSI that has an unzipped size of 2.6gb at max safely after erasing product (You should be able to erase system_ext too)
+- You only can install a GSI that has an unzipped size of 3.6gb at max safely after erasing product (You should be able to erase system_ext too)
 
 ## 📃 Steps to install
 
@@ -19,7 +19,7 @@ Hardware status summary or important caveats:
 * Disable verity and verification via `fastboot flash vbmeta vbmeta.img --disable-verity --disable-verification`
 * Reboot to fastbootd via `fastboot reboot fastboot`
 * If your GSI unzipped size is 1.4gb or lower, you can immediately flash it as system via `fastboot flash system example_arm64_gsi.img`
-* If your GSI unzipped size is higher (1.6-2.6gb) and you get *Not enough space to resize partition* while flashing it, try `fastboot resize-logical-partition product 33500` (you can probably delete the logical partition it but I just resize it just to be safe) and then flash system via `fastboot flash system example_arm64_gsi.img`
+* If your GSI unzipped size is higher (1.6-3.6gb) and you get *Not enough space to resize partition* while flashing it, try `fastboot resize-logical-partition product 33500` (you can probably delete the logical partition it but I just resize it just to be safe) and then flash system via `fastboot flash system example_arm64_gsi.img`
 
 ## ⚙️ Hardware support
 
