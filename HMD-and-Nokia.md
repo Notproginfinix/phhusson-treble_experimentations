@@ -40,7 +40,7 @@ This page covers all smartphones released by HMD Global Oy under either HMD or N
 |[[Nokia C1 2nd Edition]]|irisumts / IRU|✓|A/B|arm|
 |[[Nokia C1 Plus]]|yondu / YDU|✓|A/B|arm32-binder64|
 |[[Nokia C2]]|nebula / NBL|✓|A/B|arm32-binder64|
-|[[Nokia C3]]|gamoraplus / GMR|✓|A/B|arm|
+|[[Nokia C3]]|gamoraplus / GMR|✓|A/B|arm64|
 |[[Nokia C2 Tava / Tennen and 2V Tella]]|armstrong|✓|A/B|arm64|
 |[[Nokia C5 Endi]]|paramore / PMC|✓|A/B|arm64|
 |[[Nokia C10]]|mantis / MTS|✓|A/B|arm32-binder64|
