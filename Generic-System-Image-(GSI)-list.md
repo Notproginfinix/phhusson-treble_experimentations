@@ -22,7 +22,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-
 |24 Aug|LineageOS<br>"Light"|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-light)|ARM64|Aug 2024|
 |24 Aug|PixelOS|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Aug 2024|
 |23 Aug|LineageOS<br>TD-based|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-trebledroid-based.4654132//) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td//)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-td)|ARM64 - Binder|Aug 2024|
