@@ -5,8 +5,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 - *All images here require a System-as-Root ("A/B") partition style, unless otherwise specified through a column.*
 
 ## Official Android 15 Beta
-|Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+
 Currently Link Unavailable.
 (Developers.Android.com) broken.
 
