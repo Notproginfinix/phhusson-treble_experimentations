@@ -68,11 +68,11 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Latest Android 10, 11, 12 GSIs	
 |Updated|Version|Image|Maintainer|Links|Sources|Partition Style|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|18 Aug|12|LineageOS 19.1|AndyYan|[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-19.1)|SAR|ARM64 - Binder|Jul 2024|
 |22 Mar|11|AOSP|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|Apr 2024|
 |22 Mar|10|AOSP|Google|[Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|Apr 2024|
 |05 Mar|12|AOSP|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SAR|ARM64 - X86|May 2024|
 |21 Jan|11|LineageOS 18.1|AndyYan|[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-18.1)|non-SaR - SaR|ARM - ARM64 - Binder|Jan 2024|
-|19 Apr|12|LineageOS 19.1|AndyYan|[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-19.1)|SAR|ARM64 - Binder|Apr 2024|
 
 
 
