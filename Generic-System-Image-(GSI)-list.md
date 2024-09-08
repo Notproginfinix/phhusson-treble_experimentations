@@ -22,8 +22,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|06 Sep|Evolution X|mytja|[Download](https://github.com/mytja/treble_evo/releases/tag/20240906) / [Mirror 1](https://git.severkar.eu/mytja/treble_evo/releases)|[GitHub](https://github.com/mytja/treble_evo)|ARM64|Sep 2024|
 |07 Sep|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases/tag/A14-v20240829)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Aug 2024|
+|06 Sep|Evolution X|mytja|[Download](https://github.com/mytja/treble_evo/releases/tag/20240906) / [Mirror 1](https://git.severkar.eu/mytja/treble_evo/releases)|[GitHub](https://github.com/mytja/treble_evo)|ARM64|Sep 2024|
 |27 Aug|VoltageOS |chrisaw|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/cawilliamson/treble_voltage/releases/)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Aug 2024|
 |24 Aug|LineageOS<br>"Light"|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-light)|ARM64|Aug 2024|
 |23 Aug|LineageOS<br>TD-based|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-trebledroid-based.4654132//) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td//)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-td)|ARM64 - Binder|Aug 2024|
