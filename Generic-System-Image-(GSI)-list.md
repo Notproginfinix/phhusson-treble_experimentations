@@ -12,6 +12,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|09 Sep|EverestOS|kaii-lb|[Telegram](https://t.me/kaiis_stuff/) / [Download](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.2/)|[Github](https://github.com/kaii-lb/treble_everest)|ARM64|Sep 2024|
 |06 Sep|RisingOS (EOL)|UniversalX|[Download](https://sourceforge.net/projects/risingos-official/files/5.x/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/RisingOSS-devices/android_device_phh_treble)|ARM64|Sep 2024|
 |31 Aug|iodéOS|iodé.tech|[Download](https://gitlab.iode.tech/ota/release/-/tree/master/gsi) / [iodé Community](https://community.iode.tech/t/editable-list-gsi-support/2919)|[GitLab](https://gitlab.iode.tech/ota)|ARM64|Aug 2024|
 |20 Aug|LeafOS|LeafOS Project|[Download](https://leafos.org/wiki/device/leaf_gsi_arm64)| [Gerrit](https://review.leafos.org/) / [Git](https://git.leafos.org/LeafOS-Project/leaf_build) - [Mirror](https://github.com/LeafOS-Project/leaf_build) |ARM64|Aug 2024|
@@ -30,7 +31,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |23 Aug|OZODroid Project|Maremotrix|[Telegram](https://t.me/OZODroidProject) / [Download](https://www.mediafire.com/folder/mzau97kyrbauc/OZODroid+Project)| - |ARM64|Aug 2024|
 |18 Aug|ImbrogliOS|imbroglius|[XDA](https://xdaforums.com/t/gsi-14-imbroglios-v2024-08-09-aosp-android-14-0-0_r61-pure-full-edition.4681055//) / [Download](https://github.com/imbroglius/imbroglios_gsi/releases/tag/v2024.08.18//)|[Github](https://github.com/imbroglius/imbroglios_gsi)|ARM64|Aug 2024|
 |16 Aug|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Aug 2024|
-|08 Aug|EverestOS|kaii-lb|[Telegram](https://t.me/kaiis_stuff/) / [Download](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.2/)|[Github](https://github.com/kaii-lb/treble_everest)|ARM64|Jul 2024|
 |18 Jul|Project Sakura|ChonDoit|[Telegram](https://t.me/elranchodecornelio/252) / [Download](https://github.com/ChonDoit/treble_sakura_patches/releases)|[Github](https://github.com/ChonDoit/treble_sakura_patches)|ARM64|Jul 2024|
 |21 May|Evolution XYZ|ngankbka|[Download](https://github.com/ngankbka/treble_evolution/releases/)|[GitHub](https://github.com/ngankbka/treble_evolution)|ARM64|May 2024|
 |19 May|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|May 2024|
