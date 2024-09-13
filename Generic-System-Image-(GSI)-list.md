@@ -25,7 +25,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |13 Sep|LineageOS<br>"Light"|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-light)|ARM64|Sep 2024|
 |13 Sep|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/crDroid_gsi)|ARM64 - Binder|Sep 2024|
-|07 Sep|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases/tag/A14)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Aug 2024|
+|06 Sep|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases/tag/A14)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Aug 2024|
 |06 Sep|Evolution X|mytja|[Download](https://github.com/mytja/treble_evo/releases/tag/20240906) / [Mirror 1](https://git.severkar.eu/mytja/treble_evo/releases)|[GitHub](https://github.com/mytja/treble_evo)|ARM64|Sep 2024|
 |27 Aug|VoltageOS |chrisaw|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/cawilliamson/treble_voltage/releases/)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Aug 2024|
 |24 Aug|PixelOS (Out of Maintenance)|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Aug 2024|
@@ -58,7 +58,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |21 Jul|DerpFest|MarisaDAZA|[Download](https://github.com/MarisaDAZA/treble_DerpFest_GSI/releases)|[GitHub](https://github.com/MarisaDAZA/treble_DerpFest_GSI)|ARM64|Jul 2024|
 |01 Jul|crDroid|ChonDoit|[Telegram](https://t.me/elranchodecornelio/250) / [Download](https://github.com/ChonDoit/treble_crdroid_patches/releases/tag/A13-Signed)|[GitHub](https://github.com/ChonDoit/treble_crdroid_patches)|ARM64|May 2024|
 |29 Jun|Pixel Experience Plus|ChonDoit|[Telegram](https://t.me/elranchodecornelio/250) / [Download](https://github.com/ChonDoit/treble_peplus_patches/releases/tag/A13)|[GitHub](https://github.com/ChonDoit/treble_peplus_patches)|ARM64|Jun 2024|
-|14 Mar|AfterLifeOS (Archived)|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_afterlife_patches/releases)|[Github](https://github.com/ChonDoit/treble_afterlife_patches)|ARM64|Feb 2024|
+|14 Mar|AfterLifeOS (Out of Maintenance)|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_afterlife_patches/releases)|[Github](https://github.com/ChonDoit/treble_afterlife_patches)|ARM64|Feb 2024|
 |24 Jan|ColtOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_colt_patches/releases)|[Github](https://github.com/ChonDoit/treble_colt_patches)|ARM64|Jan 2024|
 
 
