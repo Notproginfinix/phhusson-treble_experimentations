@@ -36,7 +36,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |18 Jul|Project Sakura|ChonDoit|[Telegram](https://t.me/elranchodecornelio/252) / [Download](https://github.com/ChonDoit/treble_sakura_patches/releases)|[Github](https://github.com/ChonDoit/treble_sakura_patches)|ARM64|Jul 2024|
 |21 May|Evolution XYZ|ngankbka|[Download](https://github.com/ngankbka/treble_evolution/releases/)|[GitHub](https://github.com/ngankbka/treble_evolution)|ARM64|May 2024|
 |10 Mar|HorizonDroid|Braia|[Telegram](https://t.me/TrebleUniverseChat) / [Download](https://sourceforge.net/projects/braiagsi/files/HorizonDroid/)|-|ARM64|Feb 2024|
-|24 Feb|LeOS-U (Out of Maintenance)|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|-|ARM64 - Binder|Feb 2024|
 |12 Feb|DerpFest|KoysX|[Download](https://github.com/KoysX/treble_DerpFest_GSI/releases)|[GitHub](https://github.com/KoysX/treble_DerpFest_GSI) |ARM64|Feb 2024|
 |07 Feb|Evolution X|Ahnet|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_evo/releases)|[GitHub](https://github.com/ahnet-69/treble_evo)|ARM64|Feb 2024|
 
@@ -92,6 +91,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |24 Aug|PixelOS (Archived)|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Aug 2024|
 |12 Mar|CherishOS (Archived)|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_cherish/releases/)|[GitHub](https://github.com/YukiMetaa/treble_cherish)|ARM64|Feb 2024|
 |17 Mar|ApolloOS (Archived)|YukiMetaa|[Download](https://github.com/YukiMetaa/treble_apollo/releases/)|[GitHub](https://github.com/YukiMetaa/treble_apollo)|ARM64|Feb 2024|
+|24 Feb|LeOS-U (Archived)|Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|-|ARM64 - Binder|Feb 2024|
 |Dec 2023|CRdroid|Braia|[Telegram](https://t.me/DroidZoneBR) / [Download](https://sourceforge.net/projects/braiagsi/files/Test/)|[GitHub](https://github.com/Antony-Braiano)|ARM64|Dec 2023|
 |Dec 2023|Evolution X|KoysX|[Download](https://github.com/KoysX/treble_build_evo/releases)|[GitHub](https://github.com/KoysX/treble_build_evo) |ARM64|Nov 2023|
 |Oct 2023|Evolution X (Archived)|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_evo/releases)| [GitHub](https://github.com/boydaihungst/treble_build_evo/)|ARM64|Oct 2023|
