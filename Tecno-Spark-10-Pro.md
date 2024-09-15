@@ -1,4 +1,4 @@
-# Tecno Spark 6
+# Tecno Spark 10 Pro
 ###### also known as TECNO KI7 / K17
 
 Everything works except for fast charging. Limited to 2000mAh (or atleast, I couldn't get it to work)
