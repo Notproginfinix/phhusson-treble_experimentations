@@ -38,7 +38,7 @@ Done! you have succesfully unlocked your device! Next steps...
 # GSI installing
 The moment has come.
 ## Unzip your GSI and flash your system.
-Open a CMD or terminal where your system.img from your GSI is, then, execute `adb reboot fastboot` in this mode, we have more controll with our motorola, so we can install everything we want (BE CAREFUL! THIS STEP REMOVES ALL YOUR DATA, CONTINUE WITH YOUR OWN RISK.):
+Open a CMD or terminal where your system.img from your GSI is, then, execute `adb reboot fastboot` in this mode, we have more controll with our motorola, so we can install everything we want (BE CAREFUL! THIS STEP REMOVES ALL YOUR DATA, CONTINUE WITH YOUR OWN RISK.) (note that you can't flash higher that 4GBs of GSIs, I need further research in this topic, so please be patient):
 * Type `fastboot delete-logical-partition product_a`, hit enter and type `fastboot delete-logical-partition product_b` and hit enter.
 * Type `fastboot flash system_a (system name).img` it is normally `system.img` but some other GSIs have its own system name.
 * On your phone, with the volume and power buttons, go to recovery, hit power and hit wipe data, now, press "yes".
@@ -46,11 +46,11 @@ Open a CMD or terminal where your system.img from your GSI is, then, execute `ad
 Done!
 # Audio issues
 When having headphones or headsets issues, go to config and somewhere here you should find "Phh Treble Settins" hit there, tap on Misc features, and hit on the "Audio" topic: "Use alternate way to detect headsets"
-# PHONE UNBRICKING
+# PHONE BOOTLOOP FIX
 I made some mistakes lol, so theres a fix:
-* When your motorola is bricked, you just can enter to the bootloader, not fastboot, obviusly, not thr system, well THERES A FIX!
-i just found that just typing ` fastboot flashing get_unlock_ability` you can get, well the flash ability, i flashed the wrong boot.img when trying to root mine, so mine got bricked, you can fix this with yours, if you flashed, idk, the wrong vbmeta image, you can type this command, and then typing `fastboot flash vbmeta (correct vbmeta image)`.
+* When your motorola is bootlooped, you can enter to the bootloader but not fastboot and obviously, the device gets a bootloop, well THERES A FIX!
+i just found that by just typing ` fastboot flashing get_unlock_ability` you can get, well, the flash ability, i flashed the wrong boot.img when trying to root mine, so mine got bricked, you can fix this with yours, if you flashed, idk, the wrong vbmeta image, you can type this command, and then type `fastboot flash vbmeta (correct vbmeta image)`.
 
-_Kroe Sufos from Colombia_
+_Kroe Sufos_
 Edited by:
 * your name here and what changes youve done
