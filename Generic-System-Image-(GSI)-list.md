@@ -7,7 +7,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 15 Beta builds
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|22 Aug|QPR1 Google GSI|Google|[Download](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-AP41.240726.009-12231213-850ac338.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Aug 2024|
+|22 Aug|QPR1 Google GSI|Google|[Download](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-AP41.240823.009-12329489-9899f8a0.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Aug 2024|
 |18 Jul|initial release Google GSI|Google|[Download](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-AP31.240617.009-12094726-732980f0.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jul 2024|
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
