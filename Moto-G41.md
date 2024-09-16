@@ -4,7 +4,7 @@ Works with [RisingOS](https://sourceforge.net/projects/risingos-official/files/3
 | Component                 |      Working?                                             |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | ✓                                                         |
-| Speaker / Mic             | ✓ (Needs extra config for JACK connections)               |
+| Speaker / Mic             | ✓ (Needs extra config for JACK connections) (some GSIs have a broken call feature, fix below)              |
 | Bluetooth                 | ✓                                                         |
 | WiFi                      | ✓                                                         |
 | SIM / Mobile Data / Voice | ✓                                                         |
@@ -45,7 +45,8 @@ Open a CMD or terminal where your system.img from your GSI is, then, execute `ad
 * Last step: hit "Reboot to software".
 Done!
 # Audio issues
-When having headphones or headsets issues, go to config and somewhere here you should find "Phh Treble Settins" hit there, tap on Misc features, and hit on the "Audio" topic: "Use alternate way to detect headsets"
+When having headphones or headsets issues, go to config and somewhere here you should find "Phh Treble Settings" hit there, tap on Misc features, and hit on the "Audio" topic: "Use alternate way to detect headsets"
+When having call issues, go to Phh Treble Settings and go to Misc, telephony and enable "disable "voice call in" route"
 # PHONE BOOTLOOP FIX
 I made some mistakes lol, so theres a fix:
 * When your motorola is bootlooped, you can enter to the bootloader but not fastboot and obviously, the device gets a bootloop, well THERES A FIX!
