@@ -3,11 +3,11 @@
 
 ### Hardware support:
 - Camera: working
-- VoLTE: working
+- VoLTE: working (needs Phh Treble config)
 - Bluetooth: working
 - Wi-Fi: working
 - SIM/Mobile Data: working
-- Fingerprint: not tested
+- Fingerprint: working
 - NFC: not tested
 - MTP: working
 - Speaker/Mic: working
