@@ -13,7 +13,7 @@
 - Speaker/Mic: working
 
 ### Notes:
-- If the screen goes dark during flashing in fastbootd, it's still in fastbootd. It's just turning the screen of to save power. You can wake the screen up by pressing the power button.
+- If the screen goes dark during flashing in fastbootd, it's still in fastbootd. It's just turning the screen off to save power. You can wake the screen up by pressing the power button.
 
 ### Flashing instructions:
 
