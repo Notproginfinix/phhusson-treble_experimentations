@@ -16,6 +16,8 @@
 - If the screen goes dark during flashing in fastbootd, it's still in fastbootd. It's just turning the screen off to save power. You can wake the screen up by pressing the power button.
 
 - DerpFest doesn't work. Had to learn the hard way.
+![image](https://github.com/user-attachments/assets/3b0c4e23-e305-4118-ba1a-28ebf9241bcd)
+
 
 ### Flashing instructions:
 
