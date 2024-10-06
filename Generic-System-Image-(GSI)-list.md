@@ -14,9 +14,9 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |30 Sep|iodéOS|iodé.tech|[Download](https://gitlab.iode.tech/ota/release/-/tree/master/gsi) / [iodé Community](https://community.iode.tech/t/editable-list-gsi-support/2919)|[GitLab](https://gitlab.iode.tech/ota)|ARM64|Sep 2024|
 |28 Sep|FlexUI|FlexUITeam|[Telegram](https://t.me/FlexUITeamGroup) / [Download](https://t.me/FlexUITeam/36)|-|ARM64|Aug 2024|
-|25 Sep|RisingOS| (End of Life)|UniversalX|[Download](https://sourceforge.net/projects/risingos-official/files/5.x/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/RisingOSS-devices/android_device_phh_treble)|ARM64|Sep 2024|
+|25 Sep|RisingOS(End of Life)|UniversalX|[Download](https://sourceforge.net/projects/risingos-official/files/5.x/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/RisingOSS-devices/android_device_phh_treble)|ARM64|Sep 2024|
 |19 Sep|iodéOS Beta|iodé.tech|[Download](https://gitlab.iode.tech/ota/betas/-/blob/master/iode-5.5-20240919-arm64_bvN.img.xz) / [iodé Community](https://community.iode.tech/t/editable-list-gsi-support/2919)|[GitLab](https://gitlab.iode.tech/ota)|ARM64|Sep 2024|
-|09 Sep|EverestOS| (End of Life)|kaii-lb|[Telegram](https://t.me/kaiis_stuff/) / [Download](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.3)|[Github](https://github.com/kaii-lb/treble_everest)|ARM64|Sep 2024|
+|09 Sep|EverestOS(End of Life)|kaii-lb|[Telegram](https://t.me/kaiis_stuff/) / [Download](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.3)|[Github](https://github.com/kaii-lb/treble_everest)|ARM64|Sep 2024|
 |20 Aug|LeafOS|LeafOS Project|[Download](https://leafos.org/wiki/device/leaf_gsi_arm64)| [Gerrit](https://review.leafos.org/) / [Git](https://git.leafos.org/LeafOS-Project/leaf_build) - [Mirror](https://github.com/LeafOS-Project/leaf_build) |ARM64|Aug 2024|
 |14 Jun|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android14-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jun 2024|
 |08 May|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Mar 2024|
