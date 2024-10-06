@@ -25,13 +25,13 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |02 Oct|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/271) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases/tag/A14)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Sep 2024|
+|28 Sep|FlexUI|FlexUITeam|[Telegram](https://t.me/FlexUITeamGroup) / [Download](https://t.me/FlexUITeamFiles/332?single)|-|ARM64|Aug 2024|
 |21 Sep|Evolution X|mytja|[Download](https://github.com/mytja/treble_evo/releases) / [Mirror 1](https://git.severkar.eu/mytja/treble_evo/releases)|[GitHub](https://github.com/mytja/treble_evo)|ARM64|Sep 2024|
 |19 Sep|LineageOS<br>TD-based|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-trebledroid-based.4654132//) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td//)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-td)|ARM64 - Binder|Sep 2024|
 |15 Sep|VoltageOS (End of Life) |chrisaw|[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/cawilliamson/treble_voltage/releases/)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Sep 2024|
 |13 Sep|LineageOS<br>"Light"|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-light)|ARM64|Sep 2024|
 |13 Sep|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/crDroid_gsi)|ARM64 - Binder|Sep 2024|
 |24 Aug|PixelOS (Archived)|MisterZtr|[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Aug 2024|
-|23 Aug|OZODroid Project|Maremotrix|[Telegram](https://t.me/OZODroidProject) / [Download](https://www.mediafire.com/folder/mzau97kyrbauc/OZODroid+Project)| - |ARM64|Aug 2024|
 |18 Aug|ImbrogliOS|imbroglius|[XDA](https://xdaforums.com/t/gsi-14-imbroglios-v2024-08-09-aosp-android-14-0-0_r61-pure-full-edition.4681055//) / [Download](https://github.com/imbroglius/imbroglios_gsi/releases/tag/v2024.08.18//)|[Github](https://github.com/imbroglius/imbroglios_gsi)|ARM64|Aug 2024|
 |16 Aug|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Aug 2024|
 |10 Aug|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Aug 2024|
