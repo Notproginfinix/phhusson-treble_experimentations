@@ -33,4 +33,6 @@ Step 6: Flash stock boot (optional but recommended): `fastboot flash boot PATH_T
 
 Step 7: Disable dm-verity: `fastboot flash --disable-verity --disable-verification vbmeta PATH_TO_VBMETA.img`
 
-Step 8: Reboot by pressing power button on device and enjoy!
+Step 8: Reboot by running `fastboot reboot`
+
+If the phone starts bootlooping, try holding the power up button till you get to recovery and doing a factory reset.
