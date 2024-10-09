@@ -27,7 +27,7 @@ Step 3: Erase /system: `fastboot erase system`
 
 Step 4: Flash GSI: `fastboot flash system PATH_TO_GSI.img`
 
-Step 5: Erase userdata: `fastboot -w` # If this does not work, factory reset in recovery
+Step 5: Erase userdata: `fastboot -w` # If this does not work, factory reset in recovery instead
 
 Step 6: Flash stock boot (optional but recommended): `fastboot flash boot PATH_TO_BOOT.img`
 
