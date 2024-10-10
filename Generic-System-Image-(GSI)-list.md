@@ -12,7 +12,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|30 Sep|iodéOS|iodé.tech|[Download](https://gitlab.iode.tech/ota/release/-/tree/master/gsi) / [iodé Community](https://community.iode.tech/t/editable-list-gsi-support/2919)|[GitLab](https://gitlab.iode.tech/os/public/manifests/android)|ARM64|Sep 2024|
+|10 Oct|iodéOS|iodé.tech|[Download](https://gitlab.iode.tech/ota/release/-/tree/master/gsi) / [iodé Community](https://community.iode.tech/t/editable-list-gsi-support/2919)|[GitLab](https://gitlab.iode.tech/os/public/manifests/android)|ARM64|Sep 2024|
 |28 Sep|FlexUI|FlexUITeam|[Telegram](https://t.me/FlexUITeamGroup) / [Download](https://t.me/FlexUITeam/36)|-|ARM64|Aug 2024|
 |25 Sep|RisingOS (End of Life)|UniversalX|[Download](https://sourceforge.net/projects/risingos-official/files/5.x/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/RisingOSS-devices/android_device_phh_treble)|ARM64|Sep 2024|
 |09 Sep|EverestOS (End of Life)|kaii-lb|[Telegram](https://t.me/kaiis_stuff/) / [Download](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.3)|[Github](https://github.com/kaii-lb/treble_everest)|ARM64|Sep 2024|
