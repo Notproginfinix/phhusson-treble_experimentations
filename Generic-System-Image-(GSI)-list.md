@@ -7,9 +7,17 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 15 Beta builds
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|16 Oct|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Oct 2024|
 |12 Sep|QPR1 Google GSI|Google|[Download](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-AP41.240823.009-12329489-9899f8a0.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Aug 2024|
 |18 Jul|initial release Google GSI|Google|[Download](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-AP31.240617.009-12094726-732980f0.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jul 2024|
-## Official Android 14		
+
+## Unofficial Android 15 Beta builds	
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|16 Oct|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Oct 2024|
+
+
+## Official Android 14	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |10 Oct|iodéOS|iodé.tech|[Download](https://gitlab.iode.tech/ota/release/-/tree/master/gsi) / [iodé Community](https://community.iode.tech/t/editable-list-gsi-support/2919)|[GitLab](https://gitlab.iode.tech/os/public/manifests/android)|ARM64|Sep 2024|
@@ -21,7 +29,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |08 May|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Mar 2024|
 
 ## Unofficial Android 14	
-
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |12 Oct|Evolution X|mytja|[Download](https://github.com/mytja/treble_evo/releases) / [Mirror 1](https://git.severkar.eu/mytja/treble_evo/releases)|[GitHub](https://github.com/mytja/treble_evo)|ARM64|Oct 2024|
