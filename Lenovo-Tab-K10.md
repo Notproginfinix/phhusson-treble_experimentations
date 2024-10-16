@@ -30,11 +30,27 @@ Tested By:
    - Model: Lenovo TB-X6C6F
    - Firmware: S000043_210430
    - Date: 2022-02-11
-1. C0rn3j
+2. C0rn3j
    - Model: Lenovo TB-X6C6X
    - Firmware: `S000080_220410_ROW`, `S000043_210430` - A12 `TB-X6C6F_S100038_240307_ROW` was also tested, but could not get the GSI to work
    - GSI: [Andi Yan's td](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/) - `lineage-20.0-20240516-UNOFFICIAL-arm64_bgN.img` - LineageOS 21.0 seems to not work, supposedly because older Android 14 releases are not friendly with 4.19 kernel the device uses
    - Last updated: 2024-05-25
+3. Hypfer
+   - Model: Lenovo TB-X6C6NBF
+   - Firmware: Downgrade to `Lenovo_Tab_K10_Smart_TB-X6C6NBF_MT6765_USR_S000039_211023_MP1V7_ROW` via the fastboot commands listed below was required
+   - GSI: [Andi Yan's td](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/) `lineage-20.0-20240818-UNOFFICIAL-arm64_bgN-signed.img`
+   - Steps taken (Some may have been redundant):
+      1. Enable Bootloader unlocking in the Android Devtools
+      2. Power off. Hold Vol-Down + Power to boot into fastboot
+      3. Run `fastboot flashing unlock`
+      4. Reboot, Reinit
+      5. Reboot into fastboot again. Downgrade to Android 11
+      6. Boot Android
+      7. Reboot again, flash GSI as described below
+   - Before flashing natively, the GSI was tested using https://github.com/VegaBobo/DSU-Sideloader - Worked with no issues
+   - Deleting the product partitions was not required to flash the GSI natively
+   - To disable the screen timeout (as one would do with a wall-mounted battery-less tablet) run `settings put system screen_off_timeout 2147483647`
+   - Last Updated: 2024-10-16
 
 
 ## Flashing Android 11 stock firmware
