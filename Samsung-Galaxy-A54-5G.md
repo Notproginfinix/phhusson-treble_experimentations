@@ -53,6 +53,7 @@ Fingerprint | Not working
 Auto Brightness | Not working
 Offline Charging | Not working | Stays on charging loading screen
 VoLTE | Untested | No VoLTE in my country
+|Adaptive Refresh Rate | Working partially| Some apps (for example: YouTube) will keep the refresh rate at 120hz
 
 <!-- 
 It's best to include as many components as you can, especially device-specific features like flip-cameras, fans, folding, etc. 
