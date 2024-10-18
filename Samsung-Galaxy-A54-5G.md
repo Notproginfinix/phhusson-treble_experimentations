@@ -26,9 +26,11 @@ If someone maintains presets for your device, you can tell people how to apply t
 
 * Install a custom recovery such as TWRP or OrangeFox. Alternatively you can patch your stock recovery with fastboot.
 * Enter fastboot mode
-* `fastboot flash system.img`
-* `fastboot -w`
-* `fastboot reboot`
+* `fastboot flash system gsi.img`
+* `fastboot reboot recovery`
+* Wipe cache, dalvik
+* Format data
+* Reboot
 <!-- 
 Most modern devices follow the generic procedure using fastboot.
 
@@ -62,5 +64,17 @@ Common components may include: Camera, SIM / Mobile Data / Voice, Speaker / Mic,
 
 People are not interested in what works, so put what doesn't work first.
 -->
+# Compatibility
+- VNDKLite GSIs are NOT supported, you will end up in an infinite bootloop.
+- Android 14 QPR1, QPR2 and QPR3 GSIs are supported.
+- At the moment (Oct 18, 2024) Android 15 GSIs are NOT supported.
 
-Tested By: Pokey8680 - - SM-A546B (Europe),  A546BXXS9CXH7 @ Tested on Oct 8 - 12, 2024
+* Tested By: Pokey8680 - SM-A546B (Europe),
+* Stock FW: A546BXXS9CXH7
+* @ Tested on Oct 8 - 18, 2024
+# GSIs Tested
+## Android 14
+* [Andy Yan's LineageOS 21, September Build (QPR3)](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td//)
+* [Trebledroid CI Build](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20240508) 
+* [Ponces' AOSP](https://github.com/ponces/treble_aosp/releases/tag/v2024.08.16)
+* [Evolution X](https://github.com/mytja/treble_evo/releases)
