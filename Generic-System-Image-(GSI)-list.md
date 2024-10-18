@@ -21,7 +21,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |17 Oct|FlexUI|FlexUITeam|[Telegram](https://t.me/FlexUITeamGroup) / [Download](https://t.me/FlexUITeam/76)|-|ARM64|Aug 2024|
-|17 Oct|iodéOS|iodé.tech|[Download](https://gitlab.iode.tech/ota/release/-/tree/master/gsi) / [iodé Community](https://community.iode.tech/t/editable-list-gsi-support/2919)|[GitLab](https://gitlab.iode.tech/os/public/manifests/android)|ARM64|Oct 2024|
+|17 Oct|iodéOS beta|iodé.tech|[Download](https://gitlab.iode.tech/ota/release/-/tree/master/gsi) / [Download beta](https://gitlab.iode.tech/ota/betas)|[GitLab](https://gitlab.iode.tech/os/public/manifests/android)|ARM64|Oct 2024|
 |25 Sep|RisingOS (End of Life)|UniversalX|[Download](https://sourceforge.net/projects/risingos-official/files/5.x/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/RisingOSS-devices/android_device_phh_treble)|ARM64|Sep 2024|
 |09 Sep|EverestOS (End of Life)|kaii-lb|[Telegram](https://t.me/kaiis_stuff/) / [Download](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.3)|[Github](https://github.com/kaii-lb/treble_everest)|ARM64|Sep 2024|
 |20 Aug|LeafOS|LeafOS Project|[Download](https://leafos.org/wiki/device/leaf_gsi_arm64)| [Gerrit](https://review.leafos.org/) / [Git](https://git.leafos.org/LeafOS-Project/leaf_build) - [Mirror](https://github.com/LeafOS-Project/leaf_build) |ARM64|Aug 2024|
