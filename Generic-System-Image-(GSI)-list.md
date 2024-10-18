@@ -7,7 +7,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 15 Beta builds
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|18 Oct|FlexUI|FlexUITeam|[Telegram](https://t.me/FlexUITeamGroup) / [Download](https://t.me/FlexUITeam/98)|-|ARM64|Oct 2024|
+|18 Oct|FlexUI|FlexUITeam|[Telegram](https://t.me/FlexUITeamChat) / [Download](https://t.me/FlexUITeam/98)|-|ARM64|Oct 2024|
 |16 Oct|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Oct 2024|
 |12 Sep|QPR1 Google GSI|Google|[Download](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-AP41.240823.009-12329489-9899f8a0.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Aug 2024|
 |18 Jul|initial release Google GSI|Google|[Download](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-AP31.240617.009-12094726-732980f0.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jul 2024|
@@ -21,7 +21,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 14	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|17 Oct|FlexUI|FlexUITeam|[Telegram](https://t.me/FlexUITeamGroup) / [Download](https://t.me/FlexUITeam/76)|-|ARM64|Aug 2024|
+|17 Oct|FlexUI|FlexUITeam|[Telegram](https://t.me/FlexUITeamChat) / [Download](https://t.me/FlexUITeam/76)|-|ARM64|Aug 2024|
 |17 Oct|iodéOS (beta)|iodé.tech|[Download](https://gitlab.iode.tech/ota/release/-/tree/master/gsi) / [Download beta](https://gitlab.iode.tech/ota/betas)|[GitLab](https://gitlab.iode.tech/os/public/manifests/android)|ARM64|Oct 2024|
 |25 Sep|RisingOS (End of Life)|UniversalX|[Download](https://sourceforge.net/projects/risingos-official/files/5.x/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/RisingOSS-devices/android_device_phh_treble)|ARM64|Sep 2024|
 |09 Sep|EverestOS (End of Life)|kaii-lb|[Telegram](https://t.me/kaiis_stuff/) / [Download](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.3)|[Github](https://github.com/kaii-lb/treble_everest)|ARM64|Sep 2024|
