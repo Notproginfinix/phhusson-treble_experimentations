@@ -1,4 +1,4 @@
-Works with [RisingOS](https://sourceforge.net/projects/risingos-official/files/3.x/) by UniversalX
+Works with [RisingOS](https://sourceforge.net/projects/risingos-official) by UniversalX
 # Hardware Support
 
 | Component                 |      Working?                                             |
