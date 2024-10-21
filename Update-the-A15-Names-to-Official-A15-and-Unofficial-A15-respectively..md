@@ -4,15 +4,15 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 - *If your device uses VNDKLite, only use VNDKLite GSIs. To verify what image is right for your device, check the "Required Image" section of the [Treble Info](https://github.com/phhusson/treble_experimentations/wiki/Frequently-Asked-Questions-(FAQ)#how-can-i-check-if-my-device-is-treble-enabled) app.*
 - *All images here require a System-as-Root ("A/B") partition style, unless otherwise specified through a column.*
 
-## Official Android 15 Beta builds
+## Official Android 15
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |20 Oct|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Oct 2024|
-|19 Oct|FlexUI|FlexUITeam|[Telegram](https://t.me/FlexUITeamChat) / [Download](https://github.com/Doze-off/FlexUI/releases/tag/20.10.2024)|-|ARM64|Oct 2024|
+|20 Oct|FlexUI|FlexUITeam|[Telegram](https://t.me/FlexUITeamChat) / [Download](https://github.com/Doze-off/FlexUI/releases/tag/20.10.2024)|-|ARM64|Oct 2024|
 |12 Sep|QPR1 Google GSI|Google|[Download](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-AP41.240823.009-12329489-9899f8a0.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Aug 2024|
 |18 Jul|initial release Google GSI|Google|[Download](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-AP31.240617.009-12094726-732980f0.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jul 2024|
 
-## Unofficial Android 15 Beta builds	
+## Unofficial Android 15
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |21 Oct|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Oct 2024|
