@@ -15,7 +15,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 15
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|21 Oct|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Oct 2024|
+|22 Oct|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Oct 2024|
 
 
 ## Official Android 14	
