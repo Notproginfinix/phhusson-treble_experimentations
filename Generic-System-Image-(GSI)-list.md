@@ -20,7 +20,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 |Updated|Image|Maintainer|Links|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|22 Oct|FlexUI|FlexUITeam|[Telegram](https://t.me/FlexUITeamChat) / [Download](https://github.com/Doze-off/FlexUI/releases/tag/22.10.2024)|ARM64|Oct 2024|
+|22 Oct|FlexUI|FlexUITeam|[Telegram](https://t.me/FlexUITeamChat) / [Download](https://github.com/Doze-off/FlexUI/releases/tag/23.10.2024)|ARM64|Oct 2024|
 
 ## Official Android 14	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
