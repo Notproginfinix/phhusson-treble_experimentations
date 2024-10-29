@@ -16,12 +16,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |25 Oct|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Oct 2024|
 
-## Proprietary Android 15
-
-|Updated|Image|Maintainer|Links|Architecture|Security|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|22 Oct|FlexUI|FlexUITeam|[Telegram](https://t.me/FlexUITeamChat) / [Download](https://github.com/Doze-off/FlexUI/releases/tag/23.10.2024)|ARM64|Oct 2024|
-
 ## Official Android 14	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
