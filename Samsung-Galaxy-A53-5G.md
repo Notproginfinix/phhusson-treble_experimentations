@@ -107,6 +107,8 @@ If you've upgraded to an Android 14 GSI, you will encounter an issue where you w
 In case you encounter such an issue, you may want to downgrade to one Android 13 GSI. SMS sending works on Android 13 GSIs.
 
 ## GSI support
+Android 15 GSIs are NOT supported.
+
 Android 14 GSIs are supported (only VNDK). Bootloops while running on VNDKlite vendor.
 
 Android 13 GSIs are supported (only VNDK). Bootloops while running on VNDKlite vendor.
