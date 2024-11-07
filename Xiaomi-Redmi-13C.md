@@ -1,6 +1,8 @@
 # Redmi 13C (gale/gust)
 ![Redmi 13C](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13c.jpg)
 
+### NOTE: There already are ROMs for the Redmi 13C. Go use them instead of these unstable GSI's.
+
 ### Hardware support:
 - Camera: working
 - VoLTE: working (needs Phh Treble config)
