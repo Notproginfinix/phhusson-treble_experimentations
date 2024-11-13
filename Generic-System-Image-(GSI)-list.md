@@ -8,7 +8,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |08 Nov|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Nov 2024|
-|25 Sep|QPR1 Google GSI (Beta 3)|Google|[Download GMS](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-AP41.240925.009-12534705-8f4089d0.zip) / [Download NO GMS](https://dl.google.com/developers/android/vic/images/gsi/aosp_arm64-exp-AP41.240925.009-12534705-5d38ab36.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Sep 2024|
+|25 Oct|QPR2 Google GSI (Beta 1)|Google|[Download GMS](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-BP11.241025.006-12620009-64beafdc.zip) / [Download NO GMS](https://dl.google.com/developers/android/vic/images/gsi/aosp_arm64-exp-BP11.241025.006-12620009-f760c554.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Nov 2024|
 |18 Jul|Initial release Google GSI|Google|[Download](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-AP31.240617.009-12094726-732980f0.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jul 2024|
 
 ## Unofficial Android 15
