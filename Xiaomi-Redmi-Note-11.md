@@ -2,17 +2,27 @@
 
 Mostly working fine (see Hardware support bellow)
 
-- [AndyYan's unnoficial LineageOS 21 (TD-based): `lineage-21.0-20240217-UNOFFICIAL-arm64_bvN.img.xz`](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td/)
+- [AndyYan's unnoficial LineageOS 21 (TD-based): `lineage-21.0-20241018-UNOFFICIAL-arm64_bvN.img.gz`](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td/)
 - [AndyYan's unnoficial LineageOS 20 ("Light"): `lineage-20.0-20231116-UNOFFICIAL-arm64_bvN.img`](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)
 - [TrebleDroid's AOSP android_14.0.0_r17: `system-td-arm64-ab-vndklite-vanilla.img`](https://github.com/TrebleDroid/treble_experimentations/releases/tag/android_14.0.0_r17)
 
-# Steps to install
+# Preparation
 
 Download the [SDK Platform Tools](https://developer.android.com/tools/releases/platform-tools).
 
-```
-unxz your_gsi_rom_of_choice.img.xz
+Download and uncompress the image file:
 
+```
+# For `.gz` compressed files
+gzip -d your_gsi_rom_of_choice.gz
+
+# For `.xz` compressed files
+unxz your_gsi_rom_of_choice.img.xz
+```
+
+# Steps to install
+
+```
 # Flasb vbmeta
 wget https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img
 fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
@@ -29,10 +39,12 @@ fastboot reboot
 # Steps to update (if OTA is not working)
 
 ```
-unxz your_gsi_rom_of_choice.img.xz
+# Enter fastbootd
+fastboot reboot fastboot  # If this does not work: boot system and `adb reboot fastboot`
 
-fastboot reboot fastboot
+# Flash system
 fastboot flash system your_gsi_rom_of_choice.img
+fastboot reboot
 ```
 
 # Hardware Support post flashing
