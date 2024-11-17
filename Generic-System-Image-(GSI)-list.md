@@ -14,8 +14,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 15
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|08 Nov|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Nov 2024|
 |17 Nov|AOSP|Kanagawa Yamada|[Telegram](https://t.me/KanagawaLabCom) / [Download](https://github.com/LoggingNewMemory/KLC_OS/releases)|[GitHub](https://github.com/LoggingNewMemory/KLC_OS/)|ARM64|Nov 2024|
+|08 Nov|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Nov 2024|
 
 ## Official Android 14	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
@@ -30,7 +30,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 14	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|28 Oct|Evolution X|mytja|[Download](https://github.com/mytja/treble_evo/releases) / [Mirror 1](https://git.severkar.eu/mytja/treble_evo/releases)|[GitHub](https://github.com/mytja/treble_evo)|ARM64|Oct 2024|
+|17 Nov|Evolution X|mytja|[Download](https://github.com/mytja/treble_evo/releases) / [Mirror 1](https://git.severkar.eu/mytja/treble_evo/releases)|[GitHub](https://github.com/mytja/treble_evo)|ARM64|Nov 2024|
 |18 Oct|LineageOS TD-based|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-trebledroid-based.4654132//) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td//)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-td)|ARM64 - Binder|Oct 2024|
 |18 Oct|LineageOS "Light"|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-light)|ARM64|Oct 2024|
 |02 Oct|SuperiorOS (End of Life) |ChonDoit|[Telegram](https://t.me/elranchodecornelio/271) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases/tag/A14)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Sep 2024|
