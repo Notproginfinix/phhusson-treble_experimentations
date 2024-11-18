@@ -14,7 +14,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 15
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|17 Nov|AOSP|Kanagawa Yamada|[Telegram](https://t.me/KanagawaLabCom) / [Download](https://github.com/LoggingNewMemory/KLC_OS/releases)|[GitHub](https://github.com/LoggingNewMemory/KLC_OS/)|ARM64|Nov 2024|
+|17 Nov|KLC OS|Kanagawa Yamada|[Telegram](https://t.me/KanagawaLabCom) / [Download](https://github.com/LoggingNewMemory/KLC_OS/releases)|[GitHub](https://github.com/LoggingNewMemory/KLC_OS/)|ARM64|Nov 2024|
 |08 Nov|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Nov 2024|
 
 ## Official Android 14	
