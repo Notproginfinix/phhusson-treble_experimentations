@@ -1,1 +1,0 @@
-Need firmware file and TWRP recovery for infinix hot 50i X6531 ram 128/6 GB
