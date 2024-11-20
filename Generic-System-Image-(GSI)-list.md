@@ -1,6 +1,6 @@
 Here's a collection of available GSIs, in order to keep it easy to choose what you want.	
 
-- *Only use GSI images with an Android version that's higher or equal to the version of Android that came with your device. Or expert term, Only use GSI images with an Android API level that's higher or equal to the version of VNDK that came with your device (also apply updated VNDK on certain devices).*
+- *Only use GSI images with an Android version that's higher or equal to the version of Android that came with your device. Or expert term, Only use GSI images with an Android API level that's higher or equal to the version of VNDK that came with your device (also apply for updated VNDK on certain devices).*
 - *If your device uses VNDKLite, only use VNDKLite GSIs. To verify what image is right for your device, check the "Required Image" section of the [Treble Info](https://github.com/phhusson/treble_experimentations/wiki/Frequently-Asked-Questions-(FAQ)#how-can-i-check-if-my-device-is-treble-enabled) app.*
 - *All images here require a System-as-Root ("A/B") partition style, unless otherwise specified through a column.*
 
