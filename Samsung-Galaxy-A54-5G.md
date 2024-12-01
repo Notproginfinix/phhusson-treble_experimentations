@@ -52,7 +52,7 @@ Include useful info! For example: what to do if the system image is too large.
   120hz Refresh Rate | Working | Stutters sometimes if you have a PiP video playing<!-- If you enable... -->                                    |
 5G | Untested | No 5G in my country
 Fingerprint | Not working
-Auto Brightness | Not working
+Auto Brightness | Working
 Offline Charging | Not working | Stays on charging loading screen
 VoLTE | Untested | No VoLTE in my country
 |Adaptive Refresh Rate | Working partially| Some apps (for example: YouTube) will keep the refresh rate at 120hz
@@ -67,14 +67,16 @@ People are not interested in what works, so put what doesn't work first.
 # Compatibility
 - VNDKLite GSIs are NOT supported, you will end up in an infinite bootloop.
 - Android 14 QPR1, QPR2 and QPR3 GSIs are supported.
-- At the moment (Oct 18, 2024) Android 15 GSIs are NOT supported.
+- Android 15 GSIs are now supported as of December 1st, 2024
 
 * Tested By: Pokey8680 - SM-A546B (Europe),
 * Stock FW: A546BXXS9CXH7
-* @ Tested on Oct 8 - 18, 2024
+* @ Tested on Oct 8 - Dec 1, 2024
 # GSIs Tested
 ## Android 14
-* [Andy Yan's LineageOS 21, September Build (QPR3)](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td//)
+* [Andy Yan's LineageOS 21, November Build (QPR3)](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td//)
 * [Trebledroid CI Build](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20240508) 
 * [Ponces' AOSP](https://github.com/ponces/treble_aosp/releases/tag/v2024.08.16)
 * [Evolution X](https://github.com/mytja/treble_evo/releases)
+## Android 15
+- Ponces' AOSP
