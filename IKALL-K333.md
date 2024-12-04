@@ -48,7 +48,9 @@
   have to go to Setting > Display > Font or Display Text and Size, and then struggle a little bit playing around with the DPAD and screen to 
   enable USB debugging.
 
-### 4. Now your device is kinda ready to use, but some things do not work by default, see below.
+**4. Now your device is kinda ready to use, but some things do not work by default, see below.**
+
+***
 
 ## Missing Features
 
@@ -58,7 +60,9 @@
 
 - You can still play around with the device and new features.
 
-## Incase of any brick or mistakes, you can always use mtkclient, but make sure to backup your stock system and boot image first before doing anything.
+***
+
+## In case of any bricking or mistakes, you can always use mtkclient, but make sure to backup your stock system and boot image first before doing anything.
 
 Submitted by @FreezyKaif
 
