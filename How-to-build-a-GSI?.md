@@ -152,7 +152,7 @@ That's all ;)
 - And me (@yshalsager) for writing this guide :D	
 
 **Edit Notes:**
-- @Dualkem - added the build.sh build guide (point 7).
+- @Dualkem - ~added the build.sh build guide (~point 7~).~
 - @00p513-dev - Initial changes for 2021
 - @TQMatvey Updated everything to Android 12 and other minor tweaks
 - @evolutech7711 - Reworded some of the guide and removed outdated content (notably the build.sh build guide).
