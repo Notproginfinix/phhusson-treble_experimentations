@@ -2,6 +2,7 @@
 ![Redmi 13C](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13c.jpg)
 
 ### NOTE: There already are ROMs for the Redmi 13C. Go use them instead of these unstable GSI's.
+AOSP isn't unstable.
 
 ### Hardware support:
 - Camera: working
