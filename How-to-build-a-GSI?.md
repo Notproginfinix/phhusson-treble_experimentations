@@ -130,7 +130,7 @@ git am patch
 6. Lunch the [build variant](https://github.com/phhusson/treble_experimentations/blob/master/build.sh#L380) you want (ex. treble_arm64_avN-userdebug) and start the build
 
 ```
-.build/envsetup.sh
+. build/envsetup.sh
 lunch treble_arm64_avN-userdebug
 WITHOUT_CHECK_API=true make -j$(nproc) systemimage
 ```
