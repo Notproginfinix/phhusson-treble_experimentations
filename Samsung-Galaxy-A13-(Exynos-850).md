@@ -11,6 +11,8 @@ PREREQUISITES: SAMSUNG A13 (SM-A135F) ROOTED WITH MAGISK AND UNLOCKED BOOTLOADER
 
 [Link to LineageOS (GAPPS) By Andy Yan](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td/lineage-21.0-20241118-UNOFFICIAL-a64_bgN-signed.img.gz/download)
 
+[Link to AOSP (Only get arm32_binder64-ab-vanilla.img.xz)](https://github.com/TrebleDroid/treble_experimentations/releases)
+
 Disclaimer:
 
 I am not responsible for lost data, identity theft, lost money, security vulnerabilities, bricked devices or any other hardware or software malfunctions that comes as a result of trying these GSI flashing steps.
