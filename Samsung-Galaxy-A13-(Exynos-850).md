@@ -4,7 +4,7 @@ PREREQUISITES: SAMSUNG A13 (SM-A135F) ROOTED WITH MAGISK AND UNLOCKED BOOTLOADER
 
 Disclaimer:
 
-I am not responsible for lost data, identity theft, lost money, security vulnerabilities, bricked devices or any other hardware or software malfunctions that comes as a result of flashing this rom.
+I am not responsible for lost data, identity theft, lost money, security vulnerabilities, bricked devices or any other hardware or software malfunctions that comes as a result of trying these GSI flashing steps.
 BACKUP YOUR DATA AND OLD rom BEFORE trying these steps.
 
  *
