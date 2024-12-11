@@ -5,7 +5,11 @@
 > ***NOTE: provided solutions are NOT GUARANTEED to fix the issue, although they have been tested to work for most users***
 
 ## Can't listen to anything on phone calls
+### Solution 1
 Try disabling A2DP offload from phh settings in Settings and reboot
+
+### Solución 2
+Try enabling *"Disable "Voice Call In" route"* in phh settings > misc
 
 ## Maximum brightness is too low
 ### Solution 1
