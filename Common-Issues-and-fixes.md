@@ -8,7 +8,7 @@
 ### Solution 1
 Try disabling A2DP offload from phh settings in Settings and reboot
 
-### Solución 2
+### Solution 2
 Try enabling *"Disable "Voice Call In" route"* in phh settings > misc
 
 ## Maximum brightness is too low
