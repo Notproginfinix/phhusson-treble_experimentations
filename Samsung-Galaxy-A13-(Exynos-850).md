@@ -1,6 +1,7 @@
 # STEPS TO INSTALL GSI ON A SAMSUNG GALAXY A13 *SM-A135F*
-## TESTED WITH: AOSP BY TREBLEDROID, CRDROID, LINEAGEOS 21 TD BY ANDYYAN
+## TESTED WITH: AOSP BY TREBLEDROID, CRDROID, LINEAGEOS 21 TD BY ANDYYAN, AND PIXELOS!!
 PREREQUISITES: SAMSUNG A13 (SM-A135F) ROOTED WITH MAGISK AND UNLOCKED BOOTLOADER!!! <-- HIGHLY IMPORTANT
+
 
 
 [Link to TWRP](https://xdaforums.com/t/recovery-twrp-3-6-11-unofficial-for-samsung-a135f-a13.4485961/)
@@ -9,9 +10,11 @@ PREREQUISITES: SAMSUNG A13 (SM-A135F) ROOTED WITH MAGISK AND UNLOCKED BOOTLOADER
 
 [Link to LineageOS (Vanilla) By Andy Yan](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td/lineage-21.0-20241118-UNOFFICIAL-a64_bvS.img.gz/download)
 
-[Link to LineageOS (GAPPS) By Andy Yan](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td/lineage-21.0-20241118-UNOFFICIAL-a64_bgN-signed.img.gz/download)
+[Link to LineageOS (GAPPS) By Andy Yan](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td/lineage-21.0-20241118-UNOFFICIAL-a64_bgN-signed.img.gz/download
 
 [Link to AOSP (Only get arm32_binder64-ab-vanilla.img.xz)](https://github.com/TrebleDroid/treble_experimentations/releases)
+
+[Link to PixelOS Download](https://master.dl.sourceforge.net/project/thegsis/PixelOS/02032023/PixelOS-13-a64_bgN-UNOFFICIAL.img.xz?viasf=1)
 
 Disclaimer:
 
