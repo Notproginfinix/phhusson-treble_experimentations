@@ -45,7 +45,6 @@ With that out of the way, here are the steps, pretty straightforward.
 10. ENJOY!!!
 
 ### NOTE: Experimental - some features like calling do not work, I am currently looking for a fix to all mobile data/calling related features. 
- Update: Inside some buildings, not much signal is received (thank you australian sim providers).  MESSAGING HAS WORKED!! Inside a building,  messaging/calling isnt really needed, and if you need it, you can use an app like whatsapp on a wifi network.
- Update 2. Leaving the house, going somewhere for a bit, a perfect opportunity to test outside calls/texts. Will post an update if it works.
+Update: Calling/VOLTE is broken?? with flossims. Use whatsapp or data to call/text. Messaging works though.
 
 Credits: All CRdroid/GSI devs, mcrazymanu for the TWRP and magisk for the root step, extra credits goes out to anyone involved in development for this phone/chipset (eg. physwizz)
